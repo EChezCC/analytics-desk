@@ -1,0 +1,90 @@
+{
+ "method": "Linear: (last - first) / days between first and last point in snapshots.json; projected = last date + remaining / rate. Needs >= 3 points. Subs = Studio exact by reading day (missing days skipped). Hours = Studio Earn by meter \"as of\" date (each reading lags ~5 days).",
+ "source": "data/morntide/snapshots.json",
+ "metrics": [
+  {
+   "metric": "Subscribers",
+   "goal": 1000,
+   "unit": "subs",
+   "points": [
+    {
+     "day": "2026-10-14",
+     "value": 499
+    },
+    {
+     "day": "2026-10-15",
+     "value": 499
+    },
+    {
+     "day": "2026-10-16",
+     "value": 501
+    },
+    {
+     "day": "2026-10-17",
+     "value": 501
+    },
+    {
+     "day": "2026-10-18",
+     "value": 499
+    },
+    {
+     "day": "2026-10-19",
+     "value": 499
+    },
+    {
+     "day": "2026-10-20",
+     "value": 499
+    },
+    {
+     "day": "2026-10-22",
+     "value": 501
+    }
+   ],
+   "rate_per_day": 0.25,
+   "window": "2026-10-14 to 2026-10-22 (8 days)",
+   "last": 501,
+   "projected": "2032-04-09",
+   "status": "projected"
+  },
+  {
+   "metric": "Public watch hours",
+   "goal": 4000,
+   "unit": "h",
+   "points": [
+    {
+     "day": "2026-10-09",
+     "value": 926
+    },
+    {
+     "day": "2026-10-10",
+     "value": 930
+    },
+    {
+     "day": "2026-10-11",
+     "value": 930
+    },
+    {
+     "day": "2026-10-12",
+     "value": 931
+    },
+    {
+     "day": "2026-10-13",
+     "value": 931
+    },
+    {
+     "day": "2026-10-15",
+     "value": 938
+    },
+    {
+     "day": "2026-10-17",
+     "value": 946
+    }
+   ],
+   "rate_per_day": 2.5,
+   "window": "2026-10-09 to 2026-10-17 (8 days)",
+   "last": 946,
+   "projected": "2030-02-20",
+   "status": "projected"
+  }
+ ]
+}

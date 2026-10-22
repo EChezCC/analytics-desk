@@ -13,7 +13,7 @@ async function show(slug) {
   const c = channels.find(x => x.slug === slug); location.hash = slug;
   document.querySelectorAll('nav button').forEach(b => b.setAttribute('aria-selected', b.dataset.slug === slug));
   const base = 'data/' + slug + '/';
-  const [L, S, T, Y] = await Promise.all(['latest','snapshots','tracking','ypp'].map(f => get(base + f + '.json')));
+  const [L, S, T, Y, P] = await Promise.all(['latest','snapshots','tracking','ypp','pace'].map(f => get(base + f + '.json')));
   const k = L?.kpis || {}, snap = (S || [])[0] || {};
   $('meta').textContent = `${c.name} · ${c.handle} · Studio reading ${L?.day ?? '—'} · public feed ${T?.fetched ?? '—'}`;
   $('kpis').innerHTML = [['Subscribers', k.subs, 'Studio exact, ' + L?.day], ['Watch hours (Earn, 365d)', k.earn, 'Studio Earn' + (snap.earn_as_of ? ', as of ' + snap.earn_as_of : '')],
@@ -27,6 +27,11 @@ async function show(slug) {
   $('pace-card').hidden = !Y;
   if (Y) $('pace').innerHTML = `<p class="muted">${esc(Y.hours_note || '')}</p>` + table(['Checkpoint', 'Target', 'Projected', 'Status'],
     (Y.checkpoints || []).map(p => `<tr><td>${fmt(p.hours)} h</td><td>${p.target}</td><td>${p.projected}</td><td>${esc(p.status)}</td></tr>`));
+  $('ypace-card').hidden = !P;
+  if (P) $('ypace').innerHTML = (P.metrics || []).map(m => `<div class="meter"><b>${esc(m.metric)}: ${fmt(m.last ?? m.points.at(-1)?.value)} / ${fmt(m.goal)}</b>
+    <div>${m.projected ? `Rate ${m.rate_per_day} ${m.unit}/day · projected ${m.goal.toLocaleString('en-US')} on <b>${m.projected}</b>` : `<b>${esc(m.status)}</b>`}</div>
+    <div class="muted">Points used (${m.points.length}${m.window ? ', ' + m.window : ''}): ${m.points.map(p => p.day.slice(5) + ' ' + fmt(p.value)).join(' · ')}</div></div>`).join('')
+    + `<p class="muted">Method: ${esc(P.method)} Source: ${esc(P.source)}.</p>`;
   $('snaps').innerHTML = table(['Day', 'Subs', 'Earn h', 'Views 7d', 'Hours 7d', 'Views 28d', 'Hours 28d'],
     (S || []).map(s => `<tr><td>${s.day}</td><td class="n">${fmt(s.subs)}</td><td class="n">${fmt(s.earn)}</td><td class="n">${fmt(s.views7)}</td><td class="n">${fmt(s.an7)}</td><td class="n">${fmt(s.views28)}</td><td class="n">${fmt(s.an28)}</td></tr>`));
   const vids = (list, tagged) => list.map(v => `<tr><td><a href="${yt(v.id)}" target="_blank" rel="noopener">${esc(v.title)}</a>${tagged && v.tag ? `<span class="tag">${esc(v.tag)}</span>` : ''}${v.live === 'is_live' ? '<span class="tag">LIVE</span>' : ''}</td><td class="n">${dur(v.duration)}</td><td class="n">${fmt(v.views)}</td></tr>`);
