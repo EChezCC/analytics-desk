@@ -1,5 +1,11 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Analytics Desk</title><link rel="icon" href="data:,"><link rel="stylesheet" href="style.css"></head><body>
+<title>Analytics Desk</title><link rel="icon" href="data:,"><script>
+// Theme: follow prefers-color-scheme; with no preference, dark 7 PM to 7 AM local time, light otherwise.
+(function () { const q = s => matchMedia('(prefers-color-scheme: ' + s + ')');
+  const pick = () => { const d = q('dark').matches, l = q('light').matches, hr = new Date().getHours();
+    document.documentElement.dataset.theme = d ? 'dark' : l ? 'light' : (hr >= 19 || hr < 7 ? 'dark' : 'light'); };
+  pick(); q('dark').addEventListener('change', pick); q('light').addEventListener('change', pick); })();
+</script><link rel="stylesheet" href="style.css"></head><body>
 <header><div class="brand"><span class="dot"></span><div><h1>Analytics Desk</h1><p id="meta" class="muted"></p></div></div><nav id="tabs" role="tablist"></nav></header>
 <main id="view" aria-live="polite"></main>
 <footer class="muted" id="src"></footer>
