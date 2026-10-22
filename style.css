@@ -48,12 +48,9 @@ th.n{text-align:right}
 .vb .col{flex:1 1 0;min-width:0;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;cursor:pointer;outline:none}
 .vb .b{display:block;width:72%;min-height:1px;background:var(--bar);border-radius:1px}.vb .b.cur{background:var(--cur);transform-origin:bottom;animation:grow .8s ease-out}
 .vb .col:hover .b,.vb .col:focus .b{opacity:.75}
-.vb .val{font-size:10px;color:var(--txt);margin-bottom:3px;white-space:nowrap;font-variant-numeric:tabular-nums}
 .vb .x{font-size:10px;color:var(--mut);height:16px;line-height:16px;margin-top:4px;white-space:nowrap}
-.vb.dense .val{writing-mode:vertical-rl;transform:rotate(180deg);font-size:9px;margin-bottom:4px}
 .vb.dense .x{font-size:9px}
 @keyframes growx{from{transform:scaleY(0)}}
 .hb{cursor:pointer;outline:none}.hb:focus .t{text-decoration:underline}
 .tip{position:fixed;z-index:20;pointer-events:none;background:var(--pill);color:var(--pilltx);font-size:11px;padding:3px 8px;border-radius:6px;white-space:nowrap;max-width:90vw;overflow:hidden;text-overflow:ellipsis}
-@media(max-width:640px){.vb{height:170px;gap:2px}.vb .val{font-size:9px}.vb.dense .val{font-size:8px}.vb .x{font-size:8px}}
 .vb .bw{flex:1 1 0;min-height:0;width:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center}
