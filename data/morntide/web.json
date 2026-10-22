@@ -1,0 +1,98 @@
+{
+ "domain": "morntidemusic.com",
+ "range": {
+  "start": "2026-09-24",
+  "end": "2026-10-21"
+ },
+ "ga4_note": "lookup failed: Admin API 403: Google Analytics Admin API has not been used in project 520764993277 before or it is disabled. Enable it by visiting htt; using seo-api configured ID 558780885 (name not verified)",
+ "ga4_property": "558780885",
+ "ga4": {
+  "users": 50,
+  "sessions": 53,
+  "pageviews": 55,
+  "daily": [
+   {
+    "day": "2026-10-13",
+    "users": 10,
+    "sessions": 10,
+    "pageviews": 11
+   },
+   {
+    "day": "2026-10-14",
+    "users": 2,
+    "sessions": 2,
+    "pageviews": 2
+   },
+   {
+    "day": "2026-10-16",
+    "users": 2,
+    "sessions": 3,
+    "pageviews": 3
+   },
+   {
+    "day": "2026-10-17",
+    "users": 5,
+    "sessions": 5,
+    "pageviews": 5
+   },
+   {
+    "day": "2026-10-18",
+    "users": 1,
+    "sessions": 1,
+    "pageviews": 1
+   },
+   {
+    "day": "2026-10-19",
+    "users": 2,
+    "sessions": 3,
+    "pageviews": 3
+   },
+   {
+    "day": "2026-10-20",
+    "users": 11,
+    "sessions": 12,
+    "pageviews": 13
+   },
+   {
+    "day": "2026-10-21",
+    "users": 17,
+    "sessions": 17,
+    "pageviews": 17
+   }
+  ],
+  "top_pages": [
+   {
+    "page": "/",
+    "views": 55,
+    "users": 50
+   }
+  ],
+  "sources": [
+   {
+    "channel": "Direct",
+    "sessions": 43
+   },
+   {
+    "channel": "Organic Search",
+    "sessions": 7
+   },
+   {
+    "channel": "Organic Video",
+    "sessions": 3
+   }
+  ]
+ },
+ "gsc": {
+  "property": "https://morntidemusic.com/",
+  "clicks": 1,
+  "impressions": 9,
+  "top_queries": [
+   {
+    "query": "morntide",
+    "clicks": 0,
+    "impressions": 6,
+    "position": 2
+   }
+  ]
+ }
+}

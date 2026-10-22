@@ -14,6 +14,7 @@ const OPTIONAL = { chezerecta: ['ypp'], morntide: ['pace'] };
 async function show(slug) {
   const c = channels.find(x => x.slug === slug); location.hash = slug;
   document.querySelectorAll('nav button').forEach(b => b.setAttribute('aria-selected', b.dataset.slug === slug));
+  if (c.web_only) return; // web.js renders web-only entries
   const base = 'data/' + slug + '/';
   const extra = OPTIONAL[slug] || [];
   const opt = f => extra.includes(f) ? get(base + f + '.json') : Promise.resolve(null);

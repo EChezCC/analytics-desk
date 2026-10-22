@@ -1,0 +1,152 @@
+{
+ "domain": "djchezerecta.com",
+ "range": {
+  "start": "2026-09-24",
+  "end": "2026-10-21"
+ },
+ "ga4_property": "558598980",
+ "ga4": {
+  "users": 526,
+  "sessions": 531,
+  "pageviews": 540,
+  "daily": [
+   {
+    "day": "2026-10-12",
+    "users": 13,
+    "sessions": 13,
+    "pageviews": 14
+   },
+   {
+    "day": "2026-10-13",
+    "users": 466,
+    "sessions": 468,
+    "pageviews": 475
+   },
+   {
+    "day": "2026-10-14",
+    "users": 7,
+    "sessions": 8,
+    "pageviews": 8
+   },
+   {
+    "day": "2026-10-15",
+    "users": 10,
+    "sessions": 10,
+    "pageviews": 10
+   },
+   {
+    "day": "2026-10-16",
+    "users": 5,
+    "sessions": 5,
+    "pageviews": 5
+   },
+   {
+    "day": "2026-10-17",
+    "users": 9,
+    "sessions": 10,
+    "pageviews": 11
+   },
+   {
+    "day": "2026-10-18",
+    "users": 5,
+    "sessions": 5,
+    "pageviews": 5
+   },
+   {
+    "day": "2026-10-19",
+    "users": 3,
+    "sessions": 4,
+    "pageviews": 4
+   },
+   {
+    "day": "2026-10-21",
+    "users": 8,
+    "sessions": 8,
+    "pageviews": 8
+   }
+  ],
+  "top_pages": [
+   {
+    "page": "/",
+    "views": 91,
+    "users": 85
+   },
+   {
+    "page": "/es/",
+    "views": 10,
+    "users": 8
+   },
+   {
+    "page": "/player/",
+    "views": 10,
+    "users": 9
+   },
+   {
+    "page": "/2pointzero",
+    "views": 4,
+    "users": 4
+   },
+   {
+    "page": "/abrechnungs-gmbh",
+    "views": 4,
+    "users": 4
+   },
+   {
+    "page": "/acgcardservices",
+    "views": 4,
+    "users": 4
+   },
+   {
+    "page": "/acuityinc",
+    "views": 4,
+    "users": 4
+   },
+   {
+    "page": "/airalo",
+    "views": 4,
+    "users": 4
+   },
+   {
+    "page": "/anbtx",
+    "views": 4,
+    "users": 4
+   },
+   {
+    "page": "/bancobice",
+    "views": 4,
+    "users": 4
+   }
+  ],
+  "sources": [
+   {
+    "channel": "Direct",
+    "sessions": 522
+   },
+   {
+    "channel": "Organic Social",
+    "sessions": 5
+   },
+   {
+    "channel": "Organic Search",
+    "sessions": 2
+   },
+   {
+    "channel": "Organic Video",
+    "sessions": 2
+   }
+  ]
+ },
+ "gsc": {
+  "property": "sc-domain:djchezerecta.com",
+  "clicks": 1,
+  "impressions": 22,
+  "top_queries": [
+   {
+    "query": "cumbia mix 2026",
+    "clicks": 0,
+    "impressions": 4,
+    "position": 8.8
+   }
+  ]
+ }
+}
