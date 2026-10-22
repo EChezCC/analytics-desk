@@ -6,7 +6,8 @@ const yt = id => 'https://www.youtube.com/watch?v=' + id;
 const dur = s => s ? (s >= 3600 ? (s/3600).toFixed(1) + ' h' : Math.round(s/60) + ' min') : '';
 const $ = id => document.getElementById(id);
 const get = u => fetch(u).then(r => r.ok ? r.json() : null).catch(() => null);
-const table = (head, rows) => rows.length ? `<table><tr>${head.map(h => `<th>${h}</th>`).join('')}</tr>${rows.join('')}</table>` : na('No rows', 'The data file has no entries for this list.');
+// numFrom: index of the first right-aligned (numeric) column; headers from there on align with their td.n values.
+const table = (head, rows, numFrom = Infinity) => rows.length ? `<table><tr>${head.map((h, i) => `<th${i >= numFrom ? ' class="n"' : ''}>${h}</th>`).join('')}</tr>${rows.join('')}</table>` : na('No rows', 'The data file has no entries for this list.');
 const na = (title, why) => `<div class="na"><b>${esc(title)}</b><span>${esc(why)}</span></div>`;
 const upd = (label, t) => t ? `<span class="upd" title="${esc(label)} from data file">${esc(label)} ${esc(t)}</span>` : '';
 const card = (title, sub, body, cls = '', pill = '') => `<section class="card ${cls}"><div class="hd"><h2>${title}</h2><span class="r">${sub ? `<span class="muted">${sub}</span>` : ''}${pill}</span></div>${body}</section>`;
@@ -125,7 +126,7 @@ async function show(slug) {
   const vids = (list, tagged) => list.map(v => `<tr><td><a href="${yt(v.id)}" target="_blank" rel="noopener">${esc(v.title)}</a>${tagged && v.tag ? tag(v.tag, 'acc') : ''}${v.live === 'is_live' ? tag('LIVE', 'bad') : ''}</td><td class="n">${dur(v.duration)}</td><td class="n">${fmt(v.views)}</td></tr>`);
   h += `<div class="grid two">` + card('Uploads', up.length + ' public', `<div class="scroll">${table(['Title', 'Length', 'Views'], vids(up))}</div>`)
     + card('Lives', lv.length + ' public' + (c.live_tag ? ` · ${lv.filter(s => s.tag).length} ${esc(c.live_tag)}` : ''), `<div class="scroll">${table(['Title', 'Length', 'Views'], vids(lv, true))}</div>`) + `</div>`;
-  h += card('Snapshots', (S || []).length + ' days', `<div class="scroll">${table(['Day', 'Subs', 'Earn h', 'Views 7d', 'Hours 7d', 'Views 28d', 'Hours 28d'], (S || []).map(s => `<tr><td>${s.day}</td><td class="n">${fmt(s.subs)}</td><td class="n">${fmt(s.earn)}</td><td class="n">${fmt(s.views7)}</td><td class="n">${fmt(s.an7)}</td><td class="n">${fmt(s.views28)}</td><td class="n">${fmt(s.an28)}</td></tr>`))}</div>`);
+  h += card('Snapshots', (S || []).length + ' days', `<div class="scroll">${table(['Day', 'Subs', 'Earn h', 'Views 7d', 'Hours 7d', 'Views 28d', 'Hours 28d'], (S || []).map(s => `<tr><td>${s.day}</td><td class="n">${fmt(s.subs)}</td><td class="n">${fmt(s.earn)}</td><td class="n">${fmt(s.views7)}</td><td class="n">${fmt(s.an7)}</td><td class="n">${fmt(s.views28)}</td><td class="n">${fmt(s.an28)}</td></tr>`), 1)}</div>`);
   h += await webSection(slug);
   $('view').innerHTML = h;
   S_cur = S || []; drawTrend(); countUp();
