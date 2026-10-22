@@ -18,15 +18,15 @@ const tag = (s, cls) => `<span class="tag ${cls}">${esc(s)}</span>`;
 const hbars = (rows, label, value, link) => {
   rows = rows.filter(r => r[value] != null); if (!rows.length) return null;
   const mx = Math.max(...rows.map(r => r[value]), 1);
-  return `<div class="hbars">${rows.map(r => `<div class="hb"><span class="t" title="${esc(r[label])}">${link ? `<a href="${esc(link(r))}" target="_blank" rel="noopener">${esc(r[label])}</a>` : esc(r[label])}</span><span class="v">${fmt(r[value])}</span><span class="tr"><i style="width:${(r[value]/mx*100).toFixed(1)}%"></i></span></div>`).join('')}</div>`;
+  return `<div class="hbars">${rows.map(r => `<div class="hb" tabindex="0" data-tip="${esc(r[label])}: ${fmt(r[value])}"><span class="t" title="${esc(r[label])}">${link ? `<a href="${esc(link(r))}" target="_blank" rel="noopener">${esc(r[label])}</a>` : esc(r[label])}</span><span class="v">${fmt(r[value])}</span><span class="tr"><i style="width:${(r[value]/mx*100).toFixed(1)}%"></i></span></div>`).join('')}</div>`;
 };
-// Vertical SVG bar chart: pts = [{x:'MM-DD', y}] (only reported points).
+// Vertical bar chart (HTML, so labels stay legible at any width): pts = [{x:'MM-DD', y}] (only reported points).
+// Every bar carries its value; dense charts rotate the value labels. Tap/hover shows a tooltip (data-tip).
 const vbars = pts => {
   if (!pts.length) return null;
-  const W = 600, H = 200, L = 0, B = 20, mx = Math.max(...pts.map(p => p.y), 1), bw = (W - L) / pts.length, ev = Math.ceil(pts.length / 8);
-  return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img">${pts.map((p, i) => { const h = p.y/mx*(H-B-14), last = i === pts.length - 1;
-    return (last ? `<text x="${(L + i*bw + bw/2).toFixed(1)}" y="${(H-B-h-4).toFixed(1)}" text-anchor="middle">${fmt(p.y)}</text>` : '') + `<rect class="b${last ? ' cur' : ''}" rx="1" x="${(L + i*bw + bw*.15).toFixed(1)}" y="${(H-B-h).toFixed(1)}" width="${(bw*.7).toFixed(1)}" height="${h.toFixed(1)}"><title>${p.x}: ${fmt(p.y)}</title></rect>`
-      + (i % ev === 0 || i === pts.length - 1 ? `<text x="${(L + i*bw + bw/2).toFixed(1)}" y="${H-5}" text-anchor="middle">${p.x}</text>` : ''); }).join('')}</svg>`;
+  const mx = Math.max(...pts.map(p => p.y), 1), dense = pts.length > 12, ev = Math.ceil(pts.length / (dense ? 7 : 12));
+  return `<div class="vb${dense ? ' dense' : ''}" role="img">${pts.map((p, i) => { const last = i === pts.length - 1;
+    return `<div class="col" tabindex="0" data-tip="${esc(p.x)}: ${fmt(p.y)}" aria-label="${esc(p.x)}: ${fmt(p.y)}"><span class="bw"><span class="val">${dense ? short(p.y) : fmt(p.y)}</span><i class="b${last ? ' cur' : ''}" style="height:${(p.y/mx*(dense ? 72 : 85)).toFixed(1)}%"></i></span><span class="x">${i % ev === 0 || last ? esc(p.x) : ''}</span></div>`; }).join('')}</div>`;
 };
 // Line chart over reported points only; gaps are skipped, never interpolated.
 const line = pts => {
@@ -55,6 +55,15 @@ function daily(S, key, title) {
   return card(title, `${rows.length} day${rows.length > 1 ? 's' : ''} with data`, vbars(rows.map(r => ({ x: r.day.slice(5), y: r[key] })))
     + `<p class="muted">Days without a ${key} value are not plotted.</p>`, '', upd('Latest', rows.at(-1).day));
 }
+// One tooltip for every [data-tip] element: hover on desktop, tap on touch screens.
+const tip = document.createElement('div'); tip.className = 'tip'; tip.hidden = true; document.body.appendChild(tip);
+const showTip = el => { tip.textContent = el.dataset.tip; tip.hidden = false; const r = el.getBoundingClientRect(), w = tip.offsetWidth;
+  tip.style.left = Math.max(4, Math.min(innerWidth - w - 4, r.left + r.width/2 - w/2)) + 'px'; tip.style.top = Math.max(4, r.top - tip.offsetHeight - 6) + 'px'; };
+document.addEventListener('pointerover', e => { const el = e.target.closest?.('[data-tip]'); if (el && e.pointerType === 'mouse') showTip(el); });
+document.addEventListener('pointerout', e => { if (e.pointerType === 'mouse' && e.target.closest?.('[data-tip]')) tip.hidden = true; });
+document.addEventListener('click', e => { const el = e.target.closest('[data-tip]'); if (el && !e.target.closest('a')) showTip(el); else tip.hidden = true; });
+document.addEventListener('focusin', e => { const el = e.target.closest?.('[data-tip]'); if (el) showTip(el); });
+addEventListener('scroll', () => { tip.hidden = true; }, { passive: true });
 let channels = [];
 // Only files that exist are requested (no 404s).
 const OPTIONAL = { chezerecta: ['ypp'], morntide: ['pace'] };
