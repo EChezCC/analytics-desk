@@ -9,11 +9,15 @@ const meter = (label, val, goal, src) => `<div class="meter"><div class="top"><b
  <div class="bar"><i style="width:${Math.min(100,(val||0)/goal*100)}%"></i></div><div class="muted">${src}</div></div>`;
 
 let channels = [];
+// Optional per-channel files; only these are requested, so no 404s. Missing ones render as empty quietly.
+const OPTIONAL = { chezerecta: ['ypp'], morntide: ['pace'] };
 async function show(slug) {
   const c = channels.find(x => x.slug === slug); location.hash = slug;
   document.querySelectorAll('nav button').forEach(b => b.setAttribute('aria-selected', b.dataset.slug === slug));
   const base = 'data/' + slug + '/';
-  const [L, S, T, Y, P] = await Promise.all(['latest','snapshots','tracking','ypp','pace'].map(f => get(base + f + '.json')));
+  const extra = OPTIONAL[slug] || [];
+  const opt = f => extra.includes(f) ? get(base + f + '.json') : Promise.resolve(null);
+  const [L, S, T, Y, P] = await Promise.all([get(base + 'latest.json'), get(base + 'snapshots.json'), get(base + 'tracking.json'), opt('ypp'), opt('pace')]);
   const k = L?.kpis || {}, snap = (S || [])[0] || {};
   $('meta').textContent = `${c.name} · ${c.handle} · Studio reading ${L?.day ?? '—'} · public feed ${T?.fetched ?? '—'}`;
   $('kpis').innerHTML = [['Subscribers', k.subs, 'Studio exact, ' + L?.day], ['Watch hours (Earn, 365d)', k.earn, 'Studio Earn' + (snap.earn_as_of ? ', as of ' + snap.earn_as_of : '')],
