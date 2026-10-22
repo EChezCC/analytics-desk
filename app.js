@@ -48,6 +48,13 @@ function countUp() {
       el.textContent = f < 1 ? (n * e).toLocaleString('en-US', { maximumFractionDigits: dec, minimumFractionDigits: dec }) : fmt(n); if (f < 1) requestAnimationFrame(step); };
     requestAnimationFrame(step); });
 }
+// Per-day bars from snapshots.json day_views / day_watch_hours (added by YCM from the Oct 23 pull). Only real numbers; gaps are skipped.
+function daily(S, key, title) {
+  const rows = [...(S || [])].filter(r => r.day && typeof r[key] === 'number' && isFinite(r[key])).sort((a, b) => a.day < b.day ? -1 : 1);
+  if (!rows.length) return card(title, '', na('Collecting daily data — starts Oct 23', `snapshots.json has no ${key} values yet.`));
+  return card(title, `${rows.length} day${rows.length > 1 ? 's' : ''} with data`, vbars(rows.map(r => ({ x: r.day.slice(5), y: r[key] })))
+    + `<p class="muted">Days without a ${key} value are not plotted.</p>`, '', upd('Latest', rows.at(-1).day));
+}
 let channels = [];
 // Only files that exist are requested (no 404s).
 const OPTIONAL = { chezerecta: ['ypp'], morntide: ['pace'] };
@@ -110,8 +117,7 @@ async function show(slug) {
   // Trends
   h += card('Trend', 'daily snapshots', `<div class="seg" id="trend-seg" style="margin-bottom:10px">${TREND.map(([key, l]) => `<button data-k="${key}">${l}</button>`).join('')}</div><div id="trend"></div>`, '', upd('Updated', snap.day));
   h += `<div class="grid two">`
-    + card('Views per day', '', na('Daily views unavailable', 'The data files hold only rolling 7d / 28d view totals per snapshot, not per-day views.'))
-    + card('Watch hours per day', '', na('Daily watch hours unavailable', 'The data files hold only rolling 7d / 28d hours and the Earn meter, not per-day hours.')) + `</div>`;
+    + daily(S, 'day_views', 'Views per day') + daily(S, 'day_watch_hours', 'Watch hours per day') + `</div>`;
   // Top content
   const up = T?.uploads || [], lv = T?.streams || [];
   h += `<div class="grid two">` + card('Top content', 'lifetime views', hbars((L?.content || []).slice(0, 10), 'title', 'views', r => yt(r.id)) || na('Top content unavailable', 'latest.json has no content list.'), '', upd('Updated', L?.day))
