@@ -1,0 +1,177 @@
+{
+ "goal_hours": 4000,
+ "deadline": "2026-12-25",
+ "pace_start": {
+  "day": "2026-10-16",
+  "hours": 629
+ },
+ "hours_note": "Hours = Studio Earn qualified public watch hours (365d) only, never API. Seed 667 (Studio 629 + unverified API accrual) replaced 2026-10-17 with Studio 629 (read Oct 16, as of Oct 11). Each daily row's figure lags Studio's 'as of' date by ~5 days. Model: /workspace/analytics/ypp-path-20261016/REPORT.md",
+ "checkpoints": [
+  {
+   "hours": 1000,
+   "by": "2026-10-23",
+   "old_by": "2026-11-01",
+   "days_from_as_of": 7.0,
+   "target": "2026-11-01",
+   "projected": "2026-10-23",
+   "status": "on track",
+   "days_vs_target": -9
+  },
+  {
+   "hours": 2000,
+   "by": "2026-11-28",
+   "old_by": "2026-11-22",
+   "days_from_as_of": 43.4,
+   "target": "2026-11-22",
+   "projected": "2026-11-28",
+   "status": "behind",
+   "days_vs_target": 6
+  },
+  {
+   "hours": 3000,
+   "by": "2027-01-03",
+   "old_by": "2026-12-10",
+   "days_from_as_of": 79.7,
+   "target": "2026-12-25",
+   "projected": "2027-01-03",
+   "status": "behind",
+   "days_vs_target": 9
+  },
+  {
+   "hours": 4000,
+   "by": "2027-02-08",
+   "old_by": "2026-12-25",
+   "days_from_as_of": 116.0,
+   "target": "2026-12-25",
+   "projected": "2027-02-08",
+   "status": "behind",
+   "days_vs_target": 45
+  }
+ ],
+ "daily": [
+  {
+   "day": "2026-10-16",
+   "hours": 629,
+   "added24": null,
+   "mixes": 1,
+   "shorts": 0,
+   "live": false,
+   "subs": 3847,
+   "note": "~90 h/week recent pace; salsa mix Public 8 PM ET; hours = Studio 629 (as of Oct 11), seed 667 replaced Oct 17"
+  },
+  {
+   "day": "2026-10-17",
+   "hours": 661.0,
+   "added24": 32.0,
+   "mixes": 4,
+   "shorts": 4,
+   "live": true,
+   "subs": 3859,
+   "note": "Studio Earn 661 (as of Oct 12; read 9:00 AM ET). Last 24h by Data API: mixes Salsa s_BJgq_jikE + Cumbia XKPWroPWP7s Public, Merengue QkzzL15urq8 + Afro House 3sUVQHF7mV0 uploaded (scheduled); Afro private dup Szqf_MYmQhM not counted. Shorts BkL2eDsJJ_M, rU5ZAAzqmik Public; Tp4HvW2QgfM, mUkG6SOEmYQ scheduled. Live Fri Bachata xlcRy0PuTao 7:00 PM-12:03 AM ET. Subs Studio 3,859 (API 3,850)."
+  },
+  {
+   "day": "2026-10-18",
+   "hours": 667.0,
+   "added24": 6.0,
+   "mixes": 3,
+   "shorts": 3,
+   "live": true,
+   "subs": 3863,
+   "note": "Studio Earn 667 (as of Oct 13; Studio re-read ~9:05 AM ET, screenshot files not resolved on box). Last 24h by Data API (new since yesterday's row): Deep House T31mIrSb1aQ Public 12 PM ET Oct 17, Cumbias Viejitas iTLQHr6Vnro + Dembow RofmB1yJyNQ uploaded (scheduled Oct 18 12 PM / 2 PM ET); Afro House 3sUVQHF7mV0 went Public 9 PM ET (counted yesterday). Shorts vT_eK8oX75g Public; 2dV2RMOiz_Y, l3zb875GAiw uploaded (scheduled); mUkG6SOEmYQ Public (counted yesterday). Live Sat Caribbean Rhythm Session K16ifB-VnnI 7:00-7:29 PM ET + WuiPjl2MKGY 9:54-10:20 PM ET. Subs Studio 3,863 (API 3,860)."
+  },
+  {
+   "day": "2026-10-19",
+   "hours": 667.0,
+   "added24": 0.0,
+   "mixes": 1,
+   "shorts": 0,
+   "live": true,
+   "subs": 3878,
+   "note": "Studio Earn 667 (as of Oct 14; read ~8:53 AM ET, CURRENT; flat vs Oct 13). Last 24h by Data API (new since yesterday's row): Halloween Reggaeton Mix 2026 _stz9sNJrRY uploaded Private, scheduled Public Oct 23 2 PM ET. Merengue QkzzL15urq8 went Public 4 PM ET Oct 18 (counted Oct 17); Cumbias Viejitas iTLQHr6Vnro + Dembow RofmB1yJyNQ went Public Oct 18 (counted yesterday). No new Shorts (Tp4HvW2QgfM, 2dV2RMOiz_Y, l3zb875GAiw went Public Oct 18, counted earlier). Live Sun After Hours Bolero Session mRybqt2ZgNw 5:59 PM-11:55 PM ET. Subs Studio 3,878 (API 3,870)."
+  },
+  {
+   "day": "2026-10-20",
+   "hours": 744.0,
+   "added24": 77.0,
+   "mixes": 1,
+   "shorts": 1,
+   "live": false,
+   "subs": 3883,
+   "note": "Studio Earn 744 (as of Oct 15; read ~8:54-8:59 AM ET, CURRENT; +77 vs 667 as of Oct 14; on-screen target now shows 3,000). Last 24h by Data API (new since yesterday's row): Baladas Pop en Español Mix 8VvpLdEkNrM uploaded and Public 7:43 PM ET Oct 19. Short nJdMcSP9sQY (La Luz) uploaded Private, scheduled 9 PM ET Oct 20. La Luz de Tu Ventana rFyM_O4LlRU (4-min single video, not a mix) uploaded Private, scheduled 8 PM ET Oct 20, not counted as a mix. No live Mon Oct 19 (Thu-Sun only). No mix at 7 or 14 days past Public today. Subs Studio 3,883 (API 3,880)."
+  },
+  {
+   "day": "2026-10-21",
+   "hours": 806.0,
+   "added24": 62.0,
+   "mixes": 2,
+   "shorts": 1,
+   "live": false,
+   "subs": 3886,
+   "note": "Studio Earn 806 (as of Oct 16; read ~8:50-9:02 AM ET, CURRENT; +62 vs 744 as of Oct 15). Last 24h by Data API (new since yesterday's row): Salsa Romantica Viejitas Pero Bonitas mix ALNzuwY2lVM uploaded and Public ~8:58 AM ET Oct 21; Salsa Romantica para Bailar x3tGpWdWlW0 uploaded Private, unscheduled (counted as uploaded); QanD4tSiFGE (0-length Private, same title as ALNzuwY2lVM) not counted. Short CUOEFRruWA4 Public; nJdMcSP9sQY went Public 9 PM ET Oct 20 (counted yesterday). La Luz rFyM_O4LlRU went Public 8 PM ET Oct 20 (single, not a mix). No live Tue Oct 20 (Thu-Sun only). No mix at 7 or 14 days past Public today. Subs Studio 3,886 (API 3,880)."
+  },
+  {
+   "day": "2026-10-22",
+   "hours": 1064.0,
+   "added24": 258.0,
+   "mixes": 2,
+   "shorts": 0,
+   "live": false,
+   "subs": 3891,
+   "note": "Studio Earn 1,064 (as of Oct 17; read ~8:53 AM ET, CURRENT; +258 vs 806 as of Oct 16; past the 1,000 checkpoint). Last 24h by Data API (new since yesterday's row): 90s Hip Hop mix uAxiJk0pRuw went Public 7 PM ET Oct 21; La Mejor Salsa Navideña mix ixpT3pFRV-s uploaded Private 6:23 AM ET Oct 22, scheduled Public 11:45 AM ET. No new Shorts (CUOEFRruWA4 counted yesterday). No live Wed Oct 21 (Thu-Sun only). No tracked mix at 7 or 14 days past Public today (Salsa s_BJgq_jikE hits 7 days Oct 23). Subs Studio 3,891 (API 3,890)."
+  }
+ ],
+ "mixes": [
+  {
+   "title": "Salsa mix",
+   "id": "s_BJgq_jikE",
+   "publish": "2026-10-16 20:00 ET",
+   "short": "BkL2eDsJJ_M",
+   "status": "Public",
+   "h7": null,
+   "h14": null
+  },
+  {
+   "title": "Deep house mix",
+   "id": "T31mIrSb1aQ",
+   "publish": "2026-10-17 12:00 ET",
+   "short": "vT_eK8oX75g",
+   "status": "Public",
+   "h7": null,
+   "h14": null
+  },
+  {
+   "title": "Merengue mix",
+   "id": "QkzzL15urq8",
+   "publish": "2026-10-18 16:00 ET",
+   "short": "Tp4HvW2QgfM",
+   "status": "Public",
+   "h7": null,
+   "h14": null
+  }
+ ],
+ "pace_h_per_day": 27.54,
+ "pace_7d_h_per_day": 26.57,
+ "window_start": "2026-09-18",
+ "window_end": "2026-10-16",
+ "window_readings": {
+  "start": {
+   "as_of": "2026-09-18",
+   "hours": 35,
+   "read": "2026-09-23"
+  },
+  "end": {
+   "as_of": "2026-10-16",
+   "hours": 806,
+   "read": "2026-10-21"
+  },
+  "7d_start": {
+   "as_of": "2026-10-09",
+   "hours": 620,
+   "read": "2026-10-14"
+  }
+ },
+ "window_gaps": "No Studio reading with as-of 2026-09-26, 09-28, or 10-06 (not interpolated).",
+ "method": "Dates = as-of 2026-10-16 + (milestone - 806) / 27.54 h/day, the 28-day trailing pace (35 h as of Sep 18 to 806 h as of Oct 16, Studio Earn as-of dates). 7-day pace 26.57 h/day. Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
+ "overall_status": "behind",
+ "overall_note": "4,000 h projected 2027-02-08 at 27.54 h/day (28d) vs target 2026-12-25: behind by 45 days"
+}

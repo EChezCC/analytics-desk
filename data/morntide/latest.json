@@ -1,0 +1,159 @@
+{
+  "day": "2026-10-22",
+  "channel": "@morntidemusic",
+  "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+  "kpis": {
+    "subs": 501,
+    "earn": 946,
+    "an7": 52.9,
+    "views7": 3046,
+    "an28": 184.4,
+    "views28": 10350,
+    "channel_views": 16774,
+    "video_count": 56,
+    "shorts90": 592,
+    "subs_api_rounded": 501
+  },
+  "content_source": "Studio eyes-on OK 2026-10-22 2026-10-22 ~8:56 AM ET: identity After Switch account: avatar menu 'Morntide Music / @Morntidemusic'; URL studio.youtube.com/channel/UCjIlIYsKiIyUOVsHpItKOWA (first load 'Oops, no permission' on Chezerecta, resolved by switch; switched back to DJ Chezerecta after); proof /workspace/desk-studio-pull/20261022/studio-proof/morntide/REPORT.json (KEY_identity.png, KEY_earn.png, KEY_analytics_7d.png, KEY_analytics_28d.png, KEY_content_28d.png). Subs CURRENT 501 = Studio exact (Earn tab); Data API rounded 501 stored as subs_api_rounded. Earn CURRENT 946 qualified public watch hours (Studio Earn, 365d meter as of Oct 17, 2026; targets 3,000 / 4,000). shorts90 CURRENT 592 (Studio Earn). Analytics 7d CURRENT 52.9h / 3,046 views / +2 subs (Studio Oct 15 – 21, 2026). Analytics 28d CURRENT 184.4h / 10,350 views / +271 subs (Studio Sep 24 – Oct 21, 2026). CTR CURRENT 1.2% on 54.1K impressions, avg view 7:45 (Studio Content tab 28d). Analytics API 2026-10-14..2026-10-20 28.6h / 1001 views and 2026-09-23..2026-10-20 160.3h / 8492 views UNVERIFIED (API runs lower than Studio). Data API CURRENT 2026-10-22 ~08:52 ET: video_count 56, channel_views 16,774. Content rows = Data API lifetime viewCount (higher kept; other rows carried). Per-video hours/CTR not invented. Supersedes an earlier 2026-10-22 09:11 ET write that marked Studio UNVERIFIED; the 08:56 ET Studio pull passed identity via Switch account. Do not log Earn 0 from a Memberships card or blank Earn tab.",
+  "content": [
+    {
+      "title": "Deep Work (1h)",
+      "kind": "long",
+      "views": 3865,
+      "id": "MPDy0P-CVc0"
+    },
+    {
+      "title": "First Light (~2h)",
+      "kind": "long",
+      "views": 1093,
+      "id": "L11Hc6Jc1SA"
+    },
+    {
+      "title": "Wake Calm",
+      "kind": "long",
+      "views": 374,
+      "id": "uPqitC0mm4g"
+    },
+    {
+      "title": "Night Calm (53m)",
+      "kind": "long",
+      "views": 157,
+      "id": "64tyeo8LkDM"
+    },
+    {
+      "title": "Still Tide (1h)",
+      "kind": "long",
+      "views": 126,
+      "id": "ZiRfM8u5-oA"
+    },
+    {
+      "title": "First Light on the Water (1h)",
+      "kind": "long",
+      "views": 83,
+      "id": "FDCP-FRQ_GU"
+    },
+    {
+      "title": "Music for Coding (3h)",
+      "kind": "long",
+      "views": 34,
+      "id": "c72ld4iNns8"
+    },
+    {
+      "title": "Rainforest Rain at Night (8h)",
+      "kind": "long",
+      "views": 33,
+      "id": "DnELf6IoANQ"
+    },
+    {
+      "title": "Spa Bowls (8h)",
+      "kind": "long",
+      "views": 30,
+      "id": "U78G7IYZ51o"
+    },
+    {
+      "title": "Ocean Night (8h)",
+      "kind": "long",
+      "views": 25,
+      "id": "-CZW0rGHg5o"
+    },
+    {
+      "title": "Deep Work Ambience (2h ocean cliff)",
+      "kind": "long",
+      "views": 47,
+      "id": "s-IjylbAUDY"
+    },
+    {
+      "title": "8 Hours Deep Focus Ambient",
+      "kind": "long",
+      "views": 2,
+      "id": "uHdbPDJkfGs"
+    },
+    {
+      "title": "Morning focus music",
+      "kind": "short",
+      "views": 4201,
+      "id": "KAgrw-DIIUM"
+    },
+    {
+      "title": "Still Tide",
+      "kind": "short",
+      "views": 1916,
+      "id": "BCJrx7gh-PM"
+    },
+    {
+      "title": "Deep Channel",
+      "kind": "short",
+      "views": 1380,
+      "id": "9nxV-E5x4kM"
+    },
+    {
+      "title": "First Light on the Water",
+      "kind": "short",
+      "views": 732,
+      "id": "6dkl1uzGgjA"
+    },
+    {
+      "title": "Night ambient music",
+      "kind": "short",
+      "views": 517,
+      "id": "uX25We2YQgA"
+    },
+    {
+      "title": "First Light sprint",
+      "kind": "short",
+      "views": 331,
+      "id": "TZLnPK6nmBs"
+    },
+    {
+      "title": "Need to get work done",
+      "kind": "short",
+      "views": 211,
+      "id": "6UoDC8UFzj0"
+    },
+    {
+      "title": "Ocean Night",
+      "kind": "short",
+      "views": 102,
+      "id": "WqhaduWaToI"
+    },
+    {
+      "title": "Spa Bowls",
+      "kind": "short",
+      "views": 79,
+      "id": "QI3qG1IEn4s"
+    },
+    {
+      "title": "Music for Coding",
+      "kind": "short",
+      "views": 68,
+      "id": "nSjNhQCMzp0"
+    }
+  ],
+  "recs": [
+    "Subs 501 (Studio exact, 2026-10-22) clears the 500-sub bar for the first Earn tier; that tier still needs 3,000 hours. Hours 946 / 3,000 (Studio Earn 2026-10-22, meter as of Oct 17, 2026). Full YPP still needs 1,000 subs and 4,000 hours. End-screen Subscribe on Deep Work and First Light ~2h.",
+    "Deep Work 1h (3,865) and First Light ~2h (1,093) still carry the catalog. Wake Calm 374 next. Do not lead with Night Calm or the 8h sleep/spa longs.",
+    "8h work-done long is 2 views. Rainforest 33, Spa Bowls 30, Ocean Night 25. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
+    "Top 28d (Studio Overview 2026-10-22, Sep 24 – Oct 21, 2026): Stay present with this morning calm (Short) 3,639, Deep Work Session | 1 Hour 2,446, First Light on the Water 732, First Light Calm Focus Loop 331, Deep work, simplified (Short) 230. Lifetime API: Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 592 (meter as of Oct 17, 2026).",
+    "Studio 28d CURRENT 184.4h / 10,350 views / +271 subs; 7d CURRENT 52.9h / 3,046 (Oct 15 – 21, 2026). CTR 1.2% on 54.1K (28d). API 7d 28.6h / 28d 160.3h UNVERIFIED. No Studio blocker today (Morntide reached via Switch account). Do not log Earn as 0 from a blank Earn tab or Memberships card."
+  ]
+}

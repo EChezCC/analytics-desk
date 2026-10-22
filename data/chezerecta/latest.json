@@ -1,0 +1,106 @@
+{
+  "day": "2026-10-22",
+  "channel": "@DJChezerecta",
+  "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
+  "kpis": {
+    "subs": 3891,
+    "earn": 1064,
+    "an7": 1800.0,
+    "views7": 23896,
+    "an28": 3500.0,
+    "views28": 122864,
+    "shorts90": 9000,
+    "channel_views": 298968,
+    "video_count": 201,
+    "subs_api_rounded": 3890,
+    "subs_note": "exact Studio count (Earn screen, Oct 22 ~8:53 AM ET)"
+  },
+  "content_source": "YouTube Data API CURRENT 2026-10-22 08:52 ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261022/chezerecta-api.json): subs 3,891 = exact Studio count (Earn screen); API rounded subscriberCount 3,890 stored separately as subs_api_rounded; video_count 201, channel_views 298,968. Content board = lifetime viewCount, Data API merged with prior board (higher count kept); no CTR or hours on rows. Desk Studio CURRENT (HARD identity PASS; proof /workspace/desk-studio-pull/20261022/studio-proof/chezerecta/REPORT.json) ~8:53 AM ET: Earn CURRENT 1,064 qualified public watch hours, last 365 days (as of Oct 17, 2026; Earn eligibility screen targets 3,000 tier 1 / 4,000 tier 2; never Memberships welcome), shorts90 CURRENT 9K/9000 (rounded); 7d CURRENT Oct 15–21, 2026: 23,896 views / 1.8K h (Studio card rounded; stored as 1800, exact not shown), subs +49; 28d Sep 24–Oct 21, 2026: 122,864 views / 3.5K h (Studio card rounded; stored as 3500, exact not shown), subs +1.2K. Content tab 28d: 500.3K impressions, CTR 2.8%, avg view duration from impressions 7:20; 28d top-content table MISSING on Content tab (top rows from Overview); 7d impressions/CTR MISSING.",
+  "content": [
+    {
+      "title": "Latin Mix",
+      "kind": "long mix",
+      "views": 21229,
+      "id": "X9j7lvl1lGg"
+    },
+    {
+      "title": "Háblame Bailando",
+      "kind": "long",
+      "views": 14601,
+      "id": "qXW0DEkTe2Q"
+    },
+    {
+      "title": "Time and Money",
+      "kind": "long",
+      "views": 3920,
+      "id": "6JAcnRSnpn0"
+    },
+    {
+      "title": "Vuelve Esta Noche",
+      "kind": "long",
+      "views": 2227,
+      "id": "1sKPharmVVM"
+    },
+    {
+      "title": "English Mix",
+      "kind": "long mix",
+      "views": 1571,
+      "id": "StjG2rDDOkg"
+    },
+    {
+      "title": "Baja Pa' La Calle",
+      "kind": "long",
+      "views": 1265,
+      "id": "ZZuCa6PfGhs"
+    },
+    {
+      "title": "Heat Check",
+      "kind": "long",
+      "views": 1120,
+      "id": "miZbce10DG0"
+    },
+    {
+      "title": "Baja Panti",
+      "kind": "long",
+      "views": 888,
+      "id": "xyHHQ6poN_4"
+    },
+    {
+      "title": "Hablame Bailando",
+      "kind": "short",
+      "views": 118008,
+      "id": "jXYgugUiUc0"
+    },
+    {
+      "title": "Aunque Duela",
+      "kind": "short",
+      "views": 49725,
+      "id": "xFZKi7tDTm8"
+    },
+    {
+      "title": "No Pasa de Moda",
+      "kind": "short",
+      "views": 16613,
+      "id": "-Fa1bCKEqM8"
+    },
+    {
+      "title": "Luz Baja",
+      "kind": "short",
+      "views": 11623,
+      "id": "Y_mR_OcTzoI"
+    },
+    {
+      "title": "Aunque Sea Mentira",
+      "kind": "short",
+      "views": 2602,
+      "id": "jeMkHkR8wjo"
+    }
+  ],
+  "recs": [
+    "Earn CURRENT 1,064 qualified public hours of 3,000 (as of Oct 17; Studio ~8:53 AM ET), +258 from 806 (as of Oct 16). 3,000 unlocks the first YPP tier; 4,000 unlocks watch-page ads. shorts90 CURRENT 9K (rounded).",
+    "Salsa, Dembow y más (Official Mix) is still #1 long at 21,229 lifetime (Data API) and #2 in Studio 28d top content (18,488). Keep end screens and live pins pointing at the Mix.",
+    "Top Studio 28d item is the Short 'No podrás resistirte a este ritmo' at 63,633 views (28d), then the Mix, then Mix de Cumbia 2026 at 2,873. Board Short jXYgugUiUc0 leads lifetime at 118,008.",
+    "Analytics CURRENT 7d 1.8K h (rounded) / 23,896 views (Oct 15–21), subs +49; previous 7d 998.0h / 21,013 (Oct 14–20). 28d 3.5K h (rounded) / 122,864 views (Sep 24–Oct 21), +1.2K subs; 28d impressions 500.3K, CTR 2.8%. Traffic led by YouTube advertising (65.7%).",
+    "video_count CURRENT 201 (+5 from 196) / channel_views CURRENT 298,968 (+4,430 from 294,538 on Oct 21, Data API). subs CURRENT 3,891 exact (Studio; +5 from 3,886); API rounded 3,890. Flags: Community Guidelines warning still active."
+  ]
+}
