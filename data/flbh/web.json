@@ -6,9 +6,9 @@
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 431,
-  "sessions": 441,
-  "pageviews": 483,
+  "users": 407,
+  "sessions": 418,
+  "pageviews": 458,
   "daily": [
    {
     "day": "2026-09-24",
@@ -24,9 +24,9 @@
    },
    {
     "day": "2026-09-26",
-    "users": 16,
-    "sessions": 17,
-    "pageviews": 18
+    "users": 13,
+    "sessions": 14,
+    "pageviews": 15
    },
    {
     "day": "2026-09-27",
@@ -72,9 +72,9 @@
    },
    {
     "day": "2026-10-04",
-    "users": 11,
-    "sessions": 12,
-    "pageviews": 13
+    "users": 10,
+    "sessions": 11,
+    "pageviews": 11
    },
    {
     "day": "2026-10-05",
@@ -84,15 +84,15 @@
    },
    {
     "day": "2026-10-06",
-    "users": 9,
-    "sessions": 9,
-    "pageviews": 10
+    "users": 8,
+    "sessions": 8,
+    "pageviews": 9
    },
    {
     "day": "2026-10-07",
-    "users": 23,
-    "sessions": 23,
-    "pageviews": 26
+    "users": 16,
+    "sessions": 16,
+    "pageviews": 19
    },
    {
     "day": "2026-10-08",
@@ -108,9 +108,9 @@
    },
    {
     "day": "2026-10-10",
-    "users": 19,
-    "sessions": 20,
-    "pageviews": 21
+    "users": 18,
+    "sessions": 19,
+    "pageviews": 20
    },
    {
     "day": "2026-10-11",
@@ -126,9 +126,9 @@
    },
    {
     "day": "2026-10-13",
-    "users": 14,
-    "sessions": 14,
-    "pageviews": 14
+    "users": 9,
+    "sessions": 9,
+    "pageviews": 9
    },
    {
     "day": "2026-10-14",
@@ -138,15 +138,15 @@
    },
    {
     "day": "2026-10-15",
-    "users": 19,
-    "sessions": 19,
-    "pageviews": 19
+    "users": 18,
+    "sessions": 18,
+    "pageviews": 18
    },
    {
     "day": "2026-10-16",
-    "users": 30,
-    "sessions": 30,
-    "pageviews": 33
+    "users": 27,
+    "sessions": 27,
+    "pageviews": 30
    },
    {
     "day": "2026-10-17",
@@ -162,9 +162,9 @@
    },
    {
     "day": "2026-10-19",
-    "users": 54,
-    "sessions": 55,
-    "pageviews": 59
+    "users": 52,
+    "sessions": 53,
+    "pageviews": 57
    },
    {
     "day": "2026-10-20",
@@ -182,8 +182,8 @@
   "top_pages": [
    {
     "page": "/",
-    "views": 46,
-    "users": 43
+    "views": 24,
+    "users": 22
    },
    {
     "page": "/guides/florida-channel-markers-icw",
@@ -234,7 +234,7 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 315
+    "sessions": 291
    },
    {
     "channel": "Organic Search",
@@ -258,6 +258,13 @@
    }
   ]
  },
+ "ga4_raw": {
+  "users": 431,
+  "sessions": 441,
+  "pageviews": 483
+ },
+ "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
+ "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,

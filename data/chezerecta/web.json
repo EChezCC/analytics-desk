@@ -6,27 +6,27 @@
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 526,
-  "sessions": 531,
-  "pageviews": 540,
+  "users": 85,
+  "sessions": 88,
+  "pageviews": 96,
   "daily": [
    {
     "day": "2026-10-12",
-    "users": 13,
-    "sessions": 13,
-    "pageviews": 14
+    "users": 10,
+    "sessions": 10,
+    "pageviews": 11
    },
    {
     "day": "2026-10-13",
-    "users": 466,
-    "sessions": 468,
-    "pageviews": 475
+    "users": 29,
+    "sessions": 30,
+    "pageviews": 36
    },
    {
     "day": "2026-10-14",
-    "users": 7,
-    "sessions": 8,
-    "pageviews": 8
+    "users": 6,
+    "sessions": 6,
+    "pageviews": 6
    },
    {
     "day": "2026-10-15",
@@ -68,59 +68,39 @@
   "top_pages": [
    {
     "page": "/",
-    "views": 91,
-    "users": 85
+    "views": 78,
+    "users": 73
    },
    {
     "page": "/es/",
-    "views": 10,
-    "users": 8
+    "views": 9,
+    "users": 7
    },
    {
     "page": "/player/",
-    "views": 10,
-    "users": 9
+    "views": 5,
+    "users": 5
    },
    {
-    "page": "/2pointzero",
-    "views": 4,
-    "users": 4
+    "page": "/releases/",
+    "views": 2,
+    "users": 1
    },
    {
-    "page": "/abrechnungs-gmbh",
-    "views": 4,
-    "users": 4
+    "page": "/es/player/",
+    "views": 1,
+    "users": 1
    },
    {
-    "page": "/acgcardservices",
-    "views": 4,
-    "users": 4
-   },
-   {
-    "page": "/acuityinc",
-    "views": 4,
-    "users": 4
-   },
-   {
-    "page": "/airalo",
-    "views": 4,
-    "users": 4
-   },
-   {
-    "page": "/anbtx",
-    "views": 4,
-    "users": 4
-   },
-   {
-    "page": "/bancobice",
-    "views": 4,
-    "users": 4
+    "page": "/releases/deep-house-drive/",
+    "views": 1,
+    "users": 1
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 522
+    "sessions": 79
    },
    {
     "channel": "Organic Social",
@@ -136,6 +116,22 @@
    }
   ]
  },
+ "ga4_raw": {
+  "users": 526,
+  "sessions": 531,
+  "pageviews": 540
+ },
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (323 paths)",
+ "bot_spikes": [
+  {
+   "day": "2026-10-13",
+   "sessions": 468,
+   "median": 8,
+   "direct_share": 0.99,
+   "offsite_share": 0.93,
+   "kept_sessions": 30
+  }
+ ],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 1,

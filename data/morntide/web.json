@@ -4,36 +4,30 @@
   "start": "2026-09-24",
   "end": "2026-10-21"
  },
- "ga4_note": "lookup failed: Admin API 403: Google Analytics Admin API has not been used in project 520764993277 before or it is disabled. Enable it by visiting htt; using seo-api configured ID 558780885 (name not verified)",
+ "ga4_note": "Admin API lookup unavailable (Admin API 403); using seo-api configured ID 558780885 (name not verified)",
  "ga4_property": "558780885",
  "ga4": {
-  "users": 50,
-  "sessions": 53,
-  "pageviews": 55,
+  "users": 25,
+  "sessions": 28,
+  "pageviews": 27,
   "daily": [
    {
-    "day": "2026-10-13",
-    "users": 10,
-    "sessions": 10,
-    "pageviews": 11
+    "day": "2026-10-14",
+    "users": 1,
+    "sessions": 1,
+    "pageviews": 1
    },
    {
-    "day": "2026-10-14",
-    "users": 2,
+    "day": "2026-10-16",
+    "users": 1,
     "sessions": 2,
     "pageviews": 2
    },
    {
-    "day": "2026-10-16",
-    "users": 2,
-    "sessions": 3,
-    "pageviews": 3
-   },
-   {
     "day": "2026-10-17",
-    "users": 5,
-    "sessions": 5,
-    "pageviews": 5
+    "users": 4,
+    "sessions": 4,
+    "pageviews": 4
    },
    {
     "day": "2026-10-18",
@@ -49,39 +43,46 @@
    },
    {
     "day": "2026-10-20",
-    "users": 11,
-    "sessions": 12,
-    "pageviews": 13
+    "users": 0,
+    "sessions": 1,
+    "pageviews": 0
    },
    {
     "day": "2026-10-21",
-    "users": 17,
-    "sessions": 17,
-    "pageviews": 17
+    "users": 16,
+    "sessions": 16,
+    "pageviews": 16
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 55,
-    "users": 50
+    "views": 27,
+    "users": 25
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 43
-   },
-   {
-    "channel": "Organic Search",
-    "sessions": 7
+    "sessions": 23
    },
    {
     "channel": "Organic Video",
     "sessions": 3
+   },
+   {
+    "channel": "Organic Search",
+    "sessions": 2
    }
   ]
  },
+ "ga4_raw": {
+  "users": 50,
+  "sessions": 53,
+  "pageviews": 55
+ },
+ "ga4_filter": "hostName in morntidemusic.com (+www), pagePath in sitemap allowlist (3 paths)",
+ "bot_spikes": [],
  "gsc": {
   "property": "https://morntidemusic.com/",
   "clicks": 1,

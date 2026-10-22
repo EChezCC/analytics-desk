@@ -12,7 +12,9 @@ async function showWeb() {
   $('web').innerHTML = `<div class="grid kpis">` + (g ? kpi('Users', g.users, 'GA4 ' + W.ga4_property, spark(d, 'users')) + kpi('Sessions', g.sessions, 'GA4', spark(d, 'sessions'))
       + kpi('Pageviews', g.pageviews, 'GA4', spark(d, 'pageviews')) : '')
     + (s.error ? '' : kpi('Search clicks', s.clicks, s.property) + kpi('Impressions', s.impressions, 'Search Console')) + `</div>`
-    + (W.ga4_note ? `<p class="muted">GA4: ${esc(W.ga4_note.replace(/Enable it.*?;/, ';'))}</p>` : '') + (W.ga4_error ? `<p class="muted">GA4 unavailable: ${esc(W.ga4_error)}</p>` : '')
+    + (W.bot_spikes?.length ? `<p class="muted"><span class="tag" style="color:var(--warn);background:#f5b45022">Likely bot traffic</span> ${W.bot_spikes.map(b => `${b.day}: ${fmt(b.sessions)} sessions vs median ${fmt(b.median)}, ${Math.round(b.direct_share*100)}% Direct, ${Math.round(b.offsite_share*100)}% on preview hosts or unknown paths (${fmt(b.kept_sessions)} kept)`).join(' · ')}</p>` : '')
+    + (W.ga4_raw ? `<p class="muted">Filtered: ${esc(W.ga4_filter)}. Unfiltered GA4: ${fmt(W.ga4_raw.users)} users, ${fmt(W.ga4_raw.sessions)} sessions, ${fmt(W.ga4_raw.pageviews)} pageviews.</p>` : '')
+    + (W.ga4_note ? `<p class="muted">GA4: ${esc(W.ga4_note)}</p>` : '') + (W.ga4_error ? `<p class="muted">GA4 unavailable: ${esc(W.ga4_error)}</p>` : '')
     + (s.error ? `<p class="muted">Search Console unavailable: ${esc(s.error)}</p>` : '')
     + (g ? `<p class="muted">Daily trend: ${d.length} days with traffic</p>` : '')
     + `<div class="grid two" style="margin-top:12px">`
