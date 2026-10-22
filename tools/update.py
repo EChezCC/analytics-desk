@@ -28,7 +28,7 @@ def releases(artist):
 row = lambda e: {"id": e['id'], "title": e.get('title'), "views": e.get('view_count'),
                  "duration": e.get('duration'), "live": e.get('live_status')}
 for c in json.load(open('channels.json')):
-    if a.only and c['slug'] != a.only: continue
+    if c.get('web_only') or (a.only and c['slug'] != a.only): continue
     path = f"data/{c['slug']}"
     L = json.load(open(f'{path}/latest.json')); k = L.get('kpis', {})
     V, S = tab(c['channel_id'], 'videos'), tab(c['channel_id'], 'streams')

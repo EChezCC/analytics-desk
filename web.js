@@ -1,3 +1,5 @@
+// Optional per-channel file, like OPTIONAL in app.js: only these slugs request web.json, so no 404s.
+const WEB = ['chezerecta', 'morntide', 'flbh'];
 // Website panel: reads data/<slug>/web.json (GA4 + Search Console aggregates, last 28 days).
 const spark = (pts, key) => { if (pts.length < 2) return ''; const v = pts.map(p => p[key]), mx = Math.max(...v, 1);
   return `<svg class="spark" viewBox="0 0 100 30" preserveAspectRatio="none"><polyline vector-effect="non-scaling-stroke" points="${v.map((y, i) => `${(i/(v.length-1)*100).toFixed(1)},${(28-y/mx*26).toFixed(1)}`).join(' ')}"/></svg>`; };
@@ -5,7 +7,7 @@ async function showWeb() {
   const slug = location.hash.slice(1) || channels[0]?.slug, c = channels.find(x => x.slug === slug); if (!c) return;
   document.querySelectorAll('main > section:not(#web-card)').forEach(s => { if (s.id !== 'pace-card' && s.id !== 'ypace-card') s.hidden = !!c.web_only; else if (c.web_only) s.hidden = true; });
   if (c.web_only) { $('meta').textContent = c.name; $('src').textContent = 'Sources: GA4 Data API · Search Console API.'; }
-  const W = await get('data/' + slug + '/web.json'); $('web-card').hidden = !W; if (!W) return;
+  const W = WEB.includes(slug) ? await get('data/' + slug + '/web.json') : null; $('web-card').hidden = !W; if (!W) return;
   const g = W.ga4, s = W.gsc || {}, d = g?.daily || [];
   $('web-sub').textContent = `${W.domain} · last 28 days ${W.range.start} → ${W.range.end}`;
   const kpi = (l, v, sub, sp = '') => `<div class="card kpi"><span>${l}</span><b>${fmt(v)}</b>${sp}<span>${esc(sub)}</span></div>`;
