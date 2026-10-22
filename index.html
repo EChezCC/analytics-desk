@@ -1,22 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Analytics Desk</title><link rel="stylesheet" href="style.css"></head><body>
-<header><h1>Analytics Desk</h1><nav id="tabs" role="tablist"></nav></header>
-<main>
-<p id="meta" class="muted"></p>
-<section class="card" id="web-card" hidden><h2>Website <small class="muted" id="web-sub"></small></h2><div id="web"></div></section>
-<section class="grid kpis" id="kpis"></section>
-<section class="card"><h2>YPP progress</h2><div id="ypp"></div></section>
-<section class="grid two">
- <div class="card"><h2>Do this next</h2><ol id="recs"></ol></div>
- <div class="card"><h2>Top content <small class="muted">lifetime views</small></h2><div id="content"></div></div>
-</section>
-<section class="card" id="pace-card" hidden><h2>Watch-hour pace</h2><div id="pace"></div></section>
-<section class="card" id="ypace-card" hidden><h2>YPP pace</h2><div id="ypace"></div></section>
-<section class="card"><h2>Snapshots</h2><div class="scroll" id="snaps"></div></section>
-<section class="grid two">
- <div class="card"><h2>Uploads <small class="muted" id="up-n"></small></h2><div class="scroll" id="uploads"></div></div>
- <div class="card"><h2>Lives <small class="muted" id="live-n"></small></h2><div class="scroll" id="lives"></div></div>
-</section>
-<section class="card"><h2>Releases <small class="muted" id="rel-n"></small></h2><div class="scroll" id="releases"></div></section>
+<title>Analytics Desk</title><link rel="icon" href="data:,"><link rel="stylesheet" href="style.css"></head><body>
+<header><div class="brand"><span class="dot"></span><div><h1>Analytics Desk</h1><p id="meta" class="muted"></p></div></div><nav id="tabs" role="tablist"></nav></header>
+<main id="view" aria-live="polite"></main>
 <footer class="muted" id="src"></footer>
-</main><script src="app.js"></script><script src="web.js"></script></body></html>
+<script src="app.js"></script></body></html>
