@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-09-24",
-  "end": "2026-10-21"
+  "start": "2026-09-25",
+  "end": "2026-10-22"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 407,
-  "sessions": 418,
-  "pageviews": 458,
+  "users": 419,
+  "sessions": 431,
+  "pageviews": 472,
   "daily": [
-   {
-    "day": "2026-09-24",
-    "users": 5,
-    "sessions": 5,
-    "pageviews": 5
-   },
    {
     "day": "2026-09-25",
     "users": 7,
@@ -177,13 +171,19 @@
     "users": 6,
     "sessions": 6,
     "pageviews": 6
+   },
+   {
+    "day": "2026-10-22",
+    "users": 17,
+    "sessions": 18,
+    "pageviews": 19
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 24,
-    "users": 22
+    "views": 28,
+    "users": 26
    },
    {
     "page": "/guides/florida-channel-markers-icw",
@@ -234,11 +234,11 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 291
+    "sessions": 301
    },
    {
     "channel": "Organic Search",
-    "sessions": 98
+    "sessions": 101
    },
    {
     "channel": "AI Assistant",
@@ -259,23 +259,17 @@
   ]
  },
  "ga4_raw": {
-  "users": 431,
-  "sessions": 441,
-  "pageviews": 483
+  "users": 446,
+  "sessions": 457,
+  "pageviews": 500
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 146,
+  "impressions": 142,
   "top_queries": [
-   {
-    "query": "alimacani boat ramp",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 81
-   },
    {
     "query": "barge canal boat ramp",
     "clicks": 0,
@@ -293,12 +287,6 @@
     "clicks": 0,
     "impressions": 1,
     "position": 84
-   },
-   {
-    "query": "blue striped grunt size limit florida",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 54
    },
    {
     "query": "boat ramp near me within 5 mi",
@@ -329,6 +317,18 @@
     "clicks": 0,
     "impressions": 1,
     "position": 90
+   },
+   {
+    "query": "can you keep snook in florida",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 76
+   },
+   {
+    "query": "causeway boat ramp",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 96
    }
   ]
  }

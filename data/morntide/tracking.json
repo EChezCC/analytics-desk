@@ -1,21 +1,21 @@
 {
- "fetched": "2026-10-22T11:16-04:00",
+ "fetched": "2026-10-23T05:54-04:00",
  "subs_public": 501,
- "studio_day": "2026-10-22",
+ "studio_day": "2026-10-23",
  "subs_studio": 501,
- "earn": 946,
+ "earn": 948,
  "uploads": [
   {
    "id": "R2rgrxRU0ro",
    "title": "this playlist will keep you in deep focus while coding (3 hours, no lyrics)",
-   "views": 6,
+   "views": 7,
    "duration": 10801,
    "live": null
   },
   {
    "id": "ZMyAJdQBQSs",
    "title": "Get Work Done  Cozy Autumn Lofi for Deep Focus",
-   "views": 4,
+   "views": 6,
    "duration": 3688,
    "live": null
   },
@@ -36,7 +36,7 @@
   {
    "id": "uHdbPDJkfGs",
    "title": "Need to Get Work Done? Listen to This for 8 Hours",
-   "views": 2,
+   "views": 3,
    "duration": 28801,
    "live": null
   },
@@ -57,7 +57,7 @@
   {
    "id": "-CZW0rGHg5o",
    "title": "8 Hours of Ocean Waves | The Perfect Night for Deep Sleep",
-   "views": 26,
+   "views": 27,
    "duration": 29101,
    "live": null
   },
@@ -127,24 +127,32 @@
   {
    "id": "MPDy0P-CVc0",
    "title": "Deep Work Session | 1 Hour of Uninterrupted Focus",
-   "views": 3800,
+   "views": 3900,
    "duration": 3997,
    "live": null
   }
  ],
  "streams": [
   {
-   "id": "_ONhZdxsGg4",
-   "title": "Can't Get Into the Zone? Play This for Deep Focus",
+   "id": "MftbIsEGtBs",
+   "title": "Can't Get Into the Flow? Play This for Deep Focus",
    "views": null,
    "duration": null,
-   "live": "is_live",
+   "live": "is_upcoming",
+   "tag": null
+  },
+  {
+   "id": "_ONhZdxsGg4",
+   "title": "Can't Get Into the Zone? Play This for Deep Focus",
+   "views": 25,
+   "duration": 29285,
+   "live": "was_live",
    "tag": null
   },
   {
    "id": "QmPOSboD7EA",
    "title": "Can't Get Things Done? Play This for Deep Focus",
-   "views": 96,
+   "views": 123,
    "duration": 30475,
    "live": "was_live",
    "tag": null
@@ -168,7 +176,7 @@
   {
    "id": "rVn_kQSXWhU",
    "title": "Can't Start Your Writing? Play This for Instant Focus",
-   "views": 165,
+   "views": 169,
    "duration": 27626,
    "live": "was_live",
    "tag": null
@@ -506,7 +514,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-22)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-23)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

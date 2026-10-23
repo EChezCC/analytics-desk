@@ -1,49 +1,63 @@
 {
- "fetched": "2026-10-22T11:16-04:00",
+ "fetched": "2026-10-23T05:54-04:00",
  "subs_public": 3890,
- "studio_day": "2026-10-22",
- "subs_studio": 3891,
- "earn": 1064,
+ "studio_day": "2026-10-23",
+ "subs_studio": 3893,
+ "earn": 1347,
  "uploads": [
   {
+   "id": "U5_j7XAX1CQ",
+   "title": "MERENGUE Y BACHATA MIX 🎂 Fiesta de Cumpleaños Dominicana | Juan Luis Guerra, Aventura, Eddy Herrera",
+   "views": 5,
+   "duration": 6183,
+   "live": null
+  },
+  {
+   "id": "ixpT3pFRV-s",
+   "title": "THE BEST CHRISTMAS SALSA El Gran Combo, Héctor Lavoe, Celia Cruz | Latin Christmas Salsa Mix",
+   "views": 172,
+   "duration": 5637,
+   "live": null
+  },
+  {
    "id": "uAxiJk0pRuw",
-   "title": "OLD SCHOOL RAP ESSENTIALS Snoop Dogg, Warren G, Pharcyde | 90s Hip Hop Classics",
-   "views": 20,
+   "title": "Golden Era Rap Mix: 90s Hip Hop That Never Gets Old 🔥",
+   "views": 96,
    "duration": 7124,
    "live": null
   },
   {
    "id": "ALNzuwY2lVM",
    "title": "SALSA ROMÁNTICA VIEJITAS PERO BONITAS Frankie Ruiz, Eddie Santiago, Tony Vega | Salsa Baúl 80s 90s",
-   "views": 2000,
+   "views": 2800,
    "duration": 5862,
    "live": null
   },
   {
    "id": "rFyM_O4LlRU",
    "title": "He Came Back for Her Light 🌹 The Light in Your Window | DJ Chezerecta Bachata 2026 (Official Video)",
-   "views": 20,
+   "views": 24,
    "duration": 256,
    "live": null
   },
   {
    "id": "8VvpLdEkNrM",
    "title": "Baladas Pop en Español Mix 🌹 Las Más Románticas | DJ Chezerecta",
-   "views": 140,
+   "views": 147,
    "duration": 3945,
    "live": null
   },
   {
    "id": "QkzzL15urq8",
    "title": "Classic Merengue Mix 🔥 Juan Luis Guerra, Elvis Crespo, Sergio Vargas and More | DJ Chezerecta",
-   "views": 665,
+   "views": 685,
    "duration": 3384,
    "live": null
   },
   {
    "id": "RofmB1yJyNQ",
    "title": "Dembow Mix 2026 🔥 El Alfa, Rochy RD, Bulin 47, Tokischa, Bad Bunny and More | DJ Chezerecta",
-   "views": 698,
+   "views": 831,
    "duration": 3341,
    "live": null
   },
@@ -57,14 +71,14 @@
   {
    "id": "3sUVQHF7mV0",
    "title": "Afro House Mix 2026 🌅 Deep Tribal Grooves for a Desert Fire Ritual | DJ Chezerecta",
-   "views": 284,
+   "views": 285,
    "duration": 1886,
    "live": null
   },
   {
    "id": "T31mIrSb1aQ",
    "title": "Deep House Mix 2026 🌙 Gorgon City, MK, Duke Dumont, Disciples & More | DJ Chezerecta",
-   "views": 70,
+   "views": 72,
    "duration": 3292,
    "live": null
   },
@@ -85,14 +99,14 @@
   {
    "id": "mexzOt6jObE",
    "title": "Reggae & Dancehall Mix 2026 🔥 Sean Paul, Shaggy, Bob Marley, Vybz Kartel y Más | DJ Chezerecta",
-   "views": 79,
+   "views": 82,
    "duration": 2987,
    "live": null
   },
   {
    "id": "P34qTRkuPgE",
    "title": "90s House to Eurodance Evolution 🔥 Mixed by DJ Chezerecta",
-   "views": 365,
+   "views": 378,
    "duration": 3998,
    "live": null
   },
@@ -119,15 +133,15 @@
   },
   {
    "id": "GGTBrsTSzIQ",
-   "title": "Música para un último baile antes del amanecer",
-   "views": 40,
+   "title": "Salsa romántica 2026: DJ Chezerecta (Video oficial)",
+   "views": 41,
    "duration": 266,
    "live": null
   },
   {
    "id": "G1WmI_82eGk",
    "title": "DJ Chezerecta - Don't Turn Off the Night (Official Video)",
-   "views": 142,
+   "views": 143,
    "duration": 177,
    "live": null
   },
@@ -147,7 +161,7 @@
   },
   {
    "id": "w6DWihLhA3I",
-   "title": "La mentira que mejor me sé (Official Lyric Video)",
+   "title": "Escucha hasta el último coro (Official Lyric Video)",
    "views": 17,
    "duration": 166,
    "live": null
@@ -169,7 +183,7 @@
   {
    "id": "HysmH5C8fQE",
    "title": "The Hardest Salsa Track: Tumbao de Acero",
-   "views": 137,
+   "views": 140,
    "duration": 360,
    "live": null
   },
@@ -183,7 +197,7 @@
   {
    "id": "6kqiDBph2Mc",
    "title": "DJ Chezerecta - Tambor del Sol (Official Video)",
-   "views": 71,
+   "views": 73,
    "duration": 211,
    "live": null
   },
@@ -204,14 +218,14 @@
   {
    "id": "kmx2sdW21EA",
    "title": "DJ Chezerecta - Up Close With You (Official Video)",
-   "views": 203,
+   "views": 206,
    "duration": 172,
    "live": null
   },
   {
    "id": "iE8eeTukaL8",
    "title": "¿Quieres Bailar? - DJ Chezerecta (Official Video)",
-   "views": 268,
+   "views": 269,
    "duration": 183,
    "live": null
   },
@@ -246,7 +260,7 @@
   {
    "id": "U2k1y9-wFk0",
    "title": "DJ Chezerecta - Salsa Romántica Mix 2026 (Official Video)",
-   "views": 514,
+   "views": 515,
    "duration": 886,
    "live": null
   },
@@ -260,7 +274,7 @@
   {
    "id": "l1BXaBkYnrY",
    "title": "DJ Chezerecta - Todavía Es De Noche (Official Video)",
-   "views": 142,
+   "views": 144,
    "duration": 180,
    "live": null
   },
@@ -302,7 +316,7 @@
   {
    "id": "SpWP48r6-6A",
    "title": "DJ Chezerecta - Que Vuelvan los Clásicos (Official Video)",
-   "views": 251,
+   "views": 252,
    "duration": 180,
    "live": null
   },
@@ -323,7 +337,7 @@
   {
    "id": "ePeg0bo4fy4",
    "title": "DJ Chezerecta - Te Quiero Despacio (Official Video) | Romantic Bolero",
-   "views": 93,
+   "views": 94,
    "duration": 181,
    "live": null
   },
@@ -407,14 +421,14 @@
   {
    "id": "dmmHiJslZuk",
    "title": "Se Armó el Combo - DJ Chezerecta (Official Music Video)",
-   "views": 195,
+   "views": 196,
    "duration": 180,
    "live": null
   },
   {
    "id": "GknKCzWwxWY",
    "title": "DJ Chezerecta - No Pasa de Moda (Official Video) | Bachata",
-   "views": 208,
+   "views": 214,
    "duration": 180,
    "live": null
   },
@@ -491,7 +505,7 @@
   {
    "id": "N4X76EMEBZA",
    "title": "DJ Chezerecta - Rompe Culo (Official Video) | Dominican Dembow",
-   "views": 89,
+   "views": 90,
    "duration": 165,
    "live": null
   },
@@ -540,9 +554,17 @@
  ],
  "streams": [
   {
+   "id": "5P-P5v77xIw",
+   "title": "After Hours R&B Session: DJ Chezerecta Live Stream",
+   "views": 49,
+   "duration": 14676,
+   "live": "was_live",
+   "tag": null
+  },
+  {
    "id": "mRybqt2ZgNw",
    "title": "After Hours Bolero Session: DJ Chezerecta Live Stream",
-   "views": 167,
+   "views": 168,
    "duration": 15958,
    "live": "was_live",
    "tag": null
@@ -550,7 +572,7 @@
   {
    "id": "WuiPjl2MKGY",
    "title": "Caribbean Rhythm Session: DJ Chezerecta Live Stream",
-   "views": 85,
+   "views": 97,
    "duration": 1498,
    "live": "was_live",
    "tag": null
@@ -646,7 +668,7 @@
   {
    "id": "oTQLv23NYAA",
    "title": "Live Now: House & Club Vibes with DJ Chezerecta",
-   "views": 500,
+   "views": 501,
    "duration": 26747,
    "live": "was_live",
    "tag": null
@@ -710,7 +732,7 @@
   {
    "id": "_kZRryiOnb0",
    "title": "DJ Chezerecta Radio (Live) | The Official Video Showcase",
-   "views": 248,
+   "views": 249,
    "duration": 25262,
    "live": "was_live",
    "tag": null
@@ -1644,7 +1666,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/chezerecta/latest.json (2026-10-22)",
+  "hours": "YouTube Studio Earn reading in data/chezerecta/latest.json (2026-10-23)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

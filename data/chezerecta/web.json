@@ -1,14 +1,14 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-09-24",
-  "end": "2026-10-21"
+  "start": "2026-09-25",
+  "end": "2026-10-22"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 85,
-  "sessions": 88,
-  "pageviews": 96,
+  "users": 87,
+  "sessions": 91,
+  "pageviews": 101,
   "daily": [
    {
     "day": "2026-10-12",
@@ -63,13 +63,19 @@
     "users": 8,
     "sessions": 8,
     "pageviews": 8
+   },
+   {
+    "day": "2026-10-22",
+    "users": 2,
+    "sessions": 3,
+    "pageviews": 5
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 78,
-    "users": 73
+    "views": 79,
+    "users": 74
    },
    {
     "page": "/es/",
@@ -83,6 +89,16 @@
    },
    {
     "page": "/releases/",
+    "views": 2,
+    "users": 1
+   },
+   {
+    "page": "/releases/cumbia-mix-2026/",
+    "views": 2,
+    "users": 1
+   },
+   {
+    "page": "/releases/la-mejor-salsa-navidena-el-gran-combo-hector-lavoe-celia-cruz/",
     "views": 2,
     "users": 1
    },
@@ -104,11 +120,11 @@
    },
    {
     "channel": "Organic Social",
-    "sessions": 5
+    "sessions": 7
    },
    {
     "channel": "Organic Search",
-    "sessions": 2
+    "sessions": 3
    },
    {
     "channel": "Organic Video",
@@ -117,16 +133,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 526,
-  "sessions": 531,
-  "pageviews": 540
+  "users": 528,
+  "sessions": 534,
+  "pageviews": 545
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (323 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (331 paths)",
  "bot_spikes": [
   {
    "day": "2026-10-13",
    "sessions": 468,
-   "median": 8,
+   "median": 8.0,
    "direct_share": 0.99,
    "offsite_share": 0.93,
    "kept_sessions": 30
