@@ -118,6 +118,16 @@
    "live": false,
    "subs": 3891,
    "note": "Studio Earn 1,064 (as of Oct 17; read ~8:53 AM ET, CURRENT; +258 vs 806 as of Oct 16; past the 1,000 checkpoint). Last 24h by Data API (new since yesterday's row): 90s Hip Hop mix uAxiJk0pRuw went Public 7 PM ET Oct 21; La Mejor Salsa Navideña mix ixpT3pFRV-s uploaded Private 6:23 AM ET Oct 22, scheduled Public 11:45 AM ET. No new Shorts (CUOEFRruWA4 counted yesterday). No live Wed Oct 21 (Thu-Sun only). No tracked mix at 7 or 14 days past Public today (Salsa s_BJgq_jikE hits 7 days Oct 23). Subs Studio 3,891 (API 3,890)."
+  },
+  {
+   "day": "2026-10-23",
+   "hours": 1347.0,
+   "added24": 283.0,
+   "mixes": 1,
+   "shorts": 0,
+   "live": true,
+   "subs": 3893,
+   "note": "Studio Earn 1,347 (as of Oct 18; read ~5:25 AM ET Oct 23, eyes-on, identity OK; +283 vs 1,064 as of Oct 17). Last 24h by Data API (new since yesterday's row): Dominican Bday Merengue y Bachata mix U5_j7XAX1CQ went Public 8 PM ET Oct 22; La Mejor Salsa Navideña ixpT3pFRV-s went Public 11:45 AM ET Oct 22 (counted yesterday). No new Shorts. Live Thu Oct 22 After Hours R&B Session 5P-P5v77xIw 7:00 PM-12:02 AM ET. Salsa s_BJgq_jikE hits 7 days past Public today: h7 not set because the Analytics API only has data through Oct 20 (229.4 h API, partial 5 of 7 days); fill when Oct 22 lands. Subs Studio 3,893 (API 3,890)."
   }
  ],
  "mixes": [
