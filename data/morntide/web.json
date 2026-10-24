@@ -1,15 +1,15 @@
 {
  "domain": "morntidemusic.com",
  "range": {
-  "start": "2026-09-25",
-  "end": "2026-10-22"
+  "start": "2026-09-26",
+  "end": "2026-10-23"
  },
  "ga4_note": "Admin API lookup unavailable (Admin API 403); using seo-api configured ID 558780885 (name not verified)",
  "ga4_property": "558780885",
  "ga4": {
-  "users": 27,
-  "sessions": 31,
-  "pageviews": 33,
+  "users": 28,
+  "sessions": 33,
+  "pageviews": 36,
   "daily": [
    {
     "day": "2026-10-14",
@@ -58,21 +58,27 @@
     "users": 2,
     "sessions": 3,
     "pageviews": 6
+   },
+   {
+    "day": "2026-10-23",
+    "users": 1,
+    "sessions": 2,
+    "pageviews": 3
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 29,
-    "users": 27
-   },
-   {
-    "page": "/player/",
-    "views": 2,
-    "users": 1
+    "views": 31,
+    "users": 28
    },
    {
     "page": "/sleep/",
+    "views": 3,
+    "users": 1
+   },
+   {
+    "page": "/player/",
     "views": 2,
     "users": 1
    }
@@ -80,7 +86,7 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 26
+    "sessions": 28
    },
    {
     "channel": "Organic Video",
@@ -93,22 +99,22 @@
   ]
  },
  "ga4_raw": {
-  "users": 52,
-  "sessions": 56,
-  "pageviews": 61
+  "users": 56,
+  "sessions": 61,
+  "pageviews": 67
  },
  "ga4_filter": "hostName in morntidemusic.com (+www), pagePath in sitemap allowlist (95 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "https://morntidemusic.com/",
   "clicks": 1,
-  "impressions": 9,
+  "impressions": 13,
   "top_queries": [
    {
     "query": "morntide",
     "clicks": 0,
-    "impressions": 6,
-    "position": 2
+    "impressions": 8,
+    "position": 1.8
    }
   ]
  }

@@ -1,14 +1,14 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-09-25",
-  "end": "2026-10-22"
+  "start": "2026-09-26",
+  "end": "2026-10-23"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 87,
-  "sessions": 91,
-  "pageviews": 101,
+  "users": 91,
+  "sessions": 97,
+  "pageviews": 110,
   "daily": [
    {
     "day": "2026-10-12",
@@ -69,23 +69,29 @@
     "users": 2,
     "sessions": 3,
     "pageviews": 5
+   },
+   {
+    "day": "2026-10-23",
+    "users": 5,
+    "sessions": 6,
+    "pageviews": 9
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 79,
+    "views": 80,
     "users": 74
    },
    {
     "page": "/es/",
-    "views": 9,
-    "users": 7
+    "views": 10,
+    "users": 8
    },
    {
     "page": "/player/",
-    "views": 5,
-    "users": 5
+    "views": 8,
+    "users": 7
    },
    {
     "page": "/releases/",
@@ -98,7 +104,17 @@
     "users": 1
    },
    {
+    "page": "/releases/halloween-reggaeton-mix-2026/",
+    "views": 2,
+    "users": 2
+   },
+   {
     "page": "/releases/la-mejor-salsa-navidena-el-gran-combo-hector-lavoe-celia-cruz/",
+    "views": 2,
+    "users": 1
+   },
+   {
+    "page": "/releases/soft-fire/",
     "views": 2,
     "users": 1
    },
@@ -120,29 +136,33 @@
    },
    {
     "channel": "Organic Social",
-    "sessions": 7
+    "sessions": 10
+   },
+   {
+    "channel": "Organic Video",
+    "sessions": 5
    },
    {
     "channel": "Organic Search",
     "sessions": 3
    },
    {
-    "channel": "Organic Video",
-    "sessions": 2
+    "channel": "Unassigned",
+    "sessions": 1
    }
   ]
  },
  "ga4_raw": {
-  "users": 528,
-  "sessions": 534,
-  "pageviews": 545
+  "users": 532,
+  "sessions": 540,
+  "pageviews": 554
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (331 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (343 paths)",
  "bot_spikes": [
   {
    "day": "2026-10-13",
    "sessions": 468,
-   "median": 8.0,
+   "median": 8,
    "direct_share": 0.99,
    "offsite_share": 0.93,
    "kept_sessions": 30
@@ -150,14 +170,20 @@
  ],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
-  "clicks": 1,
-  "impressions": 22,
+  "clicks": 2,
+  "impressions": 26,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
+    "clicks": 1,
+    "impressions": 5,
+    "position": 10.4
+   },
+   {
+    "query": "asi de cerca",
     "clicks": 0,
-    "impressions": 4,
-    "position": 8.8
+    "impressions": 1,
+    "position": 10
    }
   ]
  }

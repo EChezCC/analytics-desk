@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-09-25",
-  "end": "2026-10-22"
+  "start": "2026-09-26",
+  "end": "2026-10-23"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 419,
-  "sessions": 431,
-  "pageviews": 472,
+  "users": 423,
+  "sessions": 436,
+  "pageviews": 477,
   "daily": [
-   {
-    "day": "2026-09-25",
-    "users": 7,
-    "sessions": 7,
-    "pageviews": 7
-   },
    {
     "day": "2026-09-26",
     "users": 13,
@@ -177,6 +171,12 @@
     "users": 17,
     "sessions": 18,
     "pageviews": 19
+   },
+   {
+    "day": "2026-10-23",
+    "users": 11,
+    "sessions": 12,
+    "pageviews": 12
    }
   ],
   "top_pages": [
@@ -187,8 +187,8 @@
    },
    {
     "page": "/guides/florida-channel-markers-icw",
-    "views": 9,
-    "users": 8
+    "views": 11,
+    "users": 9
    },
    {
     "page": "/map/",
@@ -206,14 +206,14 @@
     "users": 7
    },
    {
-    "page": "/ramps/dixie/shired-island-public-boat-ramp",
+    "page": "/ramps/",
     "views": 5,
-    "users": 4
+    "users": 5
    },
    {
-    "page": "/ramps/",
+    "page": "/ramps/dixie/shired-island-public-boat-ramp",
     "views": 4,
-    "users": 4
+    "users": 3
    },
    {
     "page": "/ramps/lake/banana-cove-marina-and-rv-park",
@@ -234,11 +234,11 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 301
+    "sessions": 307
    },
    {
     "channel": "Organic Search",
-    "sessions": 101
+    "sessions": 100
    },
    {
     "channel": "AI Assistant",
@@ -259,28 +259,22 @@
   ]
  },
  "ga4_raw": {
-  "users": 446,
-  "sessions": 457,
-  "pageviews": 500
+  "users": 450,
+  "sessions": 462,
+  "pageviews": 505
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 142,
+  "impressions": 133,
   "top_queries": [
    {
     "query": "barge canal boat ramp",
     "clicks": 0,
     "impressions": 1,
     "position": 83
-   },
-   {
-    "query": "black creek boat ramp",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 76
    },
    {
     "query": "blimp road boat launch",
@@ -329,6 +323,12 @@
     "clicks": 0,
     "impressions": 1,
     "position": 96
+   },
+   {
+    "query": "east coast snook season",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 87
    }
   ]
  }
