@@ -28,16 +28,37 @@ const vbars = pts => {
   return `<div class="vb${dense ? ' dense' : ''}" role="img">${pts.map((p, i) => { const last = i === pts.length - 1;
     return `<div class="col" tabindex="0" data-tip="${esc(p.x)}: ${fmt(p.y)}" aria-label="${esc(p.x)}: ${fmt(p.y)}"><span class="bw"><i class="b${last ? ' cur' : ''}" style="height:${(p.y/mx*100).toFixed(1)}%"></i></span><span class="x">${i % ev === 0 || last ? esc(p.x) : ''}</span></div>`; }).join('')}</div>`;
 };
+// X-axis label indices for the trend line. Always the first and last point,
+// at most 7, spaced evenly. minGap is the smallest index step that keeps a
+// 5-char "MM-DD" label (~34px) from meeting its neighbor on a narrow phone
+// (chart ~240px; the plot is 554/600 of the svg). Wider charts only add air.
+// The old rule (i % ev === 0 || i === n-1) also forced the final day, so when
+// (n-1) % ev was 1 the last two labels sat on consecutive points — 32 days,
+// stride 5, drew both 10-23 and 10-24. Even spacing has no extra end tick,
+// so that collision does not come back as days are added.
+const xTickIdx = n => {
+  if (n <= 1) return n ? [0] : [];
+  const minGap = Math.max(1, Math.ceil(34 * (n - 1) / (240 * 554 / 600)));
+  const count = Math.max(2, Math.min(7, n, Math.floor((n - 1) / minGap) + 1));
+  const out = [];
+  for (let k = 0; k < count; k++) {
+    const i = Math.round(k * (n - 1) / (count - 1));
+    if (out[out.length - 1] !== i) out.push(i);
+  }
+  while (out.length > 2 && out[out.length - 1] - out[out.length - 2] < minGap) out.splice(-2, 1);
+  return out;
+};
 // Line chart over reported points only; gaps are skipped, never interpolated.
 const line = pts => {
   if (pts.length < 2) return null;
   const W = 600, H = 200, L = 40, B = 20, ys = pts.map(p => p.y), lo = Math.min(...ys), hi = Math.max(...ys), pad = Math.max(1, (hi-lo)*.1), a = Math.max(0, lo-pad), b = hi+pad;
-  const X = i => L + i/(pts.length-1)*(W-L-6), Y = v => (H-B) - (v-a)/(b-a)*(H-B-8), ev = Math.ceil(pts.length/7);
+  const X = i => L + i/(pts.length-1)*(W-L-6), Y = v => (H-B) - (v-a)/(b-a)*(H-B-8);
   const d = pts.map((p, i) => `${X(i).toFixed(1)},${Y(p.y).toFixed(1)}`).join(' ');
   const ticks = [0, .5, 1].map(f => { const v = a + f*(b-a); return `<line x1="${L}" x2="${W}" y1="${Y(v)}" y2="${Y(v)}"/><text x="${L-6}" y="${Y(v)+3}" text-anchor="end">${short(v)}</text>`; }).join('');
+  const xlab = new Set(xTickIdx(pts.length));
   return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img"><g class="grid">${ticks}</g>
     <polygon class="ar" points="${X(0)},${H-B} ${d} ${X(pts.length-1)},${H-B}"/><polyline class="ln" points="${d}"/>
-    ${pts.map((p, i) => `<circle r="2.5" cx="${X(i).toFixed(1)}" cy="${Y(p.y).toFixed(1)}"><title>${p.x}: ${fmt(p.y)}</title></circle>` + (i % ev === 0 || i === pts.length-1 ? `<text x="${X(i).toFixed(1)}" y="${H-5}" text-anchor="middle">${p.x}</text>` : '')).join('')}</svg>`;
+    ${pts.map((p, i) => `<circle r="2.5" cx="${X(i).toFixed(1)}" cy="${Y(p.y).toFixed(1)}"><title>${p.x}: ${fmt(p.y)}</title></circle>` + (xlab.has(i) ? `<text x="${X(i).toFixed(1)}" y="${H-5}" text-anchor="middle">${p.x}</text>` : '')).join('')}</svg>`;
 };
 
 // Count KPI numbers up from 0 to their real value; skipped under reduced motion.
