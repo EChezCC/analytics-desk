@@ -10,42 +10,42 @@
   {
    "hours": 1000.0,
    "target": "2026-11-01",
-   "by": "2026-10-18",
-   "old_by": "2026-10-17",
+   "by": "2026-10-19",
+   "old_by": "2026-10-18",
    "days_from_as_of": 0.0,
-   "projected": "2026-10-18",
+   "projected": "2026-10-19",
    "status": "on track",
-   "days_vs_target": -14
+   "days_vs_target": -13
   },
   {
    "hours": 2000.0,
    "target": "2026-11-22",
-   "by": "2026-11-01",
+   "by": "2026-10-28",
    "old_by": "2026-11-01",
-   "days_from_as_of": 14.0,
-   "projected": "2026-11-01",
+   "days_from_as_of": 9.2,
+   "projected": "2026-10-28",
    "status": "on track",
-   "days_vs_target": -21
+   "days_vs_target": -25
   },
   {
    "hours": 3000.0,
    "target": "2026-12-25",
-   "by": "2026-11-22",
+   "by": "2026-11-16",
    "old_by": "2026-11-22",
-   "days_from_as_of": 35.5,
-   "projected": "2026-11-22",
+   "days_from_as_of": 28.7,
+   "projected": "2026-11-16",
    "status": "on track",
-   "days_vs_target": -33
+   "days_vs_target": -39
   },
   {
    "hours": 4000.0,
    "target": "2026-12-25",
-   "by": "2026-12-13",
+   "by": "2026-12-06",
    "old_by": "2026-12-13",
-   "days_from_as_of": 57.0,
-   "projected": "2026-12-13",
+   "days_from_as_of": 48.3,
+   "projected": "2026-12-06",
    "status": "on track",
-   "days_vs_target": -12
+   "days_vs_target": -19
   }
  ],
  "daily": [
@@ -129,6 +129,17 @@
    "live": true,
    "subs": 3893,
    "note": "Studio Earn 1,347 (as of Oct 18; read ~5:25 AM ET Oct 23, eyes-on, identity OK; +283 vs 1,064 as of Oct 17). Pace recompute baked into ypp_update.py (Eric standing Oct 23)."
+  },
+  {
+   "day": "2026-10-24",
+   "hours": 1528.0,
+   "as_of": "2026-10-19",
+   "added24": 181.0,
+   "mixes": 2,
+   "shorts": 3,
+   "live": true,
+   "subs": 3897,
+   "note": "Studio Earn 1,528 (as of Oct 19; read ~5:30 AM ET Oct 24, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +181 vs 1,347 as of Oct 18). Last 24h by Data API: mixes Halloween Party Mix _stz9sNJrRY (Public ~2 PM ET Oct 23) and Cumbia Sonidera yo-gS1JoyPk (Public ~10 PM ET Oct 23); Soft Fire ZRtB-o3yrWk is a single, not counted. Shorts h51_1IHZKYE, 2R-UUUnLsUY, Uf82m0zWwyM. Live Fri Oct 23 sODciR8KHcM (7:09-11:58 PM ET). h7 for Salsa s_BJgq_jikE / Deep house T31mIrSb1aQ pending: Analytics API data only through Oct 21. Subs Studio 3,897 (API 3,890)."
   }
  ],
  "mixes": [
@@ -160,10 +171,10 @@
    "h14": null
   }
  ],
- "pace_h_per_day": 46.57,
- "pace_7d_h_per_day": 102.57,
+ "pace_h_per_day": 51.21,
+ "pace_7d_h_per_day": 123.86,
  "window_start": "2026-09-20",
- "window_end": "2026-10-18",
+ "window_end": "2026-10-19",
  "window_readings": {
   "start": {
    "as_of": "2026-09-20",
@@ -171,18 +182,18 @@
    "read": "2026-09-25"
   },
   "end": {
-   "as_of": "2026-10-18",
-   "hours": 1347.0,
-   "read": "2026-10-23"
+   "as_of": "2026-10-19",
+   "hours": 1528.0,
+   "read": "2026-10-24"
   },
   "7d_start": {
-   "as_of": "2026-10-11",
-   "hours": 629.0,
-   "read": "2026-10-16"
+   "as_of": "2026-10-12",
+   "hours": 661.0,
+   "read": "2026-10-17"
   }
  },
  "window_gaps": "No Studio reading with as-of 2026-09-26, 09-28, 10-06 (not interpolated).",
- "method": "Dates = as-of 2026-10-18 + (milestone - 1347) / 46.57 h/day, the 28-day trailing pace (43 h as of 2026-09-20 to 1347 h as of 2026-10-18, Studio Earn as-of dates). 7-day pace 102.57 h/day (629 h as of 2026-10-11). Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
+ "method": "Dates = as-of 2026-10-19 + (milestone - 1528) / 51.21 h/day, the 28-day trailing pace (43 h as of 2026-09-20 to 1528 h as of 2026-10-19, Studio Earn as-of dates). 7-day pace 123.86 h/day (661 h as of 2026-10-12). Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
  "overall_status": "on track",
- "overall_note": "4000 h projected 2026-12-13 at 46.57 h/day (28d) vs target 2026-12-25: on track by 12 days"
+ "overall_note": "4000 h projected 2026-12-06 at 51.21 h/day (28d) vs target 2026-12-25: on track by 19 days"
 }
