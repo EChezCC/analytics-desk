@@ -1,14 +1,14 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-09-26",
-  "end": "2026-10-23"
+  "start": "2026-09-27",
+  "end": "2026-10-24"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 91,
-  "sessions": 97,
-  "pageviews": 110,
+  "users": 97,
+  "sessions": 106,
+  "pageviews": 119,
   "daily": [
    {
     "day": "2026-10-12",
@@ -75,13 +75,19 @@
     "users": 5,
     "sessions": 6,
     "pageviews": 9
+   },
+   {
+    "day": "2026-10-24",
+    "users": 7,
+    "sessions": 9,
+    "pageviews": 9
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 80,
-    "users": 74
+    "views": 87,
+    "users": 80
    },
    {
     "page": "/es/",
@@ -95,8 +101,8 @@
    },
    {
     "page": "/releases/",
-    "views": 2,
-    "users": 1
+    "views": 3,
+    "users": 2
    },
    {
     "page": "/releases/cumbia-mix-2026/",
@@ -132,37 +138,33 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 79
+    "sessions": 84
    },
    {
     "channel": "Organic Social",
-    "sessions": 10
+    "sessions": 13
    },
    {
     "channel": "Organic Video",
-    "sessions": 5
+    "sessions": 6
    },
    {
     "channel": "Organic Search",
     "sessions": 3
-   },
-   {
-    "channel": "Unassigned",
-    "sessions": 1
    }
   ]
  },
  "ga4_raw": {
-  "users": 532,
-  "sessions": 540,
-  "pageviews": 554
+  "users": 538,
+  "sessions": 549,
+  "pageviews": 563
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (343 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (351 paths)",
  "bot_spikes": [
   {
    "day": "2026-10-13",
    "sessions": 468,
-   "median": 8,
+   "median": 8.0,
    "direct_share": 0.99,
    "offsite_share": 0.93,
    "kept_sessions": 30
@@ -171,19 +173,25 @@
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 2,
-  "impressions": 26,
+  "impressions": 30,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
     "clicks": 1,
-    "impressions": 5,
-    "position": 10.4
+    "impressions": 6,
+    "position": 9.7
    },
    {
     "query": "asi de cerca",
     "clicks": 0,
     "impressions": 1,
     "position": 10
+   },
+   {
+    "query": "le rompe el culo",
+    "clicks": 0,
+    "impressions": 2,
+    "position": 5
    }
   ]
  }

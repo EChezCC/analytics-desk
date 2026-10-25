@@ -1,14 +1,14 @@
 {
- "fetched": "2026-10-24T05:58-04:00",
+ "fetched": "2026-10-25T05:59-04:00",
  "subs_public": 501,
- "studio_day": "2026-10-24",
+ "studio_day": "2026-10-25",
  "subs_studio": 501,
- "earn": 954,
+ "earn": 962,
  "uploads": [
   {
    "id": "R2rgrxRU0ro",
    "title": "this playlist will keep you in deep focus while coding (3 hours, no lyrics)",
-   "views": 9,
+   "views": 10,
    "duration": 10801,
    "live": null
   },
@@ -22,7 +22,7 @@
   {
    "id": "tkMY70rFDqA",
    "title": "Autumn Cabin Piano Ambience for Deep Concentration (2 Hours)",
-   "views": 39,
+   "views": 41,
    "duration": 7567,
    "live": null
   },
@@ -127,7 +127,7 @@
   {
    "id": "MPDy0P-CVc0",
    "title": "Deep Work Session | 1 Hour of Uninterrupted Focus",
-   "views": 4800,
+   "views": 6600,
    "duration": 3997,
    "live": null
   }
@@ -144,7 +144,7 @@
   {
    "id": "_ONhZdxsGg4",
    "title": "Can't Get Into the Zone? Play This for Deep Focus",
-   "views": 31,
+   "views": 36,
    "duration": 29285,
    "live": "was_live",
    "tag": null
@@ -152,7 +152,7 @@
   {
    "id": "QmPOSboD7EA",
    "title": "Can't Get Things Done? Play This for Deep Focus",
-   "views": 157,
+   "views": 165,
    "duration": 30475,
    "live": "was_live",
    "tag": null
@@ -232,7 +232,7 @@
   {
    "id": "4X0APgfXp1I",
    "title": "Get More Done: Deep Work Focus Radio (Live)",
-   "views": 30,
+   "views": 31,
    "duration": 29183,
    "live": "was_live",
    "tag": "Focus Radio"
@@ -514,7 +514,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-24)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-25)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

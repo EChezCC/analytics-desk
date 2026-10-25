@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-09-26",
-  "end": "2026-10-23"
+  "start": "2026-09-27",
+  "end": "2026-10-24"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 423,
-  "sessions": 436,
-  "pageviews": 477,
+  "users": 425,
+  "sessions": 438,
+  "pageviews": 478,
   "daily": [
-   {
-    "day": "2026-09-26",
-    "users": 13,
-    "sessions": 14,
-    "pageviews": 15
-   },
    {
     "day": "2026-09-27",
     "users": 15,
@@ -177,13 +171,19 @@
     "users": 11,
     "sessions": 12,
     "pageviews": 12
+   },
+   {
+    "day": "2026-10-24",
+    "users": 15,
+    "sessions": 16,
+    "pageviews": 16
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 28,
-    "users": 26
+    "views": 26,
+    "users": 24
    },
    {
     "page": "/guides/florida-channel-markers-icw",
@@ -234,15 +234,19 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 307
+    "sessions": 311
    },
    {
     "channel": "Organic Search",
-    "sessions": 100
+    "sessions": 101
    },
    {
     "channel": "AI Assistant",
-    "sessions": 24
+    "sessions": 20
+   },
+   {
+    "channel": "Unassigned",
+    "sessions": 3
    },
    {
     "channel": "Organic Video",
@@ -251,24 +255,20 @@
    {
     "channel": "Referral",
     "sessions": 2
-   },
-   {
-    "channel": "Unassigned",
-    "sessions": 1
    }
   ]
  },
  "ga4_raw": {
   "users": 450,
   "sessions": 462,
-  "pageviews": 505
+  "pageviews": 504
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 133,
+  "impressions": 126,
   "top_queries": [
    {
     "query": "barge canal boat ramp",
@@ -313,12 +313,6 @@
     "position": 90
    },
    {
-    "query": "can you keep snook in florida",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 76
-   },
-   {
     "query": "causeway boat ramp",
     "clicks": 0,
     "impressions": 1,
@@ -329,6 +323,12 @@
     "clicks": 0,
     "impressions": 1,
     "position": 87
+   },
+   {
+    "query": "flat creek boat ramp",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 89
    }
   ]
  }
