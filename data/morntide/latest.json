@@ -1,25 +1,25 @@
 {
-  "day": "2026-10-24",
+  "day": "2026-10-25",
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
     "subs": 501,
-    "earn": 954,
-    "an7": 66.6,
-    "views7": 3412,
-    "an28": 186.8,
-    "views28": 9986,
-    "channel_views": 17975,
+    "earn": 962,
+    "an7": 70.9,
+    "views7": 4178,
+    "an28": 182.6,
+    "views28": 9899,
+    "channel_views": 18867,
     "video_count": 57,
-    "shorts90": 600,
+    "shorts90": 602,
     "subs_api_rounded": 501
   },
-  "content_source": "Studio eyes-on OK 2026-10-24 ~5:25 AM ET (2026-10-24T05:2x:00-04:00 America/New_York (approx)): identity Morntide Music / @Morntidemusic; URL channel id UCjIlIYsKiIyUOVsHpItKOWA; proof /workspace/desk-studio-pull/20261024/studio-proof/morntide/REPORT.json (identity_avatar_menu.png, KEY_earn.png, KEY_analytics_7d.png, KEY_analytics_28d.png, KEY_analytics_yesterday.png, KEY_content_28d.png). Subs CURRENT 501 = Studio exact (Earn + realtime); Data API rounded 501 stored as subs_api_rounded. Earn CURRENT 954 qualified public watch hours (Studio Earn, 365d meter as of Oct 19, 2026; threshold 3,000). shorts90 CURRENT 600 (Studio Earn). uploads_90d CURRENT 3/3. Analytics 7d CURRENT 66.6h / 3,412 views / n/a (Studio shows —) subs (Studio Oct 17 - 23, 2026). Analytics 28d CURRENT 186.8h / 9,986 views / +246 subs (Studio Sep 26 - Oct 23, 2026). Yesterday (Studio single-day) day_date 2026-10-23 day_views 773 day_watch_hours 6.2 CURRENT. CTR CURRENT 1.3% on 48.2K impressions (displayed rounded) (Studio Content tab 28d Sep 26 - Oct 23, 2026). Analytics API not pulled 2026-10-24 (no analytics-api.json); do not invent API 7d/28d. Data API CURRENT 2026-10-24 ~05:21 ET: video_count 57, channel_views 17,975. Content rows = Data API lifetime viewCount (higher kept; other rows carried). Per-video hours/CTR not invented. Do not log Earn 0 from a Memberships card or blank Earn tab.",
+  "content_source": "Studio eyes-on OK 2026-10-25 ~5:19 AM ET (2026-10-25T05:19:00-04:00 America/New_York (approx)): identity Morntide Music / @Morntidemusic; URL channel id UCjIlIYsKiIyUOVsHpItKOWA; proof /workspace/desk-studio-pull/20261025/studio-proof/morntide/REPORT.json (identity_avatar_menu.png, KEY_earn.png, KEY_analytics_7d.png, KEY_analytics_28d.png, KEY_analytics_yesterday.png, KEY_content_28d.png). Subs CURRENT 501 = Studio exact (Earn + realtime); Data API rounded 501 stored as subs_api_rounded. Earn CURRENT 962 qualified public watch hours (Studio Earn, 365d meter as of Oct 20, 2026; threshold 3,000). shorts90 CURRENT 602 (Studio Earn). uploads_90d CURRENT 3/3. Analytics 7d CURRENT 70.9h / 4,178 views / n/a (Studio shows —) subs (Studio Oct 18 - 24, 2026). Analytics 28d CURRENT 182.6h / 9,899 views / +211 subs (Studio Sep 27 - Oct 24, 2026). Yesterday (Studio single-day) day_date 2026-10-24 day_views 827 day_watch_hours 6.0 CURRENT. CTR CURRENT 1.3% on 43.1K impressions (displayed rounded) (Studio Content tab 28d Sep 27 - Oct 24, 2026). Analytics API not pulled 2026-10-25 (no analytics-api.json); do not invent API 7d/28d. Data API CURRENT 2026-10-25 ~05:14 ET: video_count 57, channel_views 18,867. Content rows = Data API lifetime viewCount (higher kept; other rows carried). Per-video hours/CTR not invented. Do not log Earn 0 from a Memberships card or blank Earn tab.",
   "content": [
     {
       "title": "Deep Work (1h)",
       "kind": "long",
-      "views": 4802,
+      "views": 6602,
       "id": "MPDy0P-CVc0"
     },
     {
@@ -109,7 +109,7 @@
     {
       "title": "First Light on the Water",
       "kind": "short",
-      "views": 741,
+      "views": 748,
       "id": "6dkl1uzGgjA"
     },
     {
@@ -150,10 +150,10 @@
     }
   ],
   "recs": [
-    "Subs 501 (Studio exact, 2026-10-24) clears the 500-sub bar for the first Earn tier; that tier still needs 3,000 hours. Hours 954 / 3,000 (Studio Earn 2026-10-24, meter as of Oct 19, 2026). Full YPP still needs 1,000 subs and 4,000 hours. End-screen Subscribe on Deep Work and First Light ~2h.",
-    "Deep Work 1h (4,802) and First Light ~2h (1,093) still carry the catalog. Wake Calm 374 next. Do not lead with Night Calm or the 8h sleep/spa longs.",
+    "Subs 501 (Studio exact, 2026-10-25) clears the 500-sub bar for the first Earn tier; that tier still needs 3,000 hours. Hours 962 / 3,000 (Studio Earn 2026-10-25, meter as of Oct 20, 2026). Full YPP still needs 1,000 subs and 4,000 hours. End-screen Subscribe on Deep Work and First Light ~2h.",
+    "Deep Work 1h (6,602) and First Light ~2h (1,093) still carry the catalog. Wake Calm 374 next. Do not lead with Night Calm or the 8h sleep/spa longs.",
     "8h work-done long is 2 views. Rainforest 33, Spa Bowls 30, Ocean Night 25. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
-    "Top 28d (Studio Overview 2026-10-24, Sep 26 - Oct 23, 2026): MISSING on Content tab. Overview 28d top: #1 'Stay present with this morning calm' 3,638; #2 'Deep Work Session | 1 Hour of Uninterrupted Focus' 3,001; #3 'Need to get work done? … #shorts' 211. Lifetime API: Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 600 (meter as of Oct 19, 2026).",
-    "Studio 28d CURRENT 186.8h / 9,986 views / +246 subs; 7d CURRENT 66.6h / 3,412 (Oct 17 - 23, 2026). Yesterday 2026-10-23: 773 views / 6.2h CURRENT. CTR 1.3% on 48.2K (28d). Analytics API not pulled 2026-10-24. No Studio blocker today (Morntide reached via channel switch from account list). Do not log Earn as 0 from a blank Earn tab or Memberships card."
+    "Top 28d (Studio Overview 2026-10-25, Sep 27 - Oct 24, 2026): Overview 28d top: #1 'Deep Work Session | 1 Hour…' 3,842; #2 'Stay present with this morning calm #shorts' 3,170; #3 'Need to get work done? #shorts' 211; #4 'Can't Concentrate? … Radio' 199; #5 'Can't Find Your Rhythm?' 190. Lifetime API: Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 602 (meter as of Oct 20, 2026).",
+    "Studio 28d CURRENT 182.6h / 9,899 views / +211 subs; 7d CURRENT 70.9h / 4,178 (Oct 18 - 24, 2026). Yesterday 2026-10-24: 827 views / 6.0h CURRENT. CTR 1.3% on 43.1K (28d). Analytics API not pulled 2026-10-25. No Studio blocker today (Morntide reached via channel switch from account list). Do not log Earn as 0 from a blank Earn tab or Memberships card."
   ]
 }
