@@ -10,42 +10,42 @@
   {
    "hours": 1000.0,
    "target": "2026-11-01",
-   "by": "2026-10-20",
-   "old_by": "2026-10-19",
+   "by": "2026-10-21",
+   "old_by": "2026-10-20",
    "days_from_as_of": 0.0,
-   "projected": "2026-10-20",
+   "projected": "2026-10-21",
    "status": "on track",
-   "days_vs_target": -12
+   "days_vs_target": -11
   },
   {
    "hours": 2000.0,
    "target": "2026-11-22",
-   "by": "2026-10-27",
-   "old_by": "2026-10-28",
-   "days_from_as_of": 7.5,
-   "projected": "2026-10-27",
+   "by": "2026-10-21",
+   "old_by": "2026-10-27",
+   "days_from_as_of": 0.0,
+   "projected": "2026-10-21",
    "status": "on track",
-   "days_vs_target": -26
+   "days_vs_target": -32
   },
   {
    "hours": 3000.0,
    "target": "2026-12-25",
-   "by": "2026-11-15",
-   "old_by": "2026-11-16",
-   "days_from_as_of": 26.7,
-   "projected": "2026-11-15",
+   "by": "2026-10-29",
+   "old_by": "2026-11-15",
+   "days_from_as_of": 8.2,
+   "projected": "2026-10-29",
    "status": "on track",
-   "days_vs_target": -40
+   "days_vs_target": -57
   },
   {
    "hours": 4000.0,
    "target": "2026-12-25",
-   "by": "2026-12-04",
-   "old_by": "2026-12-06",
-   "days_from_as_of": 45.9,
-   "projected": "2026-12-04",
+   "by": "2026-11-11",
+   "old_by": "2026-12-04",
+   "days_from_as_of": 21.5,
+   "projected": "2026-11-11",
    "status": "on track",
-   "days_vs_target": -21
+   "days_vs_target": -44
   }
  ],
  "daily": [
@@ -151,6 +151,17 @@
    "live": true,
    "subs": 3957,
    "note": "Studio Earn 1,608 (as of Oct 20; read ~5:16 AM ET Oct 25, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +80 vs 1,528 as of Oct 19). Last 24h by Data API: mixes Salsa Dominicana xRlcpZzmtwU (~10:55 AM ET Oct 24) and Pop Latino Party Mix IC29QXidwvY (Public 7 PM ET Oct 24); Shorts ZSzGuXqgINc, D3Z7CJGOLrk. Live Sat Oct 24 B8FRbJUcYoU (7:00-12:05 AM ET). Salsa s_BJgq_jikE h7 242.3 h (API, Oct 16-22). Deep house / Merengue h7 pending: Analytics API data only through Oct 22. Subs Studio 3,957 (API 3,950)."
+  },
+  {
+   "day": "2026-10-26",
+   "hours": 2379.0,
+   "as_of": "2026-10-21",
+   "added24": 771.0,
+   "mixes": 2,
+   "shorts": 2,
+   "live": true,
+   "subs": 4021,
+   "note": "Studio Earn 2,379 (as of Oct 21; read ~5:14 AM ET Oct 26, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +771 vs 1,608 as of Oct 20). Last 24h by Data API: mixes Bachata Romantica Mix Vol. 2 x-H_oIn1zqk (Public ~4 PM ET Oct 25) and Merengue Mix Vol. 2 z0iQlFW_F4w (Public 8 PM ET Oct 25); Shorts HV-0dgvn0bg, -_x018Mj8p4. Live Sun Oct 25 rSGKF2mvB3I (7:00 PM-12:06 AM ET). Deep house T31mIrSb1aQ h7 3.3 h (API, Oct 17-23; Oct 23 no rows). Merengue QkzzL15urq8 h7 pending: Analytics API data only through Oct 23. Subs Studio 4,021 (API 4,020)."
   }
  ],
  "mixes": [
@@ -169,7 +180,7 @@
    "publish": "2026-10-17 12:00 ET",
    "short": "vT_eK8oX75g",
    "status": "Public",
-   "h7": null,
+   "h7": 3.3,
    "h14": null
   },
   {
@@ -182,10 +193,10 @@
    "h14": null
   }
  ],
- "pace_h_per_day": 52.17,
- "pace_7d_h_per_day": 134.43,
+ "pace_h_per_day": 75.35,
+ "pace_7d_h_per_day": 244.57,
  "window_start": "2026-09-20",
- "window_end": "2026-10-20",
+ "window_end": "2026-10-21",
  "window_readings": {
   "start": {
    "as_of": "2026-09-20",
@@ -193,18 +204,18 @@
    "read": "2026-09-25"
   },
   "end": {
-   "as_of": "2026-10-20",
-   "hours": 1608.0,
-   "read": "2026-10-25"
+   "as_of": "2026-10-21",
+   "hours": 2379.0,
+   "read": "2026-10-26"
   },
   "7d_start": {
-   "as_of": "2026-10-13",
+   "as_of": "2026-10-14",
    "hours": 667.0,
-   "read": "2026-10-18"
+   "read": "2026-10-19"
   }
  },
  "window_gaps": "No Studio reading with as-of 2026-09-26, 09-28, 10-06 (not interpolated).",
- "method": "Dates = as-of 2026-10-20 + (milestone - 1608) / 52.17 h/day, the 28-day trailing pace (43 h as of 2026-09-20 to 1608 h as of 2026-10-20, Studio Earn as-of dates). 7-day pace 134.43 h/day (667 h as of 2026-10-13). Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
+ "method": "Dates = as-of 2026-10-21 + (milestone - 2379) / 75.35 h/day, the 28-day trailing pace (43 h as of 2026-09-20 to 2379 h as of 2026-10-21, Studio Earn as-of dates). 7-day pace 244.57 h/day (667 h as of 2026-10-14). Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
  "overall_status": "on track",
- "overall_note": "4000 h projected 2026-12-04 at 52.17 h/day (28d) vs target 2026-12-25: on track by 21 days"
+ "overall_note": "4000 h projected 2026-11-11 at 75.35 h/day (28d) vs target 2026-12-25: on track by 44 days"
 }
