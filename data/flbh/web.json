@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-09-27",
-  "end": "2026-10-24"
+  "start": "2026-09-28",
+  "end": "2026-10-25"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 425,
-  "sessions": 438,
-  "pageviews": 478,
+  "users": 426,
+  "sessions": 440,
+  "pageviews": 479,
   "daily": [
-   {
-    "day": "2026-09-27",
-    "users": 15,
-    "sessions": 15,
-    "pageviews": 16
-   },
    {
     "day": "2026-09-28",
     "users": 7,
@@ -177,6 +171,12 @@
     "users": 15,
     "sessions": 16,
     "pageviews": 16
+   },
+   {
+    "day": "2026-10-25",
+    "users": 16,
+    "sessions": 17,
+    "pageviews": 17
    }
   ],
   "top_pages": [
@@ -192,18 +192,13 @@
    },
    {
     "page": "/map/",
-    "views": 9,
-    "users": 8
-   },
-   {
-    "page": "/ramps/lee/lovers-key-state-park-motor-boat-launch",
-    "views": 9,
-    "users": 8
+    "views": 10,
+    "users": 9
    },
    {
     "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
-    "views": 8,
-    "users": 7
+    "views": 9,
+    "users": 8
    },
    {
     "page": "/ramps/",
@@ -226,6 +221,11 @@
     "users": 4
    },
    {
+    "page": "/ramps/lee/lovers-key-state-park-motor-boat-launch",
+    "views": 4,
+    "users": 3
+   },
+   {
     "page": "/ramps/miami-dade/rickenbacker-causeway-hobie-beach-catamaran-launch-motorized-craft-prohibited",
     "views": 4,
     "users": 3
@@ -238,15 +238,11 @@
    },
    {
     "channel": "Organic Search",
-    "sessions": 101
+    "sessions": 104
    },
    {
     "channel": "AI Assistant",
-    "sessions": 20
-   },
-   {
-    "channel": "Unassigned",
-    "sessions": 3
+    "sessions": 19
    },
    {
     "channel": "Organic Video",
@@ -255,21 +251,31 @@
    {
     "channel": "Referral",
     "sessions": 2
+   },
+   {
+    "channel": "Unassigned",
+    "sessions": 2
    }
   ]
  },
  "ga4_raw": {
-  "users": 450,
-  "sessions": 462,
-  "pageviews": 504
+  "users": 451,
+  "sessions": 464,
+  "pageviews": 505
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 126,
+  "impressions": 123,
   "top_queries": [
+   {
+    "query": "alimacani boat ramp",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 84
+   },
    {
     "query": "barge canal boat ramp",
     "clicks": 0,
@@ -297,8 +303,8 @@
    {
     "query": "boating naples fl",
     "clicks": 0,
-    "impressions": 3,
-    "position": 96.7
+    "impressions": 2,
+    "position": 97.5
    },
    {
     "query": "camp mack boat ramp",
@@ -323,12 +329,6 @@
     "clicks": 0,
     "impressions": 1,
     "position": 87
-   },
-   {
-    "query": "flat creek boat ramp",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 89
    }
   ]
  }

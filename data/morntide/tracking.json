@@ -1,9 +1,9 @@
 {
- "fetched": "2026-10-25T05:59-04:00",
+ "fetched": "2026-10-26T06:01-04:00",
  "subs_public": 501,
- "studio_day": "2026-10-25",
+ "studio_day": "2026-10-26",
  "subs_studio": 501,
- "earn": 962,
+ "earn": 965,
  "uploads": [
   {
    "id": "R2rgrxRU0ro",
@@ -71,7 +71,7 @@
   {
    "id": "FDCP-FRQ_GU",
    "title": "One Hour of Quiet Focus: First Light Sessions",
-   "views": 83,
+   "views": 88,
    "duration": 3655,
    "live": null
   },
@@ -127,7 +127,7 @@
   {
    "id": "MPDy0P-CVc0",
    "title": "Deep Work Session | 1 Hour of Uninterrupted Focus",
-   "views": 6600,
+   "views": 7300,
    "duration": 3997,
    "live": null
   }
@@ -152,7 +152,7 @@
   {
    "id": "QmPOSboD7EA",
    "title": "Can't Get Things Done? Play This for Deep Focus",
-   "views": 165,
+   "views": 175,
    "duration": 30475,
    "live": "was_live",
    "tag": null
@@ -514,7 +514,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-25)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-26)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
