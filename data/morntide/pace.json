@@ -54,12 +54,16 @@
     {
      "day": "2026-10-26",
      "value": 501
+    },
+    {
+     "day": "2026-10-27",
+     "value": 500
     }
    ],
-   "rate_per_day": 0.167,
-   "window": "2026-10-14 to 2026-10-26 (12 days)",
-   "last": 501,
-   "projected": "2035-01-06",
+   "rate_per_day": 0.077,
+   "window": "2026-10-14 to 2026-10-27 (13 days)",
+   "last": 500,
+   "projected": "2044-08-13",
    "status": "projected"
   },
   {
@@ -110,12 +114,16 @@
     {
      "day": "2026-10-21",
      "value": 965
+    },
+    {
+     "day": "2026-10-22",
+     "value": 976
     }
    ],
-   "rate_per_day": 3.25,
-   "window": "2026-10-09 to 2026-10-21 (12 days)",
-   "last": 965,
-   "projected": "2029-05-12",
+   "rate_per_day": 3.846,
+   "window": "2026-10-09 to 2026-10-22 (13 days)",
+   "last": 976,
+   "projected": "2028-12-16",
    "status": "projected"
   }
  ]

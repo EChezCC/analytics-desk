@@ -1,9 +1,9 @@
 {
- "fetched": "2026-10-26T06:01-04:00",
- "subs_public": 501,
- "studio_day": "2026-10-26",
- "subs_studio": 501,
- "earn": 965,
+ "fetched": "2026-10-27T04:53-05:00",
+ "subs_public": 500,
+ "studio_day": "2026-10-27",
+ "subs_studio": 500,
+ "earn": 976,
  "uploads": [
   {
    "id": "R2rgrxRU0ro",
@@ -43,7 +43,7 @@
   {
    "id": "DnELf6IoANQ",
    "title": "Lost in the Rainforest: 8 Hours of Nighttime Rain Sounds",
-   "views": 34,
+   "views": 35,
    "duration": 28801,
    "live": null
   },
@@ -127,24 +127,32 @@
   {
    "id": "MPDy0P-CVc0",
    "title": "Deep Work Session | 1 Hour of Uninterrupted Focus",
-   "views": 7300,
+   "views": 8300,
    "duration": 3997,
    "live": null
   }
  ],
  "streams": [
   {
-   "id": "MftbIsEGtBs",
-   "title": "Can't Get Into the Flow? Play This for Deep Focus",
+   "id": "ec9D-z_qhaw",
+   "title": "Can't Stay in the Zone? Play This for Deep Work",
    "views": null,
    "duration": null,
    "live": "is_upcoming",
    "tag": null
   },
   {
+   "id": "MftbIsEGtBs",
+   "title": "Can't Get Into the Flow? Play This for Deep Focus",
+   "views": 14,
+   "duration": 29488,
+   "live": "was_live",
+   "tag": null
+  },
+  {
    "id": "_ONhZdxsGg4",
    "title": "Can't Get Into the Zone? Play This for Deep Focus",
-   "views": 36,
+   "views": 37,
    "duration": 29285,
    "live": "was_live",
    "tag": null
@@ -160,7 +168,7 @@
   {
    "id": "NTsLwcnBb1Q",
    "title": "Can't Find Your Rhythm? Play This for Deep Focus",
-   "views": 190,
+   "views": 191,
    "duration": 28042,
    "live": "was_live",
    "tag": null
@@ -192,7 +200,7 @@
   {
    "id": "a65tpoKZOeI",
    "title": "Can't Start Working? Play This for Instant Focus",
-   "views": 88,
+   "views": 89,
    "duration": 28490,
    "live": "was_live",
    "tag": null
@@ -514,7 +522,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-26)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-27)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
