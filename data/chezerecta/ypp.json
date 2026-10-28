@@ -10,42 +10,42 @@
   {
    "hours": 1000.0,
    "target": "2026-11-01",
-   "by": "2026-10-22",
-   "old_by": "2026-10-21",
+   "by": "2026-10-23",
+   "old_by": "2026-10-22",
    "days_from_as_of": 0.0,
-   "projected": "2026-10-22",
+   "projected": "2026-10-23",
    "status": "on track",
-   "days_vs_target": -10
+   "days_vs_target": -9
   },
   {
    "hours": 2000.0,
    "target": "2026-11-22",
-   "by": "2026-10-22",
-   "old_by": "2026-10-21",
+   "by": "2026-10-23",
+   "old_by": "2026-10-22",
    "days_from_as_of": 0.0,
-   "projected": "2026-10-22",
+   "projected": "2026-10-23",
    "status": "on track",
-   "days_vs_target": -31
+   "days_vs_target": -30
   },
   {
    "hours": 3000.0,
    "target": "2026-12-25",
-   "by": "2026-10-25",
-   "old_by": "2026-10-29",
-   "days_from_as_of": 3.6,
-   "projected": "2026-10-25",
+   "by": "2026-10-23",
+   "old_by": "2026-10-25",
+   "days_from_as_of": 0.0,
+   "projected": "2026-10-23",
    "status": "on track",
-   "days_vs_target": -61
+   "days_vs_target": -63
   },
   {
    "hours": 4000.0,
    "target": "2026-12-25",
-   "by": "2026-11-06",
-   "old_by": "2026-11-11",
-   "days_from_as_of": 15.6,
-   "projected": "2026-11-06",
+   "by": "2026-10-30",
+   "old_by": "2026-11-06",
+   "days_from_as_of": 7.0,
+   "projected": "2026-10-30",
    "status": "on track",
-   "days_vs_target": -49
+   "days_vs_target": -56
   }
  ],
  "daily": [
@@ -173,6 +173,17 @@
    "live": false,
    "subs": 4035,
    "note": "Studio Earn 2,702 (as of Oct 22; read ~5:20 AM ET Oct 27, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +323 vs 2,379 as of Oct 21). Last 24h by Data API: mixes Ranchera Mexicana v73m6_wCZWY (Public 6 PM ET Oct 26) and Cumbia Colombia -qTrOJAZJPo (Public 9 PM ET Oct 26); Shorts x6BEXXHbaTs, n77t7du3-u8. No live Mon Oct 26 (Radio Thu-Sun). Merengue QkzzL15urq8 h7 70.6 h (API, Oct 18-24). Subs Studio 4,035 (API 4,030)."
+  },
+  {
+   "day": "2026-10-28",
+   "hours": 3304.0,
+   "as_of": "2026-10-23",
+   "added24": 602.0,
+   "mixes": 2,
+   "shorts": 3,
+   "live": false,
+   "subs": 4111,
+   "note": "Studio Earn 3,304 (as of Oct 23; read ~5:15 AM ET Oct 28, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +602 vs 2,702 as of Oct 22). Last 24h by Data API: mixes Reggaetón Clásico Old School koAuAT76e8g (Public ~5 PM ET Oct 27) and Bachatas Que Duelen UQXNazwzf1s (Public ~7:21 PM ET Oct 27); Shorts 7WZoOkWQo-Q, 3Py1J01XPjI, UD4Tu4EAf1c. No live Tue Oct 27 (Radio Thu-Sun). No tracked mix at a 7/14-day mark with API data (Salsa/Deep house/Merengue h14 pending). Subs Studio 4,111 (API 4,110)."
   }
  ],
  "mixes": [
@@ -204,10 +215,10 @@
    "h14": null
   }
  ],
- "pace_h_per_day": 83.09,
- "pace_7d_h_per_day": 279.71,
+ "pace_h_per_day": 98.82,
+ "pace_7d_h_per_day": 356.86,
  "window_start": "2026-09-20",
- "window_end": "2026-10-22",
+ "window_end": "2026-10-23",
  "window_readings": {
   "start": {
    "as_of": "2026-09-20",
@@ -215,18 +226,18 @@
    "read": "2026-09-25"
   },
   "end": {
-   "as_of": "2026-10-22",
-   "hours": 2702.0,
-   "read": "2026-10-27"
+   "as_of": "2026-10-23",
+   "hours": 3304.0,
+   "read": "2026-10-28"
   },
   "7d_start": {
-   "as_of": "2026-10-15",
-   "hours": 744.0,
-   "read": "2026-10-20"
+   "as_of": "2026-10-16",
+   "hours": 806.0,
+   "read": "2026-10-21"
   }
  },
  "window_gaps": "No Studio reading with as-of 2026-09-26, 09-28, 10-06 (not interpolated).",
- "method": "Dates = as-of 2026-10-22 + (milestone - 2702) / 83.09 h/day, the 28-day trailing pace (43 h as of 2026-09-20 to 2702 h as of 2026-10-22, Studio Earn as-of dates). 7-day pace 279.71 h/day (744 h as of 2026-10-15). Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
+ "method": "Dates = as-of 2026-10-23 + (milestone - 3304) / 98.82 h/day, the 28-day trailing pace (43 h as of 2026-09-20 to 3304 h as of 2026-10-23, Studio Earn as-of dates). 7-day pace 356.86 h/day (806 h as of 2026-10-16). Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
  "overall_status": "on track",
- "overall_note": "4000 h projected 2026-11-06 at 83.09 h/day (28d) vs target 2026-12-25: on track by 49 days"
+ "overall_note": "4000 h projected 2026-10-30 at 98.82 h/day (28d) vs target 2026-12-25: on track by 56 days"
 }
