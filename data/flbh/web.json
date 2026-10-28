@@ -5,7 +5,266 @@
   "end": "2026-10-27"
  },
  "ga4_property": "546216215",
- "ga4_error": "TimeoutError: The read operation timed out",
+ "ga4": {
+  "users": 451,
+  "sessions": 464,
+  "pageviews": 503,
+  "daily": [
+   {
+    "day": "2026-09-30",
+    "users": 5,
+    "sessions": 6,
+    "pageviews": 5
+   },
+   {
+    "day": "2026-10-01",
+    "users": 7,
+    "sessions": 7,
+    "pageviews": 9
+   },
+   {
+    "day": "2026-10-02",
+    "users": 14,
+    "sessions": 14,
+    "pageviews": 18
+   },
+   {
+    "day": "2026-10-03",
+    "users": 14,
+    "sessions": 14,
+    "pageviews": 16
+   },
+   {
+    "day": "2026-10-04",
+    "users": 10,
+    "sessions": 11,
+    "pageviews": 11
+   },
+   {
+    "day": "2026-10-05",
+    "users": 12,
+    "sessions": 12,
+    "pageviews": 13
+   },
+   {
+    "day": "2026-10-06",
+    "users": 8,
+    "sessions": 8,
+    "pageviews": 9
+   },
+   {
+    "day": "2026-10-07",
+    "users": 16,
+    "sessions": 16,
+    "pageviews": 19
+   },
+   {
+    "day": "2026-10-08",
+    "users": 8,
+    "sessions": 8,
+    "pageviews": 7
+   },
+   {
+    "day": "2026-10-09",
+    "users": 17,
+    "sessions": 19,
+    "pageviews": 19
+   },
+   {
+    "day": "2026-10-10",
+    "users": 18,
+    "sessions": 19,
+    "pageviews": 20
+   },
+   {
+    "day": "2026-10-11",
+    "users": 9,
+    "sessions": 9,
+    "pageviews": 15
+   },
+   {
+    "day": "2026-10-12",
+    "users": 7,
+    "sessions": 8,
+    "pageviews": 8
+   },
+   {
+    "day": "2026-10-13",
+    "users": 9,
+    "sessions": 9,
+    "pageviews": 9
+   },
+   {
+    "day": "2026-10-14",
+    "users": 6,
+    "sessions": 6,
+    "pageviews": 7
+   },
+   {
+    "day": "2026-10-15",
+    "users": 18,
+    "sessions": 18,
+    "pageviews": 18
+   },
+   {
+    "day": "2026-10-16",
+    "users": 27,
+    "sessions": 27,
+    "pageviews": 30
+   },
+   {
+    "day": "2026-10-17",
+    "users": 16,
+    "sessions": 17,
+    "pageviews": 21
+   },
+   {
+    "day": "2026-10-18",
+    "users": 12,
+    "sessions": 12,
+    "pageviews": 14
+   },
+   {
+    "day": "2026-10-19",
+    "users": 52,
+    "sessions": 53,
+    "pageviews": 57
+   },
+   {
+    "day": "2026-10-20",
+    "users": 65,
+    "sessions": 65,
+    "pageviews": 69
+   },
+   {
+    "day": "2026-10-21",
+    "users": 6,
+    "sessions": 6,
+    "pageviews": 6
+   },
+   {
+    "day": "2026-10-22",
+    "users": 17,
+    "sessions": 18,
+    "pageviews": 19
+   },
+   {
+    "day": "2026-10-23",
+    "users": 11,
+    "sessions": 12,
+    "pageviews": 12
+   },
+   {
+    "day": "2026-10-24",
+    "users": 15,
+    "sessions": 16,
+    "pageviews": 16
+   },
+   {
+    "day": "2026-10-25",
+    "users": 16,
+    "sessions": 17,
+    "pageviews": 17
+   },
+   {
+    "day": "2026-10-26",
+    "users": 17,
+    "sessions": 17,
+    "pageviews": 19
+   },
+   {
+    "day": "2026-10-27",
+    "users": 20,
+    "sessions": 20,
+    "pageviews": 20
+   }
+  ],
+  "top_pages": [
+   {
+    "page": "/",
+    "views": 28,
+    "users": 26
+   },
+   {
+    "page": "/guides/florida-channel-markers-icw",
+    "views": 13,
+    "users": 11
+   },
+   {
+    "page": "/map/",
+    "views": 11,
+    "users": 10
+   },
+   {
+    "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
+    "views": 10,
+    "users": 9
+   },
+   {
+    "page": "/ramps/",
+    "views": 5,
+    "users": 5
+   },
+   {
+    "page": "/ramps/dixie/shired-island-public-boat-ramp",
+    "views": 4,
+    "users": 3
+   },
+   {
+    "page": "/ramps/lake/banana-cove-marina-and-rv-park",
+    "views": 4,
+    "users": 3
+   },
+   {
+    "page": "/ramps/lee/",
+    "views": 4,
+    "users": 4
+   },
+   {
+    "page": "/ramps/lee/lovers-key-state-park-motor-boat-launch",
+    "views": 4,
+    "users": 3
+   },
+   {
+    "page": "/ramps/miami-dade/rickenbacker-causeway-hobie-beach-catamaran-launch-motorized-craft-prohibited",
+    "views": 4,
+    "users": 3
+   }
+  ],
+  "sources": [
+   {
+    "channel": "Direct",
+    "sessions": 331
+   },
+   {
+    "channel": "Organic Search",
+    "sessions": 107
+   },
+   {
+    "channel": "AI Assistant",
+    "sessions": 19
+   },
+   {
+    "channel": "Organic Video",
+    "sessions": 2
+   },
+   {
+    "channel": "Referral",
+    "sessions": 2
+   },
+   {
+    "channel": "Unassigned",
+    "sessions": 2
+   }
+  ]
+ },
+ "ga4_raw": {
+  "users": 476,
+  "sessions": 488,
+  "pageviews": 529
+ },
+ "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
+ "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
