@@ -1,14 +1,14 @@
 {
- "fetched": "2026-10-27T04:53-05:00",
+ "fetched": "2026-10-28T04:58-05:00",
  "subs_public": 500,
- "studio_day": "2026-10-27",
+ "studio_day": "2026-10-28",
  "subs_studio": 500,
- "earn": 976,
+ "earn": 980,
  "uploads": [
   {
    "id": "R2rgrxRU0ro",
    "title": "this playlist will keep you in deep focus while coding (3 hours, no lyrics)",
-   "views": 10,
+   "views": 11,
    "duration": 10801,
    "live": null
   },
@@ -22,7 +22,7 @@
   {
    "id": "tkMY70rFDqA",
    "title": "Autumn Cabin Piano Ambience for Deep Concentration (2 Hours)",
-   "views": 41,
+   "views": 42,
    "duration": 7567,
    "live": null
   },
@@ -50,7 +50,7 @@
   {
    "id": "U78G7IYZ51o",
    "title": "The Spa Room: 8 Hours of Ambient Singing Bowls for Stress Relief",
-   "views": 30,
+   "views": 31,
    "duration": 29101,
    "live": null
   },
@@ -127,7 +127,7 @@
   {
    "id": "MPDy0P-CVc0",
    "title": "Deep Work Session | 1 Hour of Uninterrupted Focus",
-   "views": 8300,
+   "views": 9300,
    "duration": 3997,
    "live": null
   }
@@ -144,7 +144,7 @@
   {
    "id": "MftbIsEGtBs",
    "title": "Can't Get Into the Flow? Play This for Deep Focus",
-   "views": 14,
+   "views": 30,
    "duration": 29488,
    "live": "was_live",
    "tag": null
@@ -522,7 +522,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-27)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-28)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
