@@ -184,6 +184,17 @@
    "live": false,
    "subs": 4111,
    "note": "Studio Earn 3,304 (as of Oct 23; read ~5:15 AM ET Oct 28, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +602 vs 2,702 as of Oct 22). Last 24h by Data API: mixes Reggaetón Clásico Old School koAuAT76e8g (Public ~5 PM ET Oct 27) and Bachatas Que Duelen UQXNazwzf1s (Public ~7:21 PM ET Oct 27); Shorts 7WZoOkWQo-Q, 3Py1J01XPjI, UD4Tu4EAf1c. No live Tue Oct 27 (Radio Thu-Sun). No tracked mix at a 7/14-day mark with API data (Salsa/Deep house/Merengue h14 pending). Subs Studio 4,111 (API 4,110)."
+  },
+  {
+   "day": "2026-10-29",
+   "hours": null,
+   "as_of": null,
+   "added24": null,
+   "mixes": 2,
+   "shorts": 2,
+   "live": false,
+   "subs": 4181,
+   "note": "UNVERIFIED hours: no fresh Studio Earn reading (read ~5:2x AM ET Oct 29, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page now shows the YPP onboarding stepper (Step 1 terms Done, Step 2 AdSense Not started, Step 3 review Not started) with no watch-hour/sub meters, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Last 24h by Data API: Public longs House & Club Originals 5MYHEBpYk8I (~4 PM ET Oct 28) and Noches Sonideras Full Album 5WP-_FVC7Xw (~9:15 PM ET Oct 28); Public Shorts __oQX3-epS0, h0i4P-I-CWg. Also uploaded Private (not counted): Dos Cafés 3UEBvxaJiOc + Short Jj0b8c59MPI (scheduled 7 PM ET Oct 29), Salsa Dura gESUjka6Q3Q and Dembow PZ6SUCDAzSM + Shorts (held, Argon freeze). No live Wed Oct 28 (Radio Thu-Sun). No tracked mix at a 7/14-day mark with API data. Subs Studio dashboard 4,181 (API 4,180)."
   }
  ],
  "mixes": [
@@ -239,5 +250,5 @@
  "window_gaps": "No Studio reading with as-of 2026-09-26, 09-28, 10-06 (not interpolated).",
  "method": "Dates = as-of 2026-10-23 + (milestone - 3304) / 98.82 h/day, the 28-day trailing pace (43 h as of 2026-09-20 to 3304 h as of 2026-10-23, Studio Earn as-of dates). 7-day pace 356.86 h/day (806 h as of 2026-10-16). Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
  "overall_status": "on track",
- "overall_note": "4000 h projected 2026-10-30 at 98.82 h/day (28d) vs target 2026-12-25: on track by 56 days"
+ "overall_note": "4000 h projected 2026-10-30 at 98.82 h/day (28d) vs target 2026-12-25: on track by 56 days | UNVERIFIED since 2026-10-29: Studio Earn meters replaced by YPP onboarding stepper; pace window still ends as of 2026-10-23 (no newer Studio reading)."
 }
