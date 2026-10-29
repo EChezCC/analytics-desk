@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-09-30",
-  "end": "2026-10-27"
+  "start": "2026-10-01",
+  "end": "2026-10-28"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 451,
-  "sessions": 464,
-  "pageviews": 503,
+  "users": 460,
+  "sessions": 473,
+  "pageviews": 517,
   "daily": [
-   {
-    "day": "2026-09-30",
-    "users": 5,
-    "sessions": 6,
-    "pageviews": 5
-   },
    {
     "day": "2026-10-01",
     "users": 7,
@@ -177,6 +171,12 @@
     "users": 20,
     "sessions": 20,
     "pageviews": 20
+   },
+   {
+    "day": "2026-10-28",
+    "users": 14,
+    "sessions": 15,
+    "pageviews": 19
    }
   ],
   "top_pages": [
@@ -187,7 +187,7 @@
    },
    {
     "page": "/guides/florida-channel-markers-icw",
-    "views": 13,
+    "views": 14,
     "users": 11
    },
    {
@@ -197,8 +197,8 @@
    },
    {
     "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
-    "views": 10,
-    "users": 9
+    "views": 11,
+    "users": 10
    },
    {
     "page": "/ramps/",
@@ -234,15 +234,19 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 331
+    "sessions": 336
    },
    {
     "channel": "Organic Search",
-    "sessions": 107
+    "sessions": 112
    },
    {
     "channel": "AI Assistant",
-    "sessions": 19
+    "sessions": 18
+   },
+   {
+    "channel": "Unassigned",
+    "sessions": 3
    },
    {
     "channel": "Organic Video",
@@ -251,24 +255,20 @@
    {
     "channel": "Referral",
     "sessions": 2
-   },
-   {
-    "channel": "Unassigned",
-    "sessions": 2
    }
   ]
  },
  "ga4_raw": {
-  "users": 476,
-  "sessions": 488,
-  "pageviews": 529
+  "users": 485,
+  "sessions": 497,
+  "pageviews": 543
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 110,
+  "impressions": 104,
   "top_queries": [
    {
     "query": "alimacani boat ramp",

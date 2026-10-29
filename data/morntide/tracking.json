@@ -1,9 +1,9 @@
 {
- "fetched": "2026-10-28T05:00-05:00",
+ "fetched": "2026-10-29T06:01-04:00",
  "subs_public": 500,
- "studio_day": "2026-10-28",
+ "studio_day": "2026-10-29",
  "subs_studio": 500,
- "earn": 980,
+ "earn": 983,
  "uploads": [
   {
    "id": "R2rgrxRU0ro",
@@ -144,7 +144,7 @@
   {
    "id": "MftbIsEGtBs",
    "title": "Can't Get Into the Flow? Play This for Deep Focus",
-   "views": 30,
+   "views": 32,
    "duration": 29488,
    "live": "was_live",
    "tag": null
@@ -192,7 +192,7 @@
   {
    "id": "9avtzUrQjDo",
    "title": "Can't Start Your Task? Play This for Deep Focus",
-   "views": 134,
+   "views": 135,
    "duration": 29317,
    "live": "was_live",
    "tag": null
@@ -522,7 +522,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-28)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-29)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

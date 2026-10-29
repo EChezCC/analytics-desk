@@ -1,14 +1,14 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-09-30",
-  "end": "2026-10-27"
+  "start": "2026-10-01",
+  "end": "2026-10-28"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 118,
-  "sessions": 128,
-  "pageviews": 142,
+  "users": 124,
+  "sessions": 134,
+  "pageviews": 150,
   "daily": [
    {
     "day": "2026-10-12",
@@ -99,18 +99,24 @@
     "users": 2,
     "sessions": 2,
     "pageviews": 2
+   },
+   {
+    "day": "2026-10-28",
+    "users": 6,
+    "sessions": 6,
+    "pageviews": 8
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 92,
-    "users": 85
+    "views": 93,
+    "users": 86
    },
    {
     "page": "/es/",
-    "views": 26,
-    "users": 23
+    "views": 29,
+    "users": 24
    },
    {
     "page": "/player/",
@@ -119,18 +125,18 @@
    },
    {
     "page": "/releases/",
-    "views": 4,
+    "views": 6,
+    "users": 5
+   },
+   {
+    "page": "/releases/halloween-reggaeton-mix-2026/",
+    "views": 3,
     "users": 3
    },
    {
     "page": "/releases/cumbia-mix-2026/",
     "views": 2,
     "users": 1
-   },
-   {
-    "page": "/releases/halloween-reggaeton-mix-2026/",
-    "views": 2,
-    "users": 2
    },
    {
     "page": "/releases/la-mejor-salsa-navidena-el-gran-combo-hector-lavoe-celia-cruz/",
@@ -148,7 +154,7 @@
     "users": 1
    },
    {
-    "page": "/releases/deep-house-drive/",
+    "page": "/es/releases/",
     "views": 1,
     "users": 1
    }
@@ -160,29 +166,29 @@
    },
    {
     "channel": "Organic Video",
-    "sessions": 23
+    "sessions": 27
    },
    {
     "channel": "Organic Social",
-    "sessions": 15
+    "sessions": 16
    },
    {
     "channel": "Organic Search",
-    "sessions": 4
+    "sessions": 5
    }
   ]
  },
  "ga4_raw": {
-  "users": 560,
-  "sessions": 572,
-  "pageviews": 587
+  "users": 566,
+  "sessions": 578,
+  "pageviews": 595
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (375 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (383 paths)",
  "bot_spikes": [
   {
    "day": "2026-10-13",
    "sessions": 468,
-   "median": 8,
+   "median": 8.0,
    "direct_share": 0.99,
    "offsite_share": 0.93,
    "kept_sessions": 30
@@ -191,7 +197,7 @@
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 3,
-  "impressions": 53,
+  "impressions": 58,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
