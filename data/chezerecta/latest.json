@@ -1,37 +1,37 @@
 {
-  "day": "2026-10-29",
+  "day": "2026-10-30",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
     "subs": null,
     "earn": null,
-    "an7": 7500.0,
-    "views7": 83180,
-    "an28": 9600.0,
-    "views28": 116346,
+    "an7": 7600.0,
+    "views7": 94698,
+    "an28": 9900.0,
+    "views28": 128460,
     "shorts90": null,
-    "channel_views": 377013,
-    "video_count": 205,
-    "subs_api_rounded": 4180,
+    "channel_views": 376385,
+    "video_count": 213,
+    "subs_api_rounded": 4250,
     "subs_note": "MISSING: exact Studio count not available on Earn screen today",
-    "subs_error": "Studio subscriber count is missing (Earn screen showed YPP onboarding stepper with no subscriber/watch-hour meters, Oct 29 ~5:19 AM ET); subs left null, rounded API value NOT used.",
+    "subs_error": "Studio subscriber count is missing (Earn screen showed YPP onboarding stepper with no subscriber/watch-hour meters, Oct 30 ~5:17 AM ET); subs left null, rounded API value NOT used.",
     "earn_status": "MISSING (Earn screen shows onboarding stepper, no meters)",
     "earn_last_known": 3304,
     "earn_last_known_as_of": "2026-10-23",
     "shorts90_status": "MISSING"
   },
-  "content_source": "YouTube Data API CURRENT 2026-10-29 ~5:14 AM ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261029/chezerecta-api.json): subs = exact Studio count (Earn screen) — MISSING today (Studio subscriber count is missing (Earn screen showed YPP onboarding stepper with no subscriber/watch-hour meters, Oct 29 ~5:19 AM ET); subs left null, rounded API value NOT used.); API rounded subscriberCount 4,180 stored separately as subs_api_rounded; video_count 205, channel_views 377,013. Content board = lifetime viewCount, Data API merged with prior board (higher count kept); no CTR or hours on rows. Desk Studio PARTIAL (HARD identity PASS; proof /workspace/desk-studio-pull/20261029/studio-proof/chezerecta/REPORT.json) ~5:19 AM ET: Earn MISSING — Earn page now shows YPP onboarding steps (Step 1 base terms Done, Step 2 AdSense Not started, Step 3 review Not started) and no meters; LAST-KNOWN Earn 3,304 (as of Oct 23) and subs 4,111 (read Oct 28). shorts90 MISSING. Dashboard/Realtime shows 4,181 subs (UNVERIFIED as Earn-exact; not used for subs). 7d CURRENT Oct 22–28, 2026: 83,180 views / 7.5K h (Studio K-rounded; stored as 7500, exact not shown), subs +286; 28d Oct 1–28, 2026: 116,346 views / 9.6K h (Studio K-rounded; stored as 9600, exact not shown), subs +327. Yesterday (Oct 28, 2026) single-day Studio: 12,096 views / 673.6 watch hours, subs +68. Content tab 28d: 782.1K impressions, CTR 3.1%; views by format Shorts 70.2K (60.4%), Videos 41.7K (35.9%), Live 4.3K (3.7%). 28d top-content table MISSING on Content tab; 7d impressions/CTR MISSING.",
+  "content_source": "YouTube Data API CURRENT 2026-10-30 ~5:14 AM ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261030/chezerecta-api.json): subs = exact Studio count (Earn screen) — MISSING today (Studio subscriber count is missing (Earn screen showed YPP onboarding stepper with no subscriber/watch-hour meters, Oct 30 ~5:17 AM ET); subs left null, rounded API value NOT used.); API rounded subscriberCount 4,250 stored separately as subs_api_rounded; video_count 213, channel_views 376,385. Content board = lifetime viewCount, Data API merged with prior board (higher count kept); no CTR or hours on rows. Desk Studio PARTIAL (HARD identity PASS; proof /workspace/desk-studio-pull/20261030/studio-proof/chezerecta/REPORT.json) ~5:17 AM ET: Earn MISSING — Earn page shows YPP onboarding steps (Step 1 base terms Done, Step 2 AdSense Done (account linked), Step 3 Get reviewed In progress) and no meters; LAST-KNOWN Earn 3,304 (as of Oct 23) and subs 4,111 (read Oct 28). shorts90 MISSING. Dashboard/Realtime shows 4,250 subs (UNVERIFIED as Earn-exact; not used for subs). 7d CURRENT Oct 23–29, 2026: 94,698 views / 7.6K h (Studio K-rounded; stored as 7600, exact not shown), subs +358; 28d Oct 2–29, 2026: 128,460 views / 9.9K h (Studio K-rounded; stored as 9900, exact not shown), subs +398. Yesterday (Oct 29, 2026) single-day Studio: 13,051 views / 381.8 watch hours, subs +72. Content tab 28d: 810.1K impressions, CTR 3.1%; views by format Shorts 80.8K (63.0%), Videos 43.2K (33.7%), Live 4.1K (3.2%), Posts 9 (0%). 28d per-title CTR/hours MISSING; 7d impressions/CTR MISSING.",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 21674,
+      "views": 21736,
       "id": "X9j7lvl1lGg"
     },
     {
       "title": "Háblame Bailando",
       "kind": "long",
-      "views": 14622,
+      "views": 14626,
       "id": "qXW0DEkTe2Q"
     },
     {
@@ -43,7 +43,7 @@
     {
       "title": "Vuelve Esta Noche",
       "kind": "long",
-      "views": 2227,
+      "views": 2228,
       "id": "1sKPharmVVM"
     },
     {
@@ -73,13 +73,13 @@
     {
       "title": "Hablame Bailando",
       "kind": "short",
-      "views": 118025,
+      "views": 118027,
       "id": "jXYgugUiUc0"
     },
     {
       "title": "Aunque Duela",
       "kind": "short",
-      "views": 49738,
+      "views": 49739,
       "id": "xFZKi7tDTm8"
     },
     {
@@ -102,10 +102,11 @@
     }
   ],
   "recs": [
-    "Earn MISSING today: the Studio Earn page switched to the YPP onboarding stepper (base terms Done, AdSense Not started, review Not started) with no meters. LAST-KNOWN 3,304 qualified public hours as of Oct 23. Any AdSense/application step is Ask-first for Eric; YPP status beyond the stepper UNVERIFIED. shorts90 MISSING.",
-    "subs MISSING (exact Studio Earn count not shown); Data API rounded 4,180; Studio Dashboard/Realtime 4,181 (UNVERIFIED as Earn-exact). Last exact Studio count 4,111 on Oct 28.",
-    "Board Short jXYgugUiUc0 is at 118,025 lifetime; Salsa, Dembow y más / Latin Mix X9j7lvl1lGg at 21,674 lifetime (Data API). Keep end screens and live pins pointing at the Mix and the newest Public longs.",
-    "Analytics CURRENT 7d 7.5K h (rounded) / 83,180 views (Oct 22–28), subs +286; previous 7d 7600h / 74,638 (Oct 21–27). 28d 9.6K h (rounded) / 116,346 views (Oct 1–28), +327 subs; 28d impressions 782.1K, CTR 3.1%. Yesterday Oct 28: 12,096 views / 673.6 h, +68 subs.",
-    "video_count CURRENT 205 (-24 from 229) / channel_views CURRENT 377,013 (+11,908 from 365,105 on Oct 28, Data API)."
+    "Earn MISSING today: the Studio Earn page shows the YPP onboarding stepper (Step 1 base terms Done, Step 2 AdSense Done (account linked), Step 3 Get reviewed In progress) with no meters. LAST-KNOWN 3,304 qualified public hours as of Oct 23. YPP decision comes by email; status beyond the stepper UNVERIFIED. shorts90 MISSING.",
+    "Studio Dashboard shows 'Channel violations: Active Community Guidelines strikes: Warning' (read Oct 30 ~5:17 AM ET; details UNVERIFIED). Flag to Eric/Jarvis before any new Public while YPP review is in progress.",
+    "subs MISSING (exact Studio Earn count not shown); Data API rounded 4,250; Studio Dashboard/Realtime 4,250 (UNVERIFIED as Earn-exact). Last exact Studio count 4,111 (read Oct 28).",
+    "Board Short jXYgugUiUc0 is at 118,027 lifetime; Salsa, Dembow y más / Latin Mix X9j7lvl1lGg at 21,736 lifetime (Data API). Keep end screens and live pins pointing at the Mix and the newest Public longs.",
+    "Analytics CURRENT 7d 7.6K h (rounded) / 94,698 views (Oct 23–29), subs +358; previous 7d 7.5K h / 83,180 (Oct 22–28). 28d 9.9K h (rounded) / 128,460 views (Oct 2–29), +398 subs; 28d impressions 810.1K, CTR 3.1%. Yesterday Oct 29: 13,051 views / 381.8 h, +72 subs.",
+    "video_count CURRENT 213 (+8 from 205) / channel_views CURRENT 376,385 (-628 from 377,013 on Oct 29, Data API; a drop can come from deleted or non-public videos, cause UNVERIFIED)."
   ]
 }
