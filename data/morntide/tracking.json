@@ -1,14 +1,14 @@
 {
- "fetched": "2026-10-29T06:01-04:00",
+ "fetched": "2026-10-30T05:58-04:00",
  "subs_public": 500,
- "studio_day": "2026-10-29",
+ "studio_day": "2026-10-30",
  "subs_studio": 500,
- "earn": 983,
+ "earn": 988,
  "uploads": [
   {
    "id": "R2rgrxRU0ro",
    "title": "this playlist will keep you in deep focus while coding (3 hours, no lyrics)",
-   "views": 11,
+   "views": 13,
    "duration": 10801,
    "live": null
   },
@@ -71,7 +71,7 @@
   {
    "id": "FDCP-FRQ_GU",
    "title": "One Hour of Quiet Focus: First Light Sessions",
-   "views": 88,
+   "views": 83,
    "duration": 3655,
    "live": null
   },
@@ -134,17 +134,25 @@
  ],
  "streams": [
   {
-   "id": "ec9D-z_qhaw",
-   "title": "Can't Stay in the Zone? Play This for Deep Work",
+   "id": "EOrn-9uHuYo",
+   "title": "Can't Get Into Deep Work? Play This for Focus",
    "views": null,
    "duration": null,
    "live": "is_upcoming",
    "tag": null
   },
   {
+   "id": "ec9D-z_qhaw",
+   "title": "Can't Stay in the Zone? Play This for Deep Work",
+   "views": 31,
+   "duration": 28515,
+   "live": "was_live",
+   "tag": null
+  },
+  {
    "id": "MftbIsEGtBs",
    "title": "Can't Get Into the Flow? Play This for Deep Focus",
-   "views": 32,
+   "views": 54,
    "duration": 29488,
    "live": "was_live",
    "tag": null
@@ -375,7 +383,7 @@
    "stores": {
     "HyperFollow": "https://distrokid.com/hyperfollow/morntide/spa-bowls"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Spa Bowls (album) - 2. Warm Light",
@@ -383,7 +391,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Spa Bowls (album) - 3. Deep Stillness",
@@ -391,7 +399,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Spa Bowls (album) - 4. Morning Garden",
@@ -399,7 +407,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Spa Bowls (album) - 5. Cedar Room",
@@ -407,7 +415,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Spa Bowls (album) - 6. Open Sky",
@@ -415,7 +423,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Spa Bowls (album) - 7. Evening Stone",
@@ -423,7 +431,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Spa Bowls (album) - 8. Floating",
@@ -431,7 +439,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Spa Bowls (album) - 9. Golden Hour",
@@ -439,7 +447,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Spa Bowls (album) - 10. Closing Circle",
@@ -447,7 +455,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Deep Focus Coding",
@@ -522,7 +530,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-29)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-30)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

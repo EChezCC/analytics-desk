@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-01",
-  "end": "2026-10-28"
+  "start": "2026-10-02",
+  "end": "2026-10-29"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 460,
-  "sessions": 473,
-  "pageviews": 517,
+  "users": 516,
+  "sessions": 530,
+  "pageviews": 596,
   "daily": [
-   {
-    "day": "2026-10-01",
-    "users": 7,
-    "sessions": 7,
-    "pageviews": 9
-   },
    {
     "day": "2026-10-02",
     "users": 14,
@@ -177,6 +171,12 @@
     "users": 14,
     "sessions": 15,
     "pageviews": 19
+   },
+   {
+    "day": "2026-10-29",
+    "users": 63,
+    "sessions": 64,
+    "pageviews": 88
    }
   ],
   "top_pages": [
@@ -202,8 +202,8 @@
    },
    {
     "page": "/ramps/",
-    "views": 5,
-    "users": 5
+    "views": 4,
+    "users": 4
    },
    {
     "page": "/ramps/dixie/shired-island-public-boat-ramp",
@@ -234,19 +234,15 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 336
+    "sessions": 393
    },
    {
     "channel": "Organic Search",
-    "sessions": 112
+    "sessions": 114
    },
    {
     "channel": "AI Assistant",
-    "sessions": 18
-   },
-   {
-    "channel": "Unassigned",
-    "sessions": 3
+    "sessions": 17
    },
    {
     "channel": "Organic Video",
@@ -255,20 +251,24 @@
    {
     "channel": "Referral",
     "sessions": 2
+   },
+   {
+    "channel": "Unassigned",
+    "sessions": 2
    }
   ]
  },
  "ga4_raw": {
-  "users": 485,
-  "sessions": 497,
-  "pageviews": 543
+  "users": 541,
+  "sessions": 554,
+  "pageviews": 623
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 104,
+  "impressions": 91,
   "top_queries": [
    {
     "query": "alimacani boat ramp",

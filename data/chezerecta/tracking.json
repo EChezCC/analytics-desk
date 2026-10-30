@@ -1,77 +1,98 @@
 {
- "fetched": "2026-10-29T06:01-04:00",
- "subs_public": 4180,
- "studio_day": "2026-10-29",
+ "fetched": "2026-10-30T05:58-04:00",
+ "subs_public": 4250,
+ "studio_day": "2026-10-30",
  "subs_studio": null,
  "earn": null,
  "uploads": [
   {
+   "id": "3UEBvxaJiOc",
+   "title": "Dos Cafés y un Adiós | Bachata (Official)",
+   "views": 38,
+   "duration": 328,
+   "live": null
+  },
+  {
+   "id": "ylSpdt7lZXQ",
+   "title": "Can't Outrun It | Texas Country (Official Video)",
+   "views": 23,
+   "duration": 189,
+   "live": null
+  },
+  {
+   "id": "4i-LIj3pDws",
+   "title": "Quédate en Mi Clave | Salsa (Official)",
+   "views": 31,
+   "duration": 281,
+   "live": null
+  },
+  {
    "id": "5WP-_FVC7Xw",
    "title": "Noches Sonideras — Full Album | Cumbia Sonidera (Official)",
-   "views": 16,
+   "views": 178,
    "duration": 1381,
    "live": null
   },
   {
    "id": "5MYHEBpYk8I",
    "title": "Why Is This House Mix Getting Stuck in Everyone's Head?",
-   "views": 14,
+   "views": 59,
    "duration": 2261,
    "live": null
   },
   {
    "id": "UQXNazwzf1s",
    "title": "BACHATAS QUE DUELEN 💔 Aventura, Zacarías Ferreira, Luis Vargas | Amargue & Romántica",
-   "views": 110,
+   "views": 159,
    "duration": 4837,
    "live": null
   },
   {
    "id": "koAuAT76e8g",
    "title": "CLASSIC REGGAETON MIX 🔥 Daddy Yankee, Don Omar, Ivy Queen | Old School Hits",
-   "views": 403,
+   "views": 598,
    "duration": 4448,
    "live": null
   },
   {
    "id": "-qTrOJAZJPo",
    "title": "COLOMBIAN CUMBIA MIX 🔥 Rodolfo y La Colegiala, Sonora Dinamita, Aniceto Molina | Colombian Hits",
-   "views": 442,
+   "views": 486,
    "duration": 4542,
    "live": null
   },
   {
    "id": "v73m6_wCZWY",
    "title": "MEXICAN RANCHERA MIX 🤠 José Alfredo Jiménez, Alejandro Fernández, Los Tigres del Norte",
-   "views": 654,
+   "views": 894,
    "duration": 4551,
    "live": null
   },
   {
    "id": "z0iQlFW_F4w",
    "title": "MERENGUE MIX VOL. 2 🔥 Elvis Crespo, Juan Luis Guerra, Wilfrido Vargas | Dominican Classics",
-   "views": 370,
+   "views": 393,
    "duration": 4018,
    "live": null
   },
   {
    "id": "x-H_oIn1zqk",
    "title": "Las Mejores Bachatas Románticas Para Bailar con el Alma Rota 💔 Aventura, Prince Royce",
-   "views": 223,
+   "views": 242,
    "duration": 3462,
    "live": null
   },
   {
    "id": "IC29QXidwvY",
    "title": "POP LATINO PARTY MIX 💃 Shakira, Ricky Martin, Enrique Iglesias, Camilo, Morat | Pop en Español",
-   "views": 182,
+   "views": 185,
    "duration": 5331,
    "live": null
   },
   {
    "id": "xRlcpZzmtwU",
    "title": "DJ Chezerecta Presents Salsa Dominicana (Official Video) | Yiyo Sarante and More",
-   "views": 645,
+   "views": 650,
    "duration": 4897,
    "live": null
   },
@@ -85,35 +106,35 @@
   {
    "id": "_stz9sNJrRY",
    "title": "Halloween Party Mix 2026: Bad Bunny, Daddy Yankee and more 👻",
-   "views": 811,
+   "views": 818,
    "duration": 2275,
    "live": null
   },
   {
    "id": "ZRtB-o3yrWk",
    "title": "Soft Fire 🔥 Keep Moving on the Floor | DJ Chezerecta Afro House 2026 (Official Video)",
-   "views": 100,
+   "views": 102,
    "duration": 238,
    "live": null
   },
   {
    "id": "U5_j7XAX1CQ",
    "title": "DOMINICAN BIRTHDAY MIX 🎂 Juan Luis Guerra, Aventura and more | NON-STOP PARTY!",
-   "views": 21,
+   "views": 25,
    "duration": 6183,
    "live": null
   },
   {
    "id": "ixpT3pFRV-s",
    "title": "THE BEST CHRISTMAS SALSA El Gran Combo, Héctor Lavoe, Celia Cruz | Latin Christmas Salsa Mix",
-   "views": 575,
+   "views": 584,
    "duration": 5637,
    "live": null
   },
   {
    "id": "uAxiJk0pRuw",
    "title": "90s Hip Hop Legends: The Playlist You Won't Want to End",
-   "views": 157,
+   "views": 159,
    "duration": 7124,
    "live": null
   },
@@ -127,21 +148,21 @@
   {
    "id": "rFyM_O4LlRU",
    "title": "I Returned for Her Light 🌹 Romantic Bachata | The Light in Your Window (Official Video)",
-   "views": 55,
+   "views": 57,
    "duration": 256,
    "live": null
   },
   {
    "id": "8VvpLdEkNrM",
    "title": "Baladas Pop en Español Mix 🌹 Las Más Románticas | DJ Chezerecta",
-   "views": 204,
+   "views": 206,
    "duration": 3945,
    "live": null
   },
   {
    "id": "QkzzL15urq8",
    "title": "Classic Merengue Mix 🔥 Juan Luis Guerra, Elvis Crespo, Sergio Vargas and More | DJ Chezerecta",
-   "views": 923,
+   "views": 925,
    "duration": 3384,
    "live": null
   },
@@ -169,7 +190,7 @@
   {
    "id": "T31mIrSb1aQ",
    "title": "Deep House Mix 2026 | Gorgon City, MK, Duke Dumont & Vocal House",
-   "views": 74,
+   "views": 75,
    "duration": 3292,
    "live": null
   },
@@ -197,7 +218,7 @@
   {
    "id": "P34qTRkuPgE",
    "title": "90s House to Eurodance Evolution 🔥 Mixed by DJ Chezerecta",
-   "views": 473,
+   "views": 477,
    "duration": 3998,
    "live": null
   },
@@ -232,7 +253,7 @@
   {
    "id": "G1WmI_82eGk",
    "title": "Official Music Video: Deep House Drive",
-   "views": 145,
+   "views": 147,
    "duration": 177,
    "live": null
   },
@@ -253,7 +274,7 @@
   {
    "id": "w6DWihLhA3I",
    "title": "Escucha hasta el último coro (Official Lyric Video)",
-   "views": 19,
+   "views": 20,
    "duration": 166,
    "live": null
   },
@@ -274,7 +295,7 @@
   {
    "id": "HysmH5C8fQE",
    "title": "The Hardest Salsa Track: Tumbao de Acero",
-   "views": 143,
+   "views": 144,
    "duration": 360,
    "live": null
   },
@@ -309,7 +330,7 @@
   {
    "id": "kmx2sdW21EA",
    "title": "DJ Chezerecta - Up Close With You (Official Video)",
-   "views": 208,
+   "views": 210,
    "duration": 172,
    "live": null
   },
@@ -351,7 +372,7 @@
   {
    "id": "U2k1y9-wFk0",
    "title": "DJ Chezerecta - Salsa Romántica Mix 2026 (Official Video)",
-   "views": 519,
+   "views": 520,
    "duration": 886,
    "live": null
   },
@@ -379,7 +400,7 @@
   {
    "id": "zpCZ6e7GUGk",
    "title": "DJ Chezerecta - Saca la Pata (Official Video)",
-   "views": 93,
+   "views": 94,
    "duration": 180,
    "live": null
   },
@@ -407,7 +428,7 @@
   {
    "id": "SpWP48r6-6A",
    "title": "DJ Chezerecta - Que Vuelvan los Clásicos (Official Video)",
-   "views": 254,
+   "views": 256,
    "duration": 180,
    "live": null
   },
@@ -505,21 +526,21 @@
   {
    "id": "WzK4vPu410w",
    "title": "La Pista Quema | Afro House (Official)",
-   "views": 54,
+   "views": 55,
    "duration": 181,
    "live": null
   },
   {
    "id": "dmmHiJslZuk",
    "title": "Se Armó el Combo | Dembow (Official)",
-   "views": 199,
+   "views": 200,
    "duration": 180,
    "live": null
   },
   {
    "id": "GknKCzWwxWY",
    "title": "DJ Chezerecta - No Pasa de Moda (Official Video) | Bachata",
-   "views": 222,
+   "views": 225,
    "duration": 180,
    "live": null
   },
@@ -589,7 +610,7 @@
   {
    "id": "xyHHQ6poN_4",
    "title": "DJ Chezerecta - Baja Panti (Official Video) | Dominican Dembow",
-   "views": 891,
+   "views": 892,
    "duration": 165,
    "live": null
   },
@@ -645,9 +666,17 @@
  ],
  "streams": [
   {
+   "id": "Y8qB61YEORA",
+   "title": "After Hours R&B Session: DJ Chezerecta Live Stream",
+   "views": 93,
+   "duration": 17695,
+   "live": "was_live",
+   "tag": null
+  },
+  {
    "id": "WuiPjl2MKGY",
    "title": "Caribbean Rhythm Session: DJ Chezerecta Live Stream",
-   "views": 135,
+   "views": 136,
    "duration": 1498,
    "live": "was_live",
    "tag": null
@@ -655,7 +684,7 @@
   {
    "id": "K16ifB-VnnI",
    "title": "Caribbean Rhythm Session: DJ Chezerecta Live Stream",
-   "views": 61,
+   "views": 62,
    "duration": 768,
    "live": "was_live",
    "tag": null
@@ -663,7 +692,7 @@
   {
    "id": "N7LyUQPhEjA",
    "title": "Pista, Merengue & Combo: DJ Chezerecta Live Stream",
-   "views": 154,
+   "views": 156,
    "duration": 1458,
    "live": "was_live",
    "tag": null
@@ -671,12 +700,44 @@
  ],
  "releases": [
   {
+   "title": "Noches Sonideras (album)",
+   "type": "album",
+   "date": "2026-11-21",
+   "status": "pending",
+   "stores": {},
+   "checked": "2026-10-29 09:55 ET"
+  },
+  {
+   "title": "Dos Cafés y un Adiós",
+   "type": "single",
+   "date": "2026-11-20",
+   "status": "pending",
+   "stores": {},
+   "checked": "2026-10-29 09:55 ET"
+  },
+  {
+   "title": "Soft Fire",
+   "type": "single",
+   "date": "2026-11-14",
+   "status": "pending",
+   "stores": {},
+   "checked": "2026-10-29 09:55 ET"
+  },
+  {
+   "title": "Baja Pa' La Calle (remaster resubmit)",
+   "type": "single",
+   "date": "2026-11-10",
+   "status": "pending",
+   "stores": {},
+   "checked": "2026-10-29 09:55 ET"
+  },
+  {
    "title": "Don't Turn Off the Night",
    "type": "single",
    "date": "2026-11-05",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Noche Latina (EP) - 1. Si Me Das La Mano",
@@ -686,7 +747,7 @@
    "stores": {
     "HyperFollow": "https://distrokid.com/hyperfollow/djchezerecta/noche-latina"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Noche Latina (EP) - 2. Por La Cintura",
@@ -694,7 +755,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Noche Latina (EP) - 3. Prende La Yala",
@@ -702,7 +763,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Noche Latina (EP) - 4. Esta Noche Es Tuya",
@@ -710,7 +771,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Noche Latina (EP) - 5. Que Siga el Son",
@@ -718,7 +779,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Noche Latina (EP) - 6. Háblame Bailando",
@@ -726,7 +787,7 @@
    "date": "2026-10-30",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "La Luz de Tu Ventana",
@@ -975,7 +1036,7 @@
    "date": "2026-10-01",
    "status": "TAKEN DOWN",
    "stores": {},
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Saca la Pata",
@@ -1507,7 +1568,7 @@
     "Tidal": "https://tidal.com/browse/track/561215094",
     "Deezer": "https://www.deezer.com/album/1078821092"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-10-29 09:55 ET"
   },
   {
    "title": "Can't Hide It",
@@ -1556,7 +1617,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/chezerecta/latest.json (2026-10-29)",
+  "hours": "YouTube Studio Earn reading in data/chezerecta/latest.json (2026-10-30)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
