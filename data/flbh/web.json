@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-02",
-  "end": "2026-10-29"
+  "start": "2026-10-03",
+  "end": "2026-10-30"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 516,
-  "sessions": 530,
-  "pageviews": 596,
+  "users": 674,
+  "sessions": 688,
+  "pageviews": 749,
   "daily": [
-   {
-    "day": "2026-10-02",
-    "users": 14,
-    "sessions": 14,
-    "pageviews": 18
-   },
    {
     "day": "2026-10-03",
     "users": 14,
@@ -177,13 +171,19 @@
     "users": 63,
     "sessions": 64,
     "pageviews": 88
+   },
+   {
+    "day": "2026-10-30",
+    "users": 172,
+    "sessions": 172,
+    "pageviews": 171
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 28,
-    "users": 26
+    "views": 31,
+    "users": 29
    },
    {
     "page": "/guides/florida-channel-markers-icw",
@@ -191,12 +191,12 @@
     "users": 11
    },
    {
-    "page": "/map/",
-    "views": 11,
-    "users": 10
+    "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
+    "views": 12,
+    "users": 11
    },
    {
-    "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
+    "page": "/map/",
     "views": 11,
     "users": 10
    },
@@ -221,20 +221,20 @@
     "users": 4
    },
    {
-    "page": "/ramps/lee/lovers-key-state-park-motor-boat-launch",
+    "page": "/ramps/miami-dade/rickenbacker-causeway-hobie-beach-catamaran-launch-motorized-craft-prohibited",
     "views": 4,
     "users": 3
    },
    {
-    "page": "/ramps/miami-dade/rickenbacker-causeway-hobie-beach-catamaran-launch-motorized-craft-prohibited",
-    "views": 4,
-    "users": 3
+    "page": "/mechanics",
+    "views": 3,
+    "users": 2
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 393
+    "sessions": 548
    },
    {
     "channel": "Organic Search",
@@ -242,7 +242,11 @@
    },
    {
     "channel": "AI Assistant",
-    "sessions": 17
+    "sessions": 18
+   },
+   {
+    "channel": "Unassigned",
+    "sessions": 3
    },
    {
     "channel": "Organic Video",
@@ -251,24 +255,20 @@
    {
     "channel": "Referral",
     "sessions": 2
-   },
-   {
-    "channel": "Unassigned",
-    "sessions": 2
    }
   ]
  },
  "ga4_raw": {
-  "users": 541,
-  "sessions": 554,
-  "pageviews": 623
+  "users": 699,
+  "sessions": 712,
+  "pageviews": 776
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 91,
+  "impressions": 86,
   "top_queries": [
    {
     "query": "alimacani boat ramp",
@@ -325,10 +325,10 @@
     "position": 89
    },
    {
-    "query": "florida boat ramp",
+    "query": "florida boat ramps",
     "clicks": 0,
     "impressions": 1,
-    "position": 100
+    "position": 99
    }
   ]
  }

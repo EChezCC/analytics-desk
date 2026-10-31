@@ -1,9 +1,9 @@
 {
- "fetched": "2026-10-30T05:58-04:00",
- "subs_public": 500,
- "studio_day": "2026-10-30",
- "subs_studio": 500,
- "earn": 988,
+ "fetched": "2026-10-31T05:56-04:00",
+ "subs_public": 501,
+ "studio_day": "2026-10-31",
+ "subs_studio": 501,
+ "earn": 983,
  "uploads": [
   {
    "id": "R2rgrxRU0ro",
@@ -144,7 +144,7 @@
   {
    "id": "ec9D-z_qhaw",
    "title": "Can't Stay in the Zone? Play This for Deep Work",
-   "views": 31,
+   "views": 34,
    "duration": 28515,
    "live": "was_live",
    "tag": null
@@ -152,7 +152,7 @@
   {
    "id": "MftbIsEGtBs",
    "title": "Can't Get Into the Flow? Play This for Deep Focus",
-   "views": 54,
+   "views": 55,
    "duration": 29488,
    "live": "was_live",
    "tag": null
@@ -530,7 +530,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-30)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-31)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

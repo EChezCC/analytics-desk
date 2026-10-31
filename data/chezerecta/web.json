@@ -1,14 +1,14 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-02",
-  "end": "2026-10-29"
+  "start": "2026-10-03",
+  "end": "2026-10-30"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 130,
-  "sessions": 141,
-  "pageviews": 163,
+  "users": 137,
+  "sessions": 150,
+  "pageviews": 175,
   "daily": [
    {
     "day": "2026-10-12",
@@ -111,18 +111,24 @@
     "users": 6,
     "sessions": 7,
     "pageviews": 13
+   },
+   {
+    "day": "2026-10-30",
+    "users": 7,
+    "sessions": 9,
+    "pageviews": 12
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 93,
-    "users": 86
+    "views": 95,
+    "users": 87
    },
    {
     "page": "/es/",
-    "views": 38,
-    "users": 29
+    "views": 45,
+    "users": 34
    },
    {
     "page": "/player/",
@@ -135,14 +141,14 @@
     "users": 5
    },
    {
-    "page": "/releases/halloween-reggaeton-mix-2026/",
-    "views": 3,
+    "page": "/es/player/",
+    "views": 4,
     "users": 3
    },
    {
-    "page": "/es/player/",
-    "views": 2,
-    "users": 2
+    "page": "/releases/halloween-reggaeton-mix-2026/",
+    "views": 3,
+    "users": 3
    },
    {
     "page": "/releases/cumbia-mix-2026/",
@@ -168,37 +174,33 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 86
+    "sessions": 87
    },
    {
     "channel": "Organic Video",
-    "sessions": 33
+    "sessions": 40
    },
    {
     "channel": "Organic Social",
-    "sessions": 16
+    "sessions": 17
    },
    {
     "channel": "Organic Search",
     "sessions": 6
-   },
-   {
-    "channel": "Unassigned",
-    "sessions": 1
    }
   ]
  },
  "ga4_raw": {
-  "users": 572,
-  "sessions": 585,
-  "pageviews": 608
+  "users": 579,
+  "sessions": 595,
+  "pageviews": 623
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (395 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (403 paths)",
  "bot_spikes": [
   {
    "day": "2026-10-13",
    "sessions": 468,
-   "median": 8,
+   "median": 8.0,
    "direct_share": 0.99,
    "offsite_share": 0.93,
    "kept_sessions": 30
@@ -206,8 +208,8 @@
  ],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
-  "clicks": 3,
-  "impressions": 58,
+  "clicks": 4,
+  "impressions": 64,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
@@ -225,6 +227,12 @@
     "query": "le rompe el culo",
     "clicks": 0,
     "impressions": 2,
+    "position": 5
+   },
+   {
+    "query": "reggaeton halloween 2026",
+    "clicks": 0,
+    "impressions": 1,
     "position": 5
    }
   ]
