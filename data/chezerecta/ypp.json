@@ -206,6 +206,17 @@
    "live": true,
    "subs": 4250,
    "note": "UNVERIFIED hours: no fresh Studio Earn reading (read ~5:1x AM ET Oct 30, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page shows the YPP onboarding stepper (Step 1 terms Done, Step 2 AdSense Done, Step 3 Get reviewed In progress) with no watch-hour/sub meters, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Last 24h by Data API: Public longs Quédate en Mi Clave 4i-LIj3pDws (~2:44 PM ET Oct 29), Can't Outrun It ylSpdt7lZXQ (~4:02 PM ET Oct 29), Dos Cafés y un Adiós 3UEBvxaJiOc (7 PM ET Oct 29); Public Shorts pOVp2pR37sA, smi6WkLNmpU, Jj0b8c59MPI. Also uploaded Unlisted (not counted): Porch Light On wX1Ctw4M_PA + Short AVhZci25ZXI. Live ran Thu Oct 29: Radio After Hours R&B Y8qB61YEORA (7:00 PM to ~12:05 AM ET). Salsa s_BJgq_jikE reaches 14 days today but Analytics API data only runs through Oct 27, so h14 stays pending. Subs Studio dashboard 4,250 (API 4,250)."
+  },
+  {
+   "day": "2026-10-31",
+   "hours": null,
+   "as_of": null,
+   "added24": null,
+   "mixes": 2,
+   "shorts": 2,
+   "live": true,
+   "subs": 4302,
+   "note": "UNVERIFIED hours: no fresh Studio Earn reading (read ~5:20 AM ET Oct 31, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page shows the YPP onboarding stepper only (Step 1 terms Done, Step 2 AdSense Done, Step 3 Get reviewed In progress) with no watch-hour/sub meters, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Last 24h by Data API: Public longs MIX SALSA DURA gESUjka6Q3Q (~12:07 PM ET Oct 30) and Porch Light On wX1Ctw4M_PA (Unlisted yesterday, now Public); Public Shorts XpoDq5MdEEg, AVhZci25ZXI. Also uploaded Private (not counted): Heavy Mambo Mix ft. Dahian jWaEk6uQq20 + Short QegCI4_11Bw (scheduled 12 PM ET Oct 31), extra Private Short qQE0RlXtYk4. Live ran Fri Oct 30: Radio Bachata OZhoUMLPYQc (7:00 PM to ~12:04 AM ET). Salsa s_BJgq_jikE h14 still pending (Analytics API data only through Oct 28); Deep house T31mIrSb1aQ h14 pending. Subs Studio realtime 4,302 (API 4,300)."
   }
  ],
  "mixes": [
@@ -261,7 +272,7 @@
  "window_gaps": "No Studio reading with as-of 2026-09-26, 09-28, 10-06 (not interpolated).",
  "method": "Dates = as-of 2026-10-23 + (milestone - 3304) / 98.82 h/day, the 28-day trailing pace (43 h as of 2026-09-20 to 3304 h as of 2026-10-23, Studio Earn as-of dates). 7-day pace 356.86 h/day (806 h as of 2026-10-16). Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
  "overall_status": "on track",
- "overall_note": "4000 h projected 2026-10-30 at 98.82 h/day (28d) vs target 2026-12-25: on track by 56 days | UNVERIFIED since 2026-10-29: Studio Earn meters replaced by YPP onboarding stepper (Oct 30: AdSense Done, review In progress); pace window still ends as of 2026-10-23 (no newer Studio reading).",
+ "overall_note": "4000 h projected 2026-10-30 at 98.82 h/day (28d) vs target 2026-12-25: on track by 56 days | UNVERIFIED since 2026-10-29: Studio Earn meters replaced by YPP onboarding stepper (Oct 31: AdSense Done, review In progress); pace window still ends as of 2026-10-23 (no newer Studio reading).",
  "api_proxy": {
   "label": "API PROXY - NOT the Studio-qualified YPP number (Studio last-known 3304 h as of 2026-10-23 remains authoritative)",
   "pulled": "2026-10-29",
