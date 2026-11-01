@@ -1,8 +1,8 @@
 {
  "domain": "morntidemusic.com",
  "range": {
-  "start": "2026-10-03",
-  "end": "2026-10-30"
+  "start": "2026-10-04",
+  "end": "2026-10-31"
  },
  "ga4_note": "Admin API lookup unavailable (Admin API 403); using seo-api configured ID 558780885 (name not verified)",
  "ga4_property": "558780885",
@@ -109,18 +109,18 @@
   "sessions": 75,
   "pageviews": 80
  },
- "ga4_filter": "hostName in morntidemusic.com (+www), pagePath in sitemap allowlist (95 paths)",
+ "ga4_filter": "hostName in morntidemusic.com (+www), pagePath in sitemap allowlist (99 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "https://morntidemusic.com/",
   "clicks": 1,
-  "impressions": 11,
+  "impressions": 10,
   "top_queries": [
    {
     "query": "morntide",
     "clicks": 0,
-    "impressions": 6,
-    "position": 1.3
+    "impressions": 5,
+    "position": 1.2
    }
   ]
  }

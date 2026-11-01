@@ -1,14 +1,14 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-03",
-  "end": "2026-10-30"
+  "start": "2026-10-04",
+  "end": "2026-10-31"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 137,
-  "sessions": 150,
-  "pageviews": 175,
+  "users": 142,
+  "sessions": 155,
+  "pageviews": 181,
   "daily": [
    {
     "day": "2026-10-12",
@@ -117,18 +117,24 @@
     "users": 7,
     "sessions": 9,
     "pageviews": 12
+   },
+   {
+    "day": "2026-10-31",
+    "users": 5,
+    "sessions": 5,
+    "pageviews": 6
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 95,
-    "users": 87
+    "views": 97,
+    "users": 89
    },
    {
     "page": "/es/",
-    "views": 45,
-    "users": 34
+    "views": 49,
+    "users": 37
    },
    {
     "page": "/player/",
@@ -174,11 +180,11 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 87
+    "sessions": 89
    },
    {
     "channel": "Organic Video",
-    "sessions": 40
+    "sessions": 43
    },
    {
     "channel": "Organic Social",
@@ -191,16 +197,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 579,
-  "sessions": 595,
-  "pageviews": 623
+  "users": 584,
+  "sessions": 600,
+  "pageviews": 629
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (403 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (407 paths)",
  "bot_spikes": [
   {
    "day": "2026-10-13",
    "sessions": 468,
-   "median": 8.0,
+   "median": 8,
    "direct_share": 0.99,
    "offsite_share": 0.93,
    "kept_sessions": 30
@@ -208,8 +214,8 @@
  ],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
-  "clicks": 4,
-  "impressions": 64,
+  "clicks": 5,
+  "impressions": 80,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
@@ -219,6 +225,12 @@
    },
    {
     "query": "asi de cerca",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 10
+   },
+   {
+    "query": "as\u00ed de cerca",
     "clicks": 0,
     "impressions": 1,
     "position": 10
@@ -234,6 +246,12 @@
     "clicks": 0,
     "impressions": 1,
     "position": 5
+   },
+   {
+    "query": "rompen el culo",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 34
    }
   ]
  }

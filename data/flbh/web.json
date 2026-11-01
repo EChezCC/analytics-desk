@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-03",
-  "end": "2026-10-30"
+  "start": "2026-10-04",
+  "end": "2026-10-31"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 674,
-  "sessions": 688,
-  "pageviews": 749,
+  "users": 736,
+  "sessions": 750,
+  "pageviews": 809,
   "daily": [
-   {
-    "day": "2026-10-03",
-    "users": 14,
-    "sessions": 14,
-    "pageviews": 16
-   },
    {
     "day": "2026-10-04",
     "users": 10,
@@ -177,13 +171,19 @@
     "users": 172,
     "sessions": 172,
     "pageviews": 171
+   },
+   {
+    "day": "2026-10-31",
+    "users": 76,
+    "sessions": 76,
+    "pageviews": 76
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 31,
-    "users": 29
+    "views": 32,
+    "users": 30
    },
    {
     "page": "/guides/florida-channel-markers-icw",
@@ -202,8 +202,8 @@
    },
    {
     "page": "/ramps/",
-    "views": 4,
-    "users": 4
+    "views": 5,
+    "users": 5
    },
    {
     "page": "/ramps/dixie/shired-island-public-boat-ramp",
@@ -226,15 +226,15 @@
     "users": 3
    },
    {
-    "page": "/mechanics",
-    "views": 3,
-    "users": 2
+    "page": "/species/largemouth-bass",
+    "views": 4,
+    "users": 4
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 548
+    "sessions": 613
    },
    {
     "channel": "Organic Search",
@@ -242,7 +242,7 @@
    },
    {
     "channel": "AI Assistant",
-    "sessions": 18
+    "sessions": 15
    },
    {
     "channel": "Unassigned",
@@ -259,16 +259,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 699,
-  "sessions": 712,
-  "pageviews": 776
+  "users": 761,
+  "sessions": 774,
+  "pageviews": 836
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 86,
+  "impressions": 83,
   "top_queries": [
    {
     "query": "alimacani boat ramp",

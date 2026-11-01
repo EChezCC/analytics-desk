@@ -1,10 +1,17 @@
 {
- "fetched": "2026-10-31T05:56-04:00",
+ "fetched": "2026-11-01T05:58-05:00",
  "subs_public": 501,
- "studio_day": "2026-10-31",
+ "studio_day": "2026-11-01",
  "subs_studio": 501,
- "earn": 983,
+ "earn": 990,
  "uploads": [
+  {
+   "id": "9WnStgjc3bQ",
+   "title": "Merengue Lo-Fi Instrumentals | Tropical Beats to Work and Relax",
+   "views": 4,
+   "duration": 915,
+   "live": null
+  },
   {
    "id": "R2rgrxRU0ro",
    "title": "this playlist will keep you in deep focus while coding (3 hours, no lyrics)",
@@ -113,7 +120,7 @@
   {
    "id": "uPqitC0mm4g",
    "title": "Rise and Focus | 2 Hours of Warm Morning Music for Deep Work",
-   "views": 374,
+   "views": 375,
    "duration": 7928,
    "live": null
   },
@@ -144,7 +151,7 @@
   {
    "id": "ec9D-z_qhaw",
    "title": "Can't Stay in the Zone? Play This for Deep Work",
-   "views": 34,
+   "views": 39,
    "duration": 28515,
    "live": "was_live",
    "tag": null
@@ -530,7 +537,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-10-31)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-01)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
