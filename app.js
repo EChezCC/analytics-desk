@@ -131,10 +131,14 @@ async function show(slug) {
   const k = L?.kpis || {}, snap = (S || [])[0] || {}, prev7 = (S || []).find(x => x.day && snap.day && (new Date(snap.day) - new Date(x.day)) / 864e5 === 7);
   $('meta').textContent = `${c.name} · ${c.handle} · Studio ${L?.day ?? '—'} · public feed ${T?.fetched ?? '—'}`;
   let h = `<div class="hd"><h2>Channel · ${esc(c.handle)}</h2><span class="r">${upd('Updated', L?.day)}</span></div><div class="grid k4">`
-    + kpi('Subscribers', fmt(k.subs), prev7?.subs != null && k.subs != null ? `${k.subs - prev7.subs >= 0 ? '+' : ''}${k.subs - prev7.subs} vs ${prev7.day} snapshot` : 'Studio exact', k.subs)
+    + (k.subs == null && k.subs_api_rounded != null
+      ? kpi('Subscribers', '~' + fmt(k.subs_api_rounded), 'Data API rounded; Studio exact missing', k.subs_api_rounded)
+      : kpi('Subscribers', fmt(k.subs), prev7?.subs != null && k.subs != null ? `${k.subs - prev7.subs >= 0 ? '+' : ''}${k.subs - prev7.subs} vs ${prev7.day} snapshot` : k.subs == null ? 'MISSING' : 'Studio exact', k.subs))
     + kpi('Views, 7d', fmt(k.views7), `${fmt(k.views28)} in 28d`, k.views7)
     + kpi('Watch hours, 7d', fmt(k.an7), `${fmt(k.an28)} h in 28d`, k.an7)
-    + kpi('YPP hours', fmt(k.earn), 'Studio Earn, 365d' + (snap.earn_as_of ? ', as of ' + snap.earn_as_of : ''), k.earn) + `</div>`;
+    + (k.earn == null
+      ? kpi('YPP hours', 'UNVERIFIED', k.earn_last_known != null ? `Studio Earn not shown; last known ${fmt(k.earn_last_known)} h as of ${k.earn_last_known_as_of ?? '—'}` : 'Studio Earn not shown', null)
+      : kpi('YPP hours', fmt(k.earn), 'Studio Earn, 365d' + ((k.earn_as_of || snap.earn_as_of) ? ', as of ' + (k.earn_as_of || snap.earn_as_of) : ''), k.earn)) + `</div>`;
   // YPP
   let pace = '';
   if (Y) pace = `<dl class="props"><dt>Goal</dt><dd>${fmt(Y.goal_hours)} h by ${Y.deadline}</dd><dt>Status</dt><dd>${tag(Y.overall_status, Y.overall_status === 'behind' ? 'warn' : '')} ${esc(Y.overall_note)}</dd><dt>Pace</dt><dd>${Y.pace_h_per_day} h/day (28d) · ${Y.pace_7d_h_per_day} h/day (7d)</dd></dl>`
@@ -142,7 +146,7 @@ async function show(slug) {
   else if (P) pace = (P.metrics || []).map(m => `<dl class="props"><dt>${esc(m.metric)}</dt><dd><b>${fmt(m.last)}</b> / ${fmt(m.goal)} · ${m.projected ? `${m.rate_per_day} ${esc(m.unit)}/day, projected <b>${m.projected}</b>` : esc(m.status)}<div class="muted">${esc(m.window || '')}</div></dd></dl>`).join('') + `<p class="muted">Method: ${esc(P.method)}</p>`;
   else pace = na('Pace unavailable', 'No ypp.json or pace.json for this channel.');
   const meter = (label, val, goal) => `<div class="meter"><div class="top"><b>${label}</b><span>${fmt(val)} / ${fmt(goal)} · ${val == null ? '—' : Math.min(100, val/goal*100).toFixed(1) + '%'}</span></div><div class="bar"><i style="width:${Math.min(100, (val||0)/goal*100)}%"></i></div></div>`;
-  h += `<div class="grid two">` + card('YPP progress', 'Studio', meter('Subscribers', k.subs, 1000) + meter('Watch hours (Earn)', k.earn, 4000) + `<p class="muted">Public yt-dlp count ${fmt(T?.subs_public)} at ${T?.fetched ?? '—'}.</p>`)
+  h += `<div class="grid two">` + card('YPP progress', 'Studio', meter(k.subs == null && k.subs_api_rounded != null ? 'Subscribers (API rounded)' : 'Subscribers', k.subs ?? k.subs_api_rounded, 1000) + (k.earn == null ? `<div class="meter"><div class="top"><b>Watch hours (Earn, 365d)</b><span>UNVERIFIED / 4,000</span></div><div class="bar"></div></div>` : meter('Watch hours (Earn, 365d; full YPP 4,000)', k.earn, 4000)) + `<p class="muted">Public yt-dlp count ${fmt(T?.subs_public)} at ${T?.fetched ?? '—'}.</p>`)
     + card('YPP pace', Y ? 'ypp.json' : P ? 'pace.json' : '', pace) + `</div>`;
   // Trends
   h += card('Trend', 'daily snapshots', `<div class="seg" id="trend-seg" style="margin-bottom:10px">${TREND.map(([key, l]) => `<button data-k="${key}">${l}</button>`).join('')}</div><div id="trend"></div>`, '', upd('Updated', snap.day));
