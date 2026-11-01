@@ -1,309 +1,321 @@
 {
- "goal_hours": 4000,
- "deadline": "2026-12-25",
- "pace_start": {
-  "day": "2026-10-16",
-  "hours": 629
- },
- "hours_note": "Hours = Studio Earn qualified public watch hours (365d) only, never API. Seed 667 (Studio 629 + unverified API accrual) replaced 2026-10-17 with Studio 629 (read Oct 16, as of Oct 11). Each daily row's figure lags Studio's 'as of' date by ~5 days. Model: /workspace/analytics/ypp-path-20261016/REPORT.md",
- "checkpoints": [
-  {
-   "hours": 1000.0,
-   "target": "2026-11-01",
-   "by": "2026-10-23",
-   "old_by": "2026-10-22",
-   "days_from_as_of": 0.0,
-   "projected": "2026-10-23",
-   "status": "on track",
-   "days_vs_target": -9
+  "goal_hours": 4000,
+  "deadline": "2026-12-25",
+  "pace_start": {
+    "day": "2026-10-16",
+    "hours": 629
   },
-  {
-   "hours": 2000.0,
-   "target": "2026-11-22",
-   "by": "2026-10-23",
-   "old_by": "2026-10-22",
-   "days_from_as_of": 0.0,
-   "projected": "2026-10-23",
-   "status": "on track",
-   "days_vs_target": -30
+  "hours_note": "Hours = Studio Earn qualified public watch hours (365d) only, never API. Seed 667 (Studio 629 + unverified API accrual) replaced 2026-10-17 with Studio 629 (read Oct 16, as of Oct 11). Each daily row's figure lags Studio's 'as of' date by ~5 days. Model: /workspace/analytics/ypp-path-20261016/REPORT.md",
+  "checkpoints": [
+    {
+      "hours": 1000.0,
+      "target": "2026-11-01",
+      "by": "2026-10-23",
+      "old_by": "2026-10-22",
+      "days_from_as_of": 0.0,
+      "projected": "2026-10-23",
+      "status": "on track",
+      "days_vs_target": -9
+    },
+    {
+      "hours": 2000.0,
+      "target": "2026-11-22",
+      "by": "2026-10-23",
+      "old_by": "2026-10-22",
+      "days_from_as_of": 0.0,
+      "projected": "2026-10-23",
+      "status": "on track",
+      "days_vs_target": -30
+    },
+    {
+      "hours": 3000.0,
+      "target": "2026-12-25",
+      "by": "2026-10-23",
+      "old_by": "2026-10-25",
+      "days_from_as_of": 0.0,
+      "projected": "2026-10-23",
+      "status": "on track",
+      "days_vs_target": -63
+    },
+    {
+      "hours": 4000.0,
+      "target": "2026-12-25",
+      "by": "2026-10-30",
+      "old_by": "2026-11-06",
+      "days_from_as_of": 7.0,
+      "projected": "2026-10-30",
+      "status": "on track",
+      "days_vs_target": -56
+    }
+  ],
+  "daily": [
+    {
+      "day": "2026-10-16",
+      "hours": 629,
+      "added24": null,
+      "mixes": 1,
+      "shorts": 0,
+      "live": false,
+      "subs": 3847,
+      "note": "~90 h/week recent pace; salsa mix Public 8 PM ET; hours = Studio 629 (as of Oct 11), seed 667 replaced Oct 17"
+    },
+    {
+      "day": "2026-10-17",
+      "hours": 661.0,
+      "added24": 32.0,
+      "mixes": 4,
+      "shorts": 4,
+      "live": true,
+      "subs": 3859,
+      "note": "Studio Earn 661 (as of Oct 12; read 9:00 AM ET). Last 24h by Data API: mixes Salsa s_BJgq_jikE + Cumbia XKPWroPWP7s Public, Merengue QkzzL15urq8 + Afro House 3sUVQHF7mV0 uploaded (scheduled); Afro private dup Szqf_MYmQhM not counted. Shorts BkL2eDsJJ_M, rU5ZAAzqmik Public; Tp4HvW2QgfM, mUkG6SOEmYQ scheduled. Live Fri Bachata xlcRy0PuTao 7:00 PM-12:03 AM ET. Subs Studio 3,859 (API 3,850)."
+    },
+    {
+      "day": "2026-10-18",
+      "hours": 667.0,
+      "added24": 6.0,
+      "mixes": 3,
+      "shorts": 3,
+      "live": true,
+      "subs": 3863,
+      "note": "Studio Earn 667 (as of Oct 13; Studio re-read ~9:05 AM ET, screenshot files not resolved on box). Last 24h by Data API (new since yesterday's row): Deep House T31mIrSb1aQ Public 12 PM ET Oct 17, Cumbias Viejitas iTLQHr6Vnro + Dembow RofmB1yJyNQ uploaded (scheduled Oct 18 12 PM / 2 PM ET); Afro House 3sUVQHF7mV0 went Public 9 PM ET (counted yesterday). Shorts vT_eK8oX75g Public; 2dV2RMOiz_Y, l3zb875GAiw uploaded (scheduled); mUkG6SOEmYQ Public (counted yesterday). Live Sat Caribbean Rhythm Session K16ifB-VnnI 7:00-7:29 PM ET + WuiPjl2MKGY 9:54-10:20 PM ET. Subs Studio 3,863 (API 3,860)."
+    },
+    {
+      "day": "2026-10-19",
+      "hours": 667.0,
+      "added24": 0.0,
+      "mixes": 1,
+      "shorts": 0,
+      "live": true,
+      "subs": 3878,
+      "note": "Studio Earn 667 (as of Oct 14; read ~8:53 AM ET, CURRENT; flat vs Oct 13). Last 24h by Data API (new since yesterday's row): Halloween Reggaeton Mix 2026 _stz9sNJrRY uploaded Private, scheduled Public Oct 23 2 PM ET. Merengue QkzzL15urq8 went Public 4 PM ET Oct 18 (counted Oct 17); Cumbias Viejitas iTLQHr6Vnro + Dembow RofmB1yJyNQ went Public Oct 18 (counted yesterday). No new Shorts (Tp4HvW2QgfM, 2dV2RMOiz_Y, l3zb875GAiw went Public Oct 18, counted earlier). Live Sun After Hours Bolero Session mRybqt2ZgNw 5:59 PM-11:55 PM ET. Subs Studio 3,878 (API 3,870)."
+    },
+    {
+      "day": "2026-10-20",
+      "hours": 744.0,
+      "added24": 77.0,
+      "mixes": 1,
+      "shorts": 1,
+      "live": false,
+      "subs": 3883,
+      "note": "Studio Earn 744 (as of Oct 15; read ~8:54-8:59 AM ET, CURRENT; +77 vs 667 as of Oct 14; on-screen target now shows 3,000). Last 24h by Data API (new since yesterday's row): Baladas Pop en Español Mix 8VvpLdEkNrM uploaded and Public 7:43 PM ET Oct 19. Short nJdMcSP9sQY (La Luz) uploaded Private, scheduled 9 PM ET Oct 20. La Luz de Tu Ventana rFyM_O4LlRU (4-min single video, not a mix) uploaded Private, scheduled 8 PM ET Oct 20, not counted as a mix. No live Mon Oct 19 (Thu-Sun only). No mix at 7 or 14 days past Public today. Subs Studio 3,883 (API 3,880)."
+    },
+    {
+      "day": "2026-10-21",
+      "hours": 806.0,
+      "added24": 62.0,
+      "mixes": 2,
+      "shorts": 1,
+      "live": false,
+      "subs": 3886,
+      "note": "Studio Earn 806 (as of Oct 16; read ~8:50-9:02 AM ET, CURRENT; +62 vs 744 as of Oct 15). Last 24h by Data API (new since yesterday's row): Salsa Romantica Viejitas Pero Bonitas mix ALNzuwY2lVM uploaded and Public ~8:58 AM ET Oct 21; Salsa Romantica para Bailar x3tGpWdWlW0 uploaded Private, unscheduled (counted as uploaded); QanD4tSiFGE (0-length Private, same title as ALNzuwY2lVM) not counted. Short CUOEFRruWA4 Public; nJdMcSP9sQY went Public 9 PM ET Oct 20 (counted yesterday). La Luz rFyM_O4LlRU went Public 8 PM ET Oct 20 (single, not a mix). No live Tue Oct 20 (Thu-Sun only). No mix at 7 or 14 days past Public today. Subs Studio 3,886 (API 3,880)."
+    },
+    {
+      "day": "2026-10-22",
+      "hours": 1064.0,
+      "added24": 258.0,
+      "mixes": 2,
+      "shorts": 0,
+      "live": false,
+      "subs": 3891,
+      "note": "Studio Earn 1,064 (as of Oct 17; read ~8:53 AM ET, CURRENT; +258 vs 806 as of Oct 16; past the 1,000 checkpoint). Last 24h by Data API (new since yesterday's row): 90s Hip Hop mix uAxiJk0pRuw went Public 7 PM ET Oct 21; La Mejor Salsa Navideña mix ixpT3pFRV-s uploaded Private 6:23 AM ET Oct 22, scheduled Public 11:45 AM ET. No new Shorts (CUOEFRruWA4 counted yesterday). No live Wed Oct 21 (Thu-Sun only). No tracked mix at 7 or 14 days past Public today (Salsa s_BJgq_jikE hits 7 days Oct 23). Subs Studio 3,891 (API 3,890)."
+    },
+    {
+      "day": "2026-10-23",
+      "hours": 1347.0,
+      "as_of": "2026-10-18",
+      "added24": 283.0,
+      "mixes": 1,
+      "shorts": 0,
+      "live": true,
+      "subs": 3893,
+      "note": "Studio Earn 1,347 (as of Oct 18; read ~5:25 AM ET Oct 23, eyes-on, identity OK; +283 vs 1,064 as of Oct 17). Pace recompute baked into ypp_update.py (Eric standing Oct 23)."
+    },
+    {
+      "day": "2026-10-24",
+      "hours": 1528.0,
+      "as_of": "2026-10-19",
+      "added24": 181.0,
+      "mixes": 2,
+      "shorts": 3,
+      "live": true,
+      "subs": 3897,
+      "note": "Studio Earn 1,528 (as of Oct 19; read ~5:30 AM ET Oct 24, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +181 vs 1,347 as of Oct 18). Last 24h by Data API: mixes Halloween Party Mix _stz9sNJrRY (Public ~2 PM ET Oct 23) and Cumbia Sonidera yo-gS1JoyPk (Public ~10 PM ET Oct 23); Soft Fire ZRtB-o3yrWk is a single, not counted. Shorts h51_1IHZKYE, 2R-UUUnLsUY, Uf82m0zWwyM. Live Fri Oct 23 sODciR8KHcM (7:09-11:58 PM ET). h7 for Salsa s_BJgq_jikE / Deep house T31mIrSb1aQ pending: Analytics API data only through Oct 21. Subs Studio 3,897 (API 3,890)."
+    },
+    {
+      "day": "2026-10-25",
+      "hours": 1608.0,
+      "as_of": "2026-10-20",
+      "added24": 80.0,
+      "mixes": 2,
+      "shorts": 2,
+      "live": true,
+      "subs": 3957,
+      "note": "Studio Earn 1,608 (as of Oct 20; read ~5:16 AM ET Oct 25, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +80 vs 1,528 as of Oct 19). Last 24h by Data API: mixes Salsa Dominicana xRlcpZzmtwU (~10:55 AM ET Oct 24) and Pop Latino Party Mix IC29QXidwvY (Public 7 PM ET Oct 24); Shorts ZSzGuXqgINc, D3Z7CJGOLrk. Live Sat Oct 24 B8FRbJUcYoU (7:00-12:05 AM ET). Salsa s_BJgq_jikE h7 242.3 h (API, Oct 16-22). Deep house / Merengue h7 pending: Analytics API data only through Oct 22. Subs Studio 3,957 (API 3,950)."
+    },
+    {
+      "day": "2026-10-26",
+      "hours": 2379.0,
+      "as_of": "2026-10-21",
+      "added24": 771.0,
+      "mixes": 2,
+      "shorts": 2,
+      "live": true,
+      "subs": 4021,
+      "note": "Studio Earn 2,379 (as of Oct 21; read ~5:14 AM ET Oct 26, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +771 vs 1,608 as of Oct 20). Last 24h by Data API: mixes Bachata Romantica Mix Vol. 2 x-H_oIn1zqk (Public ~4 PM ET Oct 25) and Merengue Mix Vol. 2 z0iQlFW_F4w (Public 8 PM ET Oct 25); Shorts HV-0dgvn0bg, -_x018Mj8p4. Live Sun Oct 25 rSGKF2mvB3I (7:00 PM-12:06 AM ET). Deep house T31mIrSb1aQ h7 3.3 h (API, Oct 17-23; Oct 23 no rows). Merengue QkzzL15urq8 h7 pending: Analytics API data only through Oct 23. Subs Studio 4,021 (API 4,020)."
+    },
+    {
+      "day": "2026-10-27",
+      "hours": 2702.0,
+      "as_of": "2026-10-22",
+      "added24": 323.0,
+      "mixes": 2,
+      "shorts": 2,
+      "live": false,
+      "subs": 4035,
+      "note": "Studio Earn 2,702 (as of Oct 22; read ~5:20 AM ET Oct 27, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +323 vs 2,379 as of Oct 21). Last 24h by Data API: mixes Ranchera Mexicana v73m6_wCZWY (Public 6 PM ET Oct 26) and Cumbia Colombia -qTrOJAZJPo (Public 9 PM ET Oct 26); Shorts x6BEXXHbaTs, n77t7du3-u8. No live Mon Oct 26 (Radio Thu-Sun). Merengue QkzzL15urq8 h7 70.6 h (API, Oct 18-24). Subs Studio 4,035 (API 4,030)."
+    },
+    {
+      "day": "2026-10-28",
+      "hours": 3304.0,
+      "as_of": "2026-10-23",
+      "added24": 602.0,
+      "mixes": 2,
+      "shorts": 3,
+      "live": false,
+      "subs": 4111,
+      "note": "Studio Earn 3,304 (as of Oct 23; read ~5:15 AM ET Oct 28, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +602 vs 2,702 as of Oct 22). Last 24h by Data API: mixes Reggaetón Clásico Old School koAuAT76e8g (Public ~5 PM ET Oct 27) and Bachatas Que Duelen UQXNazwzf1s (Public ~7:21 PM ET Oct 27); Shorts 7WZoOkWQo-Q, 3Py1J01XPjI, UD4Tu4EAf1c. No live Tue Oct 27 (Radio Thu-Sun). No tracked mix at a 7/14-day mark with API data (Salsa/Deep house/Merengue h14 pending). Subs Studio 4,111 (API 4,110)."
+    },
+    {
+      "day": "2026-10-29",
+      "hours": null,
+      "as_of": null,
+      "added24": null,
+      "mixes": 2,
+      "shorts": 2,
+      "live": false,
+      "subs": 4181,
+      "note": "UNVERIFIED hours: no fresh Studio Earn reading (read ~5:2x AM ET Oct 29, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page now shows the YPP onboarding stepper (Step 1 terms Done, Step 2 AdSense Not started, Step 3 review Not started) with no watch-hour/sub meters, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Last 24h by Data API: Public longs House & Club Originals 5MYHEBpYk8I (~4 PM ET Oct 28) and Noches Sonideras Full Album 5WP-_FVC7Xw (~9:15 PM ET Oct 28); Public Shorts __oQX3-epS0, h0i4P-I-CWg. Also uploaded Private (not counted): Dos Cafés 3UEBvxaJiOc + Short Jj0b8c59MPI (scheduled 7 PM ET Oct 29), Salsa Dura gESUjka6Q3Q and Dembow PZ6SUCDAzSM + Shorts (held, Argon freeze). No live Wed Oct 28 (Radio Thu-Sun). No tracked mix at a 7/14-day mark with API data. Subs Studio dashboard 4,181 (API 4,180)."
+    },
+    {
+      "day": "2026-10-30",
+      "hours": null,
+      "as_of": null,
+      "added24": null,
+      "mixes": 3,
+      "shorts": 3,
+      "live": true,
+      "subs": 4250,
+      "note": "UNVERIFIED hours: no fresh Studio Earn reading (read ~5:1x AM ET Oct 30, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page shows the YPP onboarding stepper (Step 1 terms Done, Step 2 AdSense Done, Step 3 Get reviewed In progress) with no watch-hour/sub meters, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Last 24h by Data API: Public longs Quédate en Mi Clave 4i-LIj3pDws (~2:44 PM ET Oct 29), Can't Outrun It ylSpdt7lZXQ (~4:02 PM ET Oct 29), Dos Cafés y un Adiós 3UEBvxaJiOc (7 PM ET Oct 29); Public Shorts pOVp2pR37sA, smi6WkLNmpU, Jj0b8c59MPI. Also uploaded Unlisted (not counted): Porch Light On wX1Ctw4M_PA + Short AVhZci25ZXI. Live ran Thu Oct 29: Radio After Hours R&B Y8qB61YEORA (7:00 PM to ~12:05 AM ET). Salsa s_BJgq_jikE reaches 14 days today but Analytics API data only runs through Oct 27, so h14 stays pending. Subs Studio dashboard 4,250 (API 4,250)."
+    },
+    {
+      "day": "2026-10-31",
+      "hours": null,
+      "as_of": null,
+      "added24": null,
+      "mixes": 2,
+      "shorts": 2,
+      "live": true,
+      "subs": 4302,
+      "note": "UNVERIFIED hours: no fresh Studio Earn reading (read ~5:20 AM ET Oct 31, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page shows the YPP onboarding stepper only (Step 1 terms Done, Step 2 AdSense Done, Step 3 Get reviewed In progress) with no watch-hour/sub meters, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Last 24h by Data API: Public longs MIX SALSA DURA gESUjka6Q3Q (~12:07 PM ET Oct 30) and Porch Light On wX1Ctw4M_PA (Unlisted yesterday, now Public); Public Shorts XpoDq5MdEEg, AVhZci25ZXI. Also uploaded Private (not counted): Heavy Mambo Mix ft. Dahian jWaEk6uQq20 + Short QegCI4_11Bw (scheduled 12 PM ET Oct 31), extra Private Short qQE0RlXtYk4. Live ran Fri Oct 30: Radio Bachata OZhoUMLPYQc (7:00 PM to ~12:04 AM ET). Salsa s_BJgq_jikE h14 still pending (Analytics API data only through Oct 28); Deep house T31mIrSb1aQ h14 pending. Subs Studio realtime 4,302 (API 4,300)."
+    },
+    {
+      "day": "2026-11-01",
+      "hours": null,
+      "as_of": null,
+      "added24": null,
+      "mixes": 2,
+      "shorts": 2,
+      "live": true,
+      "subs": 4342,
+      "note": "UNVERIFIED hours: no fresh Studio Earn reading (read ~5:15 AM ET Nov 1, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page shows the YPP onboarding stepper only (Step 1 terms Done, Step 2 AdSense Done, Step 3 Get reviewed In progress) with no watch-hour/sub meters, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Last 24h by Data API: Public longs Heavy Mambo Mix ft. Dahian jWaEk6uQq20 (12 PM ET Oct 31) and MIX DEMBOW PZ6SUCDAzSM (~7:09 PM ET Oct 31); Public Shorts QegCI4_11Bw (Dahian) and 6LFkiFsbIOE (Dembow, native 9:16 swap; old Short 3DKLupASXII deleted). Live ran Sat Oct 31: Radio Merengue/Pista rQ5j4B7C8iQ (7:00 PM to ~10:57 PM ET). Salsa s_BJgq_jikE h14 = 278.8 h (Analytics API, Oct 16-29). Deep house T31mIrSb1aQ h14 pending (API data only through Oct 29); Merengue QkzzL15urq8 h14 pending. Subs Studio realtime 4,342 (API 4,340)."
+    }
+  ],
+  "mixes": [
+    {
+      "title": "Salsa mix",
+      "id": "s_BJgq_jikE",
+      "publish": "2026-10-16 20:00 ET",
+      "short": "BkL2eDsJJ_M",
+      "status": "Public",
+      "h7": 242.3,
+      "h14": 278.8,
+      "h14_source": "API"
+    },
+    {
+      "title": "Deep house mix",
+      "id": "T31mIrSb1aQ",
+      "publish": "2026-10-17 12:00 ET",
+      "short": "vT_eK8oX75g",
+      "status": "Public",
+      "h7": 3.3,
+      "h14": null
+    },
+    {
+      "title": "Merengue mix",
+      "id": "QkzzL15urq8",
+      "publish": "2026-10-18 16:00 ET",
+      "short": "Tp4HvW2QgfM",
+      "status": "Public",
+      "h7": 70.6,
+      "h14": null
+    }
+  ],
+  "pace_h_per_day": 98.82,
+  "pace_7d_h_per_day": 356.86,
+  "window_start": "2026-09-20",
+  "window_end": "2026-10-23",
+  "window_readings": {
+    "start": {
+      "as_of": "2026-09-20",
+      "hours": 43.0,
+      "read": "2026-09-25"
+    },
+    "end": {
+      "as_of": "2026-10-23",
+      "hours": 3304.0,
+      "read": "2026-10-28"
+    },
+    "7d_start": {
+      "as_of": "2026-10-16",
+      "hours": 806.0,
+      "read": "2026-10-21"
+    }
   },
-  {
-   "hours": 3000.0,
-   "target": "2026-12-25",
-   "by": "2026-10-23",
-   "old_by": "2026-10-25",
-   "days_from_as_of": 0.0,
-   "projected": "2026-10-23",
-   "status": "on track",
-   "days_vs_target": -63
-  },
-  {
-   "hours": 4000.0,
-   "target": "2026-12-25",
-   "by": "2026-10-30",
-   "old_by": "2026-11-06",
-   "days_from_as_of": 7.0,
-   "projected": "2026-10-30",
-   "status": "on track",
-   "days_vs_target": -56
+  "window_gaps": "No Studio reading with as-of 2026-09-26, 09-28, 10-06 (not interpolated).",
+  "method": "Dates = as-of 2026-10-23 + (milestone - 3304) / 98.82 h/day, the 28-day trailing pace (43 h as of 2026-09-20 to 3304 h as of 2026-10-23, Studio Earn as-of dates). 7-day pace 356.86 h/day (806 h as of 2026-10-16). Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
+  "overall_status": "on track",
+  "overall_note": "4000 h projected 2026-10-30 at 98.82 h/day (28d) vs target 2026-12-25: on track by 56 days | UNVERIFIED since 2026-10-29: Studio Earn meters replaced by YPP onboarding stepper (Nov 1: AdSense Done, review In progress); pace window still ends as of 2026-10-23 (no newer Studio reading).",
+  "api_proxy": {
+    "label": "API PROXY - NOT the Studio-qualified YPP number (Studio last-known 3304 h as of 2026-10-23 remains authoritative)",
+    "pulled": "2026-10-29",
+    "source": "YouTube Analytics API v2 reports.query, ids=channel==UC9HS14jsqdRpXw9tGBPckeg, metric estimatedMinutesWatched",
+    "window_start": "2025-10-27",
+    "window_end": "2026-10-26",
+    "window_days": 365,
+    "total_hours": 9207.4,
+    "shorts_hours": 670.0,
+    "live_hours": 508.1,
+    "vod_hours": 8001.7,
+    "unattributed_hours": 27.6,
+    "long_form_hours": 8537.4,
+    "live_or_on_demand_hours": {
+      "LIVE": 80.2,
+      "ON_DEMAND": 9092.3
+    },
+    "method": "long_form = (total - creatorContentType shorts) / 60; includes liveStream (lives kept public count as VOD for YPP) and minutes not attributed to a content type. Pace = 28d (2026-09-29..2026-10-26) long-form minutes (dimensions=day,creatorContentType) / 60 / 28.",
+    "pace": {
+      "window_start": "2026-09-29",
+      "window_end": "2026-10-26",
+      "long_form_hours_28d": 6896.2,
+      "h_per_day": 246.29,
+      "hours_to_4000": 0,
+      "projected_4000": "already above 4000 on API proxy (as of 2026-10-26)",
+      "if_applied_to_studio_3304": {
+        "hours_to_4000": 696,
+        "days": 2.8,
+        "projected_4000": "2026-10-26"
+      }
+    },
+    "caveats": "API proxy (~8537 h) is ~2.6x Studio qualified (3304 h as of 2026-10-23). API counts watch on private/unlisted/deleted videos, Shorts-feed exclusions differ, and live minutes are not filtered by current public status; YPP uses public long-form only. Do not use for eligibility claims."
   }
- ],
- "daily": [
-  {
-   "day": "2026-10-16",
-   "hours": 629,
-   "added24": null,
-   "mixes": 1,
-   "shorts": 0,
-   "live": false,
-   "subs": 3847,
-   "note": "~90 h/week recent pace; salsa mix Public 8 PM ET; hours = Studio 629 (as of Oct 11), seed 667 replaced Oct 17"
-  },
-  {
-   "day": "2026-10-17",
-   "hours": 661.0,
-   "added24": 32.0,
-   "mixes": 4,
-   "shorts": 4,
-   "live": true,
-   "subs": 3859,
-   "note": "Studio Earn 661 (as of Oct 12; read 9:00 AM ET). Last 24h by Data API: mixes Salsa s_BJgq_jikE + Cumbia XKPWroPWP7s Public, Merengue QkzzL15urq8 + Afro House 3sUVQHF7mV0 uploaded (scheduled); Afro private dup Szqf_MYmQhM not counted. Shorts BkL2eDsJJ_M, rU5ZAAzqmik Public; Tp4HvW2QgfM, mUkG6SOEmYQ scheduled. Live Fri Bachata xlcRy0PuTao 7:00 PM-12:03 AM ET. Subs Studio 3,859 (API 3,850)."
-  },
-  {
-   "day": "2026-10-18",
-   "hours": 667.0,
-   "added24": 6.0,
-   "mixes": 3,
-   "shorts": 3,
-   "live": true,
-   "subs": 3863,
-   "note": "Studio Earn 667 (as of Oct 13; Studio re-read ~9:05 AM ET, screenshot files not resolved on box). Last 24h by Data API (new since yesterday's row): Deep House T31mIrSb1aQ Public 12 PM ET Oct 17, Cumbias Viejitas iTLQHr6Vnro + Dembow RofmB1yJyNQ uploaded (scheduled Oct 18 12 PM / 2 PM ET); Afro House 3sUVQHF7mV0 went Public 9 PM ET (counted yesterday). Shorts vT_eK8oX75g Public; 2dV2RMOiz_Y, l3zb875GAiw uploaded (scheduled); mUkG6SOEmYQ Public (counted yesterday). Live Sat Caribbean Rhythm Session K16ifB-VnnI 7:00-7:29 PM ET + WuiPjl2MKGY 9:54-10:20 PM ET. Subs Studio 3,863 (API 3,860)."
-  },
-  {
-   "day": "2026-10-19",
-   "hours": 667.0,
-   "added24": 0.0,
-   "mixes": 1,
-   "shorts": 0,
-   "live": true,
-   "subs": 3878,
-   "note": "Studio Earn 667 (as of Oct 14; read ~8:53 AM ET, CURRENT; flat vs Oct 13). Last 24h by Data API (new since yesterday's row): Halloween Reggaeton Mix 2026 _stz9sNJrRY uploaded Private, scheduled Public Oct 23 2 PM ET. Merengue QkzzL15urq8 went Public 4 PM ET Oct 18 (counted Oct 17); Cumbias Viejitas iTLQHr6Vnro + Dembow RofmB1yJyNQ went Public Oct 18 (counted yesterday). No new Shorts (Tp4HvW2QgfM, 2dV2RMOiz_Y, l3zb875GAiw went Public Oct 18, counted earlier). Live Sun After Hours Bolero Session mRybqt2ZgNw 5:59 PM-11:55 PM ET. Subs Studio 3,878 (API 3,870)."
-  },
-  {
-   "day": "2026-10-20",
-   "hours": 744.0,
-   "added24": 77.0,
-   "mixes": 1,
-   "shorts": 1,
-   "live": false,
-   "subs": 3883,
-   "note": "Studio Earn 744 (as of Oct 15; read ~8:54-8:59 AM ET, CURRENT; +77 vs 667 as of Oct 14; on-screen target now shows 3,000). Last 24h by Data API (new since yesterday's row): Baladas Pop en Español Mix 8VvpLdEkNrM uploaded and Public 7:43 PM ET Oct 19. Short nJdMcSP9sQY (La Luz) uploaded Private, scheduled 9 PM ET Oct 20. La Luz de Tu Ventana rFyM_O4LlRU (4-min single video, not a mix) uploaded Private, scheduled 8 PM ET Oct 20, not counted as a mix. No live Mon Oct 19 (Thu-Sun only). No mix at 7 or 14 days past Public today. Subs Studio 3,883 (API 3,880)."
-  },
-  {
-   "day": "2026-10-21",
-   "hours": 806.0,
-   "added24": 62.0,
-   "mixes": 2,
-   "shorts": 1,
-   "live": false,
-   "subs": 3886,
-   "note": "Studio Earn 806 (as of Oct 16; read ~8:50-9:02 AM ET, CURRENT; +62 vs 744 as of Oct 15). Last 24h by Data API (new since yesterday's row): Salsa Romantica Viejitas Pero Bonitas mix ALNzuwY2lVM uploaded and Public ~8:58 AM ET Oct 21; Salsa Romantica para Bailar x3tGpWdWlW0 uploaded Private, unscheduled (counted as uploaded); QanD4tSiFGE (0-length Private, same title as ALNzuwY2lVM) not counted. Short CUOEFRruWA4 Public; nJdMcSP9sQY went Public 9 PM ET Oct 20 (counted yesterday). La Luz rFyM_O4LlRU went Public 8 PM ET Oct 20 (single, not a mix). No live Tue Oct 20 (Thu-Sun only). No mix at 7 or 14 days past Public today. Subs Studio 3,886 (API 3,880)."
-  },
-  {
-   "day": "2026-10-22",
-   "hours": 1064.0,
-   "added24": 258.0,
-   "mixes": 2,
-   "shorts": 0,
-   "live": false,
-   "subs": 3891,
-   "note": "Studio Earn 1,064 (as of Oct 17; read ~8:53 AM ET, CURRENT; +258 vs 806 as of Oct 16; past the 1,000 checkpoint). Last 24h by Data API (new since yesterday's row): 90s Hip Hop mix uAxiJk0pRuw went Public 7 PM ET Oct 21; La Mejor Salsa Navideña mix ixpT3pFRV-s uploaded Private 6:23 AM ET Oct 22, scheduled Public 11:45 AM ET. No new Shorts (CUOEFRruWA4 counted yesterday). No live Wed Oct 21 (Thu-Sun only). No tracked mix at 7 or 14 days past Public today (Salsa s_BJgq_jikE hits 7 days Oct 23). Subs Studio 3,891 (API 3,890)."
-  },
-  {
-   "day": "2026-10-23",
-   "hours": 1347.0,
-   "as_of": "2026-10-18",
-   "added24": 283.0,
-   "mixes": 1,
-   "shorts": 0,
-   "live": true,
-   "subs": 3893,
-   "note": "Studio Earn 1,347 (as of Oct 18; read ~5:25 AM ET Oct 23, eyes-on, identity OK; +283 vs 1,064 as of Oct 17). Pace recompute baked into ypp_update.py (Eric standing Oct 23)."
-  },
-  {
-   "day": "2026-10-24",
-   "hours": 1528.0,
-   "as_of": "2026-10-19",
-   "added24": 181.0,
-   "mixes": 2,
-   "shorts": 3,
-   "live": true,
-   "subs": 3897,
-   "note": "Studio Earn 1,528 (as of Oct 19; read ~5:30 AM ET Oct 24, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +181 vs 1,347 as of Oct 18). Last 24h by Data API: mixes Halloween Party Mix _stz9sNJrRY (Public ~2 PM ET Oct 23) and Cumbia Sonidera yo-gS1JoyPk (Public ~10 PM ET Oct 23); Soft Fire ZRtB-o3yrWk is a single, not counted. Shorts h51_1IHZKYE, 2R-UUUnLsUY, Uf82m0zWwyM. Live Fri Oct 23 sODciR8KHcM (7:09-11:58 PM ET). h7 for Salsa s_BJgq_jikE / Deep house T31mIrSb1aQ pending: Analytics API data only through Oct 21. Subs Studio 3,897 (API 3,890)."
-  },
-  {
-   "day": "2026-10-25",
-   "hours": 1608.0,
-   "as_of": "2026-10-20",
-   "added24": 80.0,
-   "mixes": 2,
-   "shorts": 2,
-   "live": true,
-   "subs": 3957,
-   "note": "Studio Earn 1,608 (as of Oct 20; read ~5:16 AM ET Oct 25, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +80 vs 1,528 as of Oct 19). Last 24h by Data API: mixes Salsa Dominicana xRlcpZzmtwU (~10:55 AM ET Oct 24) and Pop Latino Party Mix IC29QXidwvY (Public 7 PM ET Oct 24); Shorts ZSzGuXqgINc, D3Z7CJGOLrk. Live Sat Oct 24 B8FRbJUcYoU (7:00-12:05 AM ET). Salsa s_BJgq_jikE h7 242.3 h (API, Oct 16-22). Deep house / Merengue h7 pending: Analytics API data only through Oct 22. Subs Studio 3,957 (API 3,950)."
-  },
-  {
-   "day": "2026-10-26",
-   "hours": 2379.0,
-   "as_of": "2026-10-21",
-   "added24": 771.0,
-   "mixes": 2,
-   "shorts": 2,
-   "live": true,
-   "subs": 4021,
-   "note": "Studio Earn 2,379 (as of Oct 21; read ~5:14 AM ET Oct 26, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +771 vs 1,608 as of Oct 20). Last 24h by Data API: mixes Bachata Romantica Mix Vol. 2 x-H_oIn1zqk (Public ~4 PM ET Oct 25) and Merengue Mix Vol. 2 z0iQlFW_F4w (Public 8 PM ET Oct 25); Shorts HV-0dgvn0bg, -_x018Mj8p4. Live Sun Oct 25 rSGKF2mvB3I (7:00 PM-12:06 AM ET). Deep house T31mIrSb1aQ h7 3.3 h (API, Oct 17-23; Oct 23 no rows). Merengue QkzzL15urq8 h7 pending: Analytics API data only through Oct 23. Subs Studio 4,021 (API 4,020)."
-  },
-  {
-   "day": "2026-10-27",
-   "hours": 2702.0,
-   "as_of": "2026-10-22",
-   "added24": 323.0,
-   "mixes": 2,
-   "shorts": 2,
-   "live": false,
-   "subs": 4035,
-   "note": "Studio Earn 2,702 (as of Oct 22; read ~5:20 AM ET Oct 27, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +323 vs 2,379 as of Oct 21). Last 24h by Data API: mixes Ranchera Mexicana v73m6_wCZWY (Public 6 PM ET Oct 26) and Cumbia Colombia -qTrOJAZJPo (Public 9 PM ET Oct 26); Shorts x6BEXXHbaTs, n77t7du3-u8. No live Mon Oct 26 (Radio Thu-Sun). Merengue QkzzL15urq8 h7 70.6 h (API, Oct 18-24). Subs Studio 4,035 (API 4,030)."
-  },
-  {
-   "day": "2026-10-28",
-   "hours": 3304.0,
-   "as_of": "2026-10-23",
-   "added24": 602.0,
-   "mixes": 2,
-   "shorts": 3,
-   "live": false,
-   "subs": 4111,
-   "note": "Studio Earn 3,304 (as of Oct 23; read ~5:15 AM ET Oct 28, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg; +602 vs 2,702 as of Oct 22). Last 24h by Data API: mixes Reggaetón Clásico Old School koAuAT76e8g (Public ~5 PM ET Oct 27) and Bachatas Que Duelen UQXNazwzf1s (Public ~7:21 PM ET Oct 27); Shorts 7WZoOkWQo-Q, 3Py1J01XPjI, UD4Tu4EAf1c. No live Tue Oct 27 (Radio Thu-Sun). No tracked mix at a 7/14-day mark with API data (Salsa/Deep house/Merengue h14 pending). Subs Studio 4,111 (API 4,110)."
-  },
-  {
-   "day": "2026-10-29",
-   "hours": null,
-   "as_of": null,
-   "added24": null,
-   "mixes": 2,
-   "shorts": 2,
-   "live": false,
-   "subs": 4181,
-   "note": "UNVERIFIED hours: no fresh Studio Earn reading (read ~5:2x AM ET Oct 29, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page now shows the YPP onboarding stepper (Step 1 terms Done, Step 2 AdSense Not started, Step 3 review Not started) with no watch-hour/sub meters, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Last 24h by Data API: Public longs House & Club Originals 5MYHEBpYk8I (~4 PM ET Oct 28) and Noches Sonideras Full Album 5WP-_FVC7Xw (~9:15 PM ET Oct 28); Public Shorts __oQX3-epS0, h0i4P-I-CWg. Also uploaded Private (not counted): Dos Cafés 3UEBvxaJiOc + Short Jj0b8c59MPI (scheduled 7 PM ET Oct 29), Salsa Dura gESUjka6Q3Q and Dembow PZ6SUCDAzSM + Shorts (held, Argon freeze). No live Wed Oct 28 (Radio Thu-Sun). No tracked mix at a 7/14-day mark with API data. Subs Studio dashboard 4,181 (API 4,180)."
-  },
-  {
-   "day": "2026-10-30",
-   "hours": null,
-   "as_of": null,
-   "added24": null,
-   "mixes": 3,
-   "shorts": 3,
-   "live": true,
-   "subs": 4250,
-   "note": "UNVERIFIED hours: no fresh Studio Earn reading (read ~5:1x AM ET Oct 30, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page shows the YPP onboarding stepper (Step 1 terms Done, Step 2 AdSense Done, Step 3 Get reviewed In progress) with no watch-hour/sub meters, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Last 24h by Data API: Public longs Quédate en Mi Clave 4i-LIj3pDws (~2:44 PM ET Oct 29), Can't Outrun It ylSpdt7lZXQ (~4:02 PM ET Oct 29), Dos Cafés y un Adiós 3UEBvxaJiOc (7 PM ET Oct 29); Public Shorts pOVp2pR37sA, smi6WkLNmpU, Jj0b8c59MPI. Also uploaded Unlisted (not counted): Porch Light On wX1Ctw4M_PA + Short AVhZci25ZXI. Live ran Thu Oct 29: Radio After Hours R&B Y8qB61YEORA (7:00 PM to ~12:05 AM ET). Salsa s_BJgq_jikE reaches 14 days today but Analytics API data only runs through Oct 27, so h14 stays pending. Subs Studio dashboard 4,250 (API 4,250)."
-  },
-  {
-   "day": "2026-10-31",
-   "hours": null,
-   "as_of": null,
-   "added24": null,
-   "mixes": 2,
-   "shorts": 2,
-   "live": true,
-   "subs": 4302,
-   "note": "UNVERIFIED hours: no fresh Studio Earn reading (read ~5:20 AM ET Oct 31, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page shows the YPP onboarding stepper only (Step 1 terms Done, Step 2 AdSense Done, Step 3 Get reviewed In progress) with no watch-hour/sub meters, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Last 24h by Data API: Public longs MIX SALSA DURA gESUjka6Q3Q (~12:07 PM ET Oct 30) and Porch Light On wX1Ctw4M_PA (Unlisted yesterday, now Public); Public Shorts XpoDq5MdEEg, AVhZci25ZXI. Also uploaded Private (not counted): Heavy Mambo Mix ft. Dahian jWaEk6uQq20 + Short QegCI4_11Bw (scheduled 12 PM ET Oct 31), extra Private Short qQE0RlXtYk4. Live ran Fri Oct 30: Radio Bachata OZhoUMLPYQc (7:00 PM to ~12:04 AM ET). Salsa s_BJgq_jikE h14 still pending (Analytics API data only through Oct 28); Deep house T31mIrSb1aQ h14 pending. Subs Studio realtime 4,302 (API 4,300)."
-  }
- ],
- "mixes": [
-  {
-   "title": "Salsa mix",
-   "id": "s_BJgq_jikE",
-   "publish": "2026-10-16 20:00 ET",
-   "short": "BkL2eDsJJ_M",
-   "status": "Public",
-   "h7": 242.3,
-   "h14": null
-  },
-  {
-   "title": "Deep house mix",
-   "id": "T31mIrSb1aQ",
-   "publish": "2026-10-17 12:00 ET",
-   "short": "vT_eK8oX75g",
-   "status": "Public",
-   "h7": 3.3,
-   "h14": null
-  },
-  {
-   "title": "Merengue mix",
-   "id": "QkzzL15urq8",
-   "publish": "2026-10-18 16:00 ET",
-   "short": "Tp4HvW2QgfM",
-   "status": "Public",
-   "h7": 70.6,
-   "h14": null
-  }
- ],
- "pace_h_per_day": 98.82,
- "pace_7d_h_per_day": 356.86,
- "window_start": "2026-09-20",
- "window_end": "2026-10-23",
- "window_readings": {
-  "start": {
-   "as_of": "2026-09-20",
-   "hours": 43.0,
-   "read": "2026-09-25"
-  },
-  "end": {
-   "as_of": "2026-10-23",
-   "hours": 3304.0,
-   "read": "2026-10-28"
-  },
-  "7d_start": {
-   "as_of": "2026-10-16",
-   "hours": 806.0,
-   "read": "2026-10-21"
-  }
- },
- "window_gaps": "No Studio reading with as-of 2026-09-26, 09-28, 10-06 (not interpolated).",
- "method": "Dates = as-of 2026-10-23 + (milestone - 3304) / 98.82 h/day, the 28-day trailing pace (43 h as of 2026-09-20 to 3304 h as of 2026-10-23, Studio Earn as-of dates). 7-day pace 356.86 h/day (806 h as of 2026-10-16). Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
- "overall_status": "on track",
- "overall_note": "4000 h projected 2026-10-30 at 98.82 h/day (28d) vs target 2026-12-25: on track by 56 days | UNVERIFIED since 2026-10-29: Studio Earn meters replaced by YPP onboarding stepper (Oct 31: AdSense Done, review In progress); pace window still ends as of 2026-10-23 (no newer Studio reading).",
- "api_proxy": {
-  "label": "API PROXY - NOT the Studio-qualified YPP number (Studio last-known 3304 h as of 2026-10-23 remains authoritative)",
-  "pulled": "2026-10-29",
-  "source": "YouTube Analytics API v2 reports.query, ids=channel==UC9HS14jsqdRpXw9tGBPckeg, metric estimatedMinutesWatched",
-  "window_start": "2025-10-27",
-  "window_end": "2026-10-26",
-  "window_days": 365,
-  "total_hours": 9207.4,
-  "shorts_hours": 670.0,
-  "live_hours": 508.1,
-  "vod_hours": 8001.7,
-  "unattributed_hours": 27.6,
-  "long_form_hours": 8537.4,
-  "live_or_on_demand_hours": {
-   "LIVE": 80.2,
-   "ON_DEMAND": 9092.3
-  },
-  "method": "long_form = (total - creatorContentType shorts) / 60; includes liveStream (lives kept public count as VOD for YPP) and minutes not attributed to a content type. Pace = 28d (2026-09-29..2026-10-26) long-form minutes (dimensions=day,creatorContentType) / 60 / 28.",
-  "pace": {
-   "window_start": "2026-09-29",
-   "window_end": "2026-10-26",
-   "long_form_hours_28d": 6896.2,
-   "h_per_day": 246.29,
-   "hours_to_4000": 0,
-   "projected_4000": "already above 4000 on API proxy (as of 2026-10-26)",
-   "if_applied_to_studio_3304": {
-    "hours_to_4000": 696,
-    "days": 2.8,
-    "projected_4000": "2026-10-26"
-   }
-  },
-  "caveats": "API proxy (~8537 h) is ~2.6x Studio qualified (3304 h as of 2026-10-23). API counts watch on private/unlisted/deleted videos, Shorts-feed exclusions differ, and live minutes are not filtered by current public status; YPP uses public long-form only. Do not use for eligibility claims."
- }
 }
