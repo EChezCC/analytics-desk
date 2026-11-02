@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-04",
-  "end": "2026-10-31"
+  "start": "2026-10-05",
+  "end": "2026-11-01"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 736,
-  "sessions": 750,
-  "pageviews": 809,
+  "users": 837,
+  "sessions": 852,
+  "pageviews": 909,
   "daily": [
-   {
-    "day": "2026-10-04",
-    "users": 10,
-    "sessions": 11,
-    "pageviews": 11
-   },
    {
     "day": "2026-10-05",
     "users": 12,
@@ -177,13 +171,19 @@
     "users": 76,
     "sessions": 76,
     "pageviews": 76
+   },
+   {
+    "day": "2026-11-01",
+    "users": 111,
+    "sessions": 111,
+    "pageviews": 111
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 32,
-    "users": 30
+    "views": 33,
+    "users": 31
    },
    {
     "page": "/guides/florida-channel-markers-icw",
@@ -206,11 +206,6 @@
     "users": 5
    },
    {
-    "page": "/ramps/dixie/shired-island-public-boat-ramp",
-    "views": 4,
-    "users": 3
-   },
-   {
     "page": "/ramps/lake/banana-cove-marina-and-rv-park",
     "views": 4,
     "users": 3
@@ -221,28 +216,37 @@
     "users": 4
    },
    {
-    "page": "/ramps/miami-dade/rickenbacker-causeway-hobie-beach-catamaran-launch-motorized-craft-prohibited",
-    "views": 4,
-    "users": 3
-   },
-   {
     "page": "/species/largemouth-bass",
     "views": 4,
     "users": 4
+   },
+   {
+    "page": "/mechanics",
+    "views": 3,
+    "users": 2
+   },
+   {
+    "page": "/newsletter",
+    "views": 3,
+    "users": 2
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 613
+    "sessions": 719
    },
    {
     "channel": "Organic Search",
-    "sessions": 114
+    "sessions": 112
    },
    {
     "channel": "AI Assistant",
-    "sessions": 15
+    "sessions": 12
+   },
+   {
+    "channel": "Referral",
+    "sessions": 3
    },
    {
     "channel": "Unassigned",
@@ -251,24 +255,20 @@
    {
     "channel": "Organic Video",
     "sessions": 2
-   },
-   {
-    "channel": "Referral",
-    "sessions": 2
    }
   ]
  },
  "ga4_raw": {
-  "users": 761,
-  "sessions": 774,
-  "pageviews": 836
+  "users": 861,
+  "sessions": 875,
+  "pageviews": 934
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 83,
+  "impressions": 81,
   "top_queries": [
    {
     "query": "alimacani boat ramp",
@@ -277,10 +277,10 @@
     "position": 84
    },
    {
-    "query": "barge canal boat ramp",
+    "query": "bass boat",
     "clicks": 0,
     "impressions": 1,
-    "position": 83
+    "position": 1
    },
    {
     "query": "blimp road boat launch",
