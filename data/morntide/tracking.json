@@ -1,10 +1,17 @@
 {
- "fetched": "2026-11-02T06:59-04:00",
+ "fetched": "2026-11-03T06:54-04:00",
  "subs_public": 501,
- "studio_day": "2026-11-02",
+ "studio_day": "2026-11-03",
  "subs_studio": 501,
- "earn": 988,
+ "earn": 993,
  "uploads": [
+  {
+   "id": "I16A-_kPbvY",
+   "title": "Malecón Rain: Bachata Lo-Fi | Romantic Guitar Beats to Work and Relax",
+   "views": 2,
+   "duration": 1659,
+   "live": null
+  },
   {
    "id": "9WnStgjc3bQ",
    "title": "Merengue Lo-Fi Instrumentals | Tropical Beats to Work and Relax",
@@ -36,7 +43,7 @@
   {
    "id": "s-IjylbAUDY",
    "title": "Deep Work Ambience: 2 Hours of Ocean Waves on a Rocky Cliff | Morntide",
-   "views": 48,
+   "views": 49,
    "duration": 7201,
    "live": null
   },
@@ -64,7 +71,7 @@
   {
    "id": "-CZW0rGHg5o",
    "title": "8 Hours of Ocean Waves | The Perfect Night for Deep Sleep",
-   "views": 27,
+   "views": 28,
    "duration": 29101,
    "live": null
   },
@@ -141,11 +148,19 @@
  ],
  "streams": [
   {
-   "id": "EOrn-9uHuYo",
+   "id": "B6B1Yf7flNk",
    "title": "Can't Get Into Deep Work? Play This for Focus",
    "views": null,
    "duration": null,
    "live": "is_upcoming",
+   "tag": null
+  },
+  {
+   "id": "EOrn-9uHuYo",
+   "title": "Can't Get Into Deep Work? Play This for Focus",
+   "views": 19,
+   "duration": 23856,
+   "live": "was_live",
    "tag": null
   },
   {
@@ -537,7 +552,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-02)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-03)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
