@@ -239,6 +239,17 @@
    "live": true,
    "subs": 4391,
    "note": "UNVERIFIED hours: no fresh Studio Earn reading (read ~5:00 AM ET Nov 2, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page shows the YPP onboarding stepper only (Step 2 AdSense Done, Step 3 Get reviewed In progress) with no watch-hour/sub meters and no as-of date, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Last 24h by Data API: Public longs Tu Perfume en Mi Almohada (Official Video) gwXWy6fg36E (12 PM ET Nov 1) and 90s Pop Mix wqExFdUeU0w (~4:07 PM ET Nov 1); Public Shorts _ELGW0bDjHE (Tu Perfume) and q5JdIA1ieso (90s Pop). Live ran Sun Nov 1: Radio Bolero 5akljYiYpVo (7:00 PM to ~12:05 AM ET). Deep house T31mIrSb1aQ h14 = 3.3 h (Analytics API, Oct 17-30, 197 min). Merengue QkzzL15urq8 h14 pending (API data only through Oct 30). Subs Studio realtime 4,391 (API 4,390)."
+  },
+  {
+   "day": "2026-11-03",
+   "hours": null,
+   "as_of": null,
+   "added24": null,
+   "mixes": 2,
+   "shorts": 2,
+   "live": false,
+   "subs": 4468,
+   "note": "UNVERIFIED hours: no Studio Earn hours reading (read ~6:24 AM AST Nov 3, eyes-on, identity OK @DJChezerecta UC9HS14jsqdRpXw9tGBPckeg). Earn page is now the YouTube Partner page (Watch Page/Shorts Feed ads, Memberships, Supers on) with no watch-hour/sub meters and no as-of date, so hours and pace were not updated; last known Studio Earn 3,304 as of Oct 23. Channel monetized per Eric Nov 2. Last 24h by Data API: Public longs Bachata Moderna Mix Lsv6jq63Fdc (~6:56 PM ET Nov 2) and Pa'l Tiguere y la Morena (Merengue Original) jK5mJtu17q4 (~7:55 PM ET Nov 2); Public Shorts F2JthS7keFs (Tu Perfume Original) and o0HYAy_WL5I (Pa'l Tiguere). Also uploaded Private (not counted): Low Light Hours long grPGDaQA9bc and Short gy66QgyklQQ. No live Mon Nov 2 (Radio runs Thu-Sun). Merengue QkzzL15urq8 h14 = 70.8 h (Analytics API, Oct 18-31). Subs Studio realtime 4,468 (API 4,460)."
   }
  ],
  "mixes": [
@@ -269,7 +280,8 @@
    "short": "Tp4HvW2QgfM",
    "status": "Public",
    "h7": 70.6,
-   "h14": null
+   "h14": 70.8,
+   "h14_source": "API"
   }
  ],
  "pace_h_per_day": 98.82,
@@ -296,7 +308,7 @@
  "window_gaps": "No Studio reading with as-of 2026-09-26, 09-28, 10-06 (not interpolated).",
  "method": "Dates = as-of 2026-10-23 + (milestone - 3304) / 98.82 h/day, the 28-day trailing pace (43 h as of 2026-09-20 to 3304 h as of 2026-10-23, Studio Earn as-of dates). 7-day pace 356.86 h/day (806 h as of 2026-10-16). Approximate: qualified hours are a rolling 365-day window, so old hours expire.",
  "overall_status": "on track",
- "overall_note": "4000 h projected 2026-10-30 at 98.82 h/day (28d) vs target 2026-12-25: on track by 56 days | UNVERIFIED since 2026-10-29: Studio Earn meters replaced by YPP onboarding stepper (Nov 2: AdSense Done, review In progress); pace window still ends as of 2026-10-23 (no newer Studio reading).",
+ "overall_note": "4000 h projected 2026-10-30 at 98.82 h/day (28d) vs target 2026-12-25: on track by 56 days | UNVERIFIED since 2026-10-29: Studio Earn meters replaced by YPP onboarding stepper (Nov 3: Earn now shows the YouTube Partner page, channel monetized, no meters); pace window still ends as of 2026-10-23 (no newer Studio reading).",
  "api_proxy": {
   "label": "API PROXY - NOT the Studio-qualified YPP number (Studio last-known 3304 h as of 2026-10-23 remains authoritative)",
   "pulled": "2026-10-29",
