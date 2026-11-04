@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-03T06:54-04:00",
+ "fetched": "2026-11-04T06:56-04:00",
  "subs_public": 501,
- "studio_day": "2026-11-03",
+ "studio_day": "2026-11-04",
  "subs_studio": 501,
  "earn": 993,
  "uploads": [
@@ -14,7 +14,7 @@
   },
   {
    "id": "9WnStgjc3bQ",
-   "title": "Merengue Lo-Fi Instrumentals | Tropical Beats to Work and Relax",
+   "title": "Can Merengue Lo-Fi Actually Help You Focus?",
    "views": 23,
    "duration": 915,
    "live": null
@@ -71,7 +71,7 @@
   {
    "id": "-CZW0rGHg5o",
    "title": "8 Hours of Ocean Waves | The Perfect Night for Deep Sleep",
-   "views": 28,
+   "views": 29,
    "duration": 29101,
    "live": null
   },
@@ -120,14 +120,14 @@
   {
    "id": "64tyeo8LkDM",
    "title": "Quiet Pool: 53 Minutes of Ambient Sleep Music",
-   "views": 159,
+   "views": 160,
    "duration": 3200,
    "live": null
   },
   {
    "id": "uPqitC0mm4g",
    "title": "Rise and Focus | 2 Hours of Warm Morning Music for Deep Work",
-   "views": 375,
+   "views": 376,
    "duration": 7928,
    "live": null
   },
@@ -158,7 +158,7 @@
   {
    "id": "EOrn-9uHuYo",
    "title": "Can't Get Into Deep Work? Play This for Focus",
-   "views": 19,
+   "views": 23,
    "duration": 23856,
    "live": "was_live",
    "tag": null
@@ -174,7 +174,7 @@
   {
    "id": "MftbIsEGtBs",
    "title": "Can't Get Into the Flow? Play This for Deep Focus",
-   "views": 55,
+   "views": 56,
    "duration": 29488,
    "live": "was_live",
    "tag": null
@@ -552,7 +552,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-03)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-04)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

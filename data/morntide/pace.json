@@ -86,12 +86,16 @@
     {
      "day": "2026-11-03",
      "value": 501
+    },
+    {
+     "day": "2026-11-04",
+     "value": 501
     }
    ],
-   "rate_per_day": 0.1,
-   "window": "2026-10-14 to 2026-11-03 (20 days)",
+   "rate_per_day": 0.095,
+   "window": "2026-10-14 to 2026-11-04 (21 days)",
    "last": 501,
-   "projected": "2040-07-02",
+   "projected": "2041-03-10",
    "status": "projected"
   },
   {

@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-06",
-  "end": "2026-11-02"
+  "start": "2026-10-07",
+  "end": "2026-11-03"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 1018,
-  "sessions": 1033,
-  "pageviews": 1088,
+  "users": 1091,
+  "sessions": 1106,
+  "pageviews": 1161,
   "daily": [
-   {
-    "day": "2026-10-06",
-    "users": 8,
-    "sessions": 8,
-    "pageviews": 9
-   },
    {
     "day": "2026-10-07",
     "users": 16,
@@ -175,15 +169,21 @@
    {
     "day": "2026-11-02",
     "users": 192,
-    "sessions": 192,
+    "sessions": 191,
     "pageviews": 192
+   },
+   {
+    "day": "2026-11-03",
+    "users": 81,
+    "sessions": 82,
+    "pageviews": 82
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 33,
-    "users": 31
+    "views": 31,
+    "users": 29
    },
    {
     "page": "/guides/florida-channel-markers-icw",
@@ -206,6 +206,11 @@
     "users": 5
    },
    {
+    "page": "/mechanics",
+    "views": 4,
+    "users": 3
+   },
+   {
     "page": "/ramps/lake/banana-cove-marina-and-rv-park",
     "views": 4,
     "users": 3
@@ -221,11 +226,6 @@
     "users": 4
    },
    {
-    "page": "/mechanics",
-    "views": 3,
-    "users": 2
-   },
-   {
     "page": "/newsletter",
     "views": 3,
     "users": 2
@@ -234,7 +234,7 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 902
+    "sessions": 973
    },
    {
     "channel": "Organic Search",
@@ -242,7 +242,7 @@
    },
    {
     "channel": "AI Assistant",
-    "sessions": 12
+    "sessions": 14
    },
    {
     "channel": "Referral",
@@ -259,16 +259,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 1042,
-  "sessions": 1056,
-  "pageviews": 1113
+  "users": 1114,
+  "sessions": 1128,
+  "pageviews": 1185
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 77,
+  "impressions": 74,
   "top_queries": [
    {
     "query": "alimacani boat ramp",
@@ -297,8 +297,8 @@
    {
     "query": "boating naples fl",
     "clicks": 0,
-    "impressions": 2,
-    "position": 97.5
+    "impressions": 1,
+    "position": 99
    },
    {
     "query": "burnt store boat ramp",
