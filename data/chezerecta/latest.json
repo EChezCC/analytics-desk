@@ -1,49 +1,96 @@
 {
-  "day": "2026-11-04",
+  "day": "2026-11-05",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
     "subs": null,
     "earn": null,
-    "an7": 2723.5,
-    "views7": 115666,
-    "an28": 11487.6,
-    "views28": 215196,
+    "an7": 2240.0,
+    "views7": 121433,
+    "an28": 11631.4,
+    "views28": 232468,
     "shorts90": null,
-    "channel_views": 470678,
-    "video_count": 236,
-    "subs_api_rounded": 4560,
-    "subs_note": "MISSING: exact Studio count not available on Earn screen today",
-    "subs_error": "Studio subscriber count is missing (Earn screen shows the YouTube Partner page with no subscriber/watch-hour meters, Nov 4 ~6:17 AM AST); subs left null, rounded API value NOT used.",
-    "earn_status": "MISSING (Earn screen shows YouTube Partner page, no meters)",
+    "channel_views": 489849,
+    "video_count": 241,
+    "subs_api_rounded": 4610,
+    "subs_note": "MISSING: exact Studio count not available (Earn meters absent; Revenue tab path)",
+    "subs_error": "Studio subscriber count is missing (Earn meters not shown; Revenue tab used for earnings, Nov 5 ~6:40 AM AST); subs left null, rounded API value NOT used.",
+    "earn_status": "MISSING (Earn meters not shown; earnings from Revenue tab — see kpis.earnings)",
     "earn_last_known": 3304,
     "earn_last_known_as_of": "2026-10-23",
-    "shorts90_status": "MISSING"
+    "shorts90_status": "MISSING",
+    "day_watch_hours": 181.4,
+    "watch_hours_7d": 2240.0,
+    "watch_hours_28d": 11631.4,
+    "earnings": {
+      "status": "CURRENT",
+      "revenue_as_of": "2026-11-04",
+      "day_est_revenue_usd": null,
+      "est_revenue_7d_usd": 0.67,
+      "est_revenue_28d_usd": 0.67,
+      "rpm_7d_usd": null,
+      "rpm_28d_usd": null,
+      "cpm_28d_usd": null,
+      "monetized_playbacks_28d": null,
+      "range_7d": "Oct 29 – Nov 4, 2026",
+      "range_28d": "Oct 8 – Nov 4, 2026",
+      "revenue_by_source_28d": {
+        "watch_page_ads": null,
+        "shorts_feed_ads": null,
+        "memberships": null,
+        "supers": null
+      },
+      "revenue_by_source_7d": {
+        "watch_page_ads": 0.45,
+        "shorts_feed_ads": 0.22,
+        "memberships": null,
+        "supers": null
+      },
+      "top_earning_videos_28d": [
+        {
+          "title": "Salsa, Dembow y más: DJ Chezerecta en vivo (Official Mix)",
+          "video_id": null,
+          "revenue_usd": 0.14
+        },
+        {
+          "title": "Playa Luquillo escuchando a Frankie Ruiz #puertorico (7d adv table)",
+          "video_id": null,
+          "revenue_usd": 0.13
+        },
+        {
+          "title": "Salsa Brava Mix 2026 | Salsa Brava del Barrio (7d list)",
+          "video_id": null,
+          "revenue_usd": 0.14
+        }
+      ],
+      "top_earning_videos_note": "Taken from Studio 7d Revenue content list and advanced 28d/7d tables (28d and 7d totals equal $0.67, all revenue Nov 1-4); Low Light Hours $0.05, Tu Perfume en Mi Almohada $0.02, Quieres Bailar $0.01 also in 7d list. Video IDs not read.",
+      "revenue_data_as_of": "Nov 4, 2026 (chart; Nov 4 single-day revenue shows '—' = not yet reported)"
+    }
   },
-  "content_source": "YouTube Data API CURRENT 2026-11-04 ~6:13 AM AST @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261104/chezerecta-api.json): subs = exact Studio count (Earn screen) — MISSING today (Studio subscriber count is missing (Earn screen shows the YouTube Partner page with no subscriber/watch-hour meters, Nov 4 ~6:17 AM AST); subs left null, rounded API value NOT used.); API rounded subscriberCount 4,560 stored separately as subs_api_rounded; video_count 236, channel_views 470,678. Content board = lifetime viewCount, Data API merged with prior board (higher count kept); no CTR or hours on rows. Desk Studio OK (HARD identity PASS; proof /workspace/desk-studio-pull/20261104/studio-proof/chezerecta/REPORT.json) ~6:17 AM AST: Earn MISSING — YouTube Partner page, no meters; Watch Page Ads, Shorts Feed Ads, Memberships, Supers in use; Gifts not on; AdSense pub-2060205614836612 associated Oct 29 2026; Getting paid 'Not ready for payment'; LAST-KNOWN Earn 3,304 (as of Oct 23) and subs 4,111 (read Oct 28). shorts90 MISSING. Realtime shows 4,562 subs (UNVERIFIED as Earn-exact; not used for subs). 7d CURRENT Oct 28–Nov 3, 2026: 115,666 views / 2,723.5 h, subs +451; 28d Oct 7–Nov 3, 2026: 215,196 views / 11,487.6 h, subs +710, 961,019 impressions, CTR 3.0%. Yesterday (Nov 3, 2026) single-day Studio: 16,958 views / 248.1 watch hours, subs +95, 20,911 impressions, CTR 2.7%. 28d views by format MISSING (Content tab not opened); 7d impressions/CTR MISSING; named screenshots MISSING from proof.",
+  "content_source": "YouTube Data API CURRENT 2026-11-05 ~6:22 AM AST @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261105/chezerecta-api.json): subs = exact Studio count — MISSING today (Studio subscriber count is missing (Earn meters not shown; Revenue tab used for earnings, Nov 5 ~6:40 AM AST); subs left null, rounded API value NOT used.); API rounded subscriberCount 4,610 stored separately as subs_api_rounded; video_count 241, channel_views 489,849. Content board = lifetime viewCount, Data API merged with prior board (higher count kept); no CTR or hours on rows. Desk Studio OK (HARD identity PASS; proof /workspace/desk-studio-pull/20261105/studio-proof/chezerecta/REPORT.json) ~6:40 AM AST: Earn meters MISSING — Not opened; Revenue tab shows engaged-views RPM; November ongoing $0.67, Oct and earlier $0.00.. Earnings CURRENT from Revenue tab: est revenue 7d/28d $0.67 as of Nov 4 (7d by source Watch Page $0.45, Shorts Feed $0.22; 28d by-source/RPM/CPM/playbacks awaiting; day Nov 4 revenue not yet reported). LAST-KNOWN Earn hours 3,304 (as of Oct 23) and subs 4,111 (read Oct 28). shorts90 MISSING. Realtime shows 4,618 subs (UNVERIFIED as Earn-exact; not used for subs). 7d CURRENT Oct 29–Nov 4, 2026: 121,433 views / 2,240.0 h, subs +440; 28d Oct 8–Nov 4, 2026: 232,468 views / 11,631.4 h, subs +771, 964,097 impressions, CTR 3.0%. Yesterday (Nov 4, 2026) single-day Studio: 17,787 views / 181.4 watch hours, subs +57.",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 22262,
+      "views": 22372,
       "id": "X9j7lvl1lGg"
     },
     {
       "title": "Háblame Bailando",
       "kind": "long",
-      "views": 14642,
+      "views": 14644,
       "id": "qXW0DEkTe2Q"
     },
     {
       "title": "Time and Money",
       "kind": "long",
-      "views": 3925,
+      "views": 3928,
       "id": "6JAcnRSnpn0"
     },
     {
       "title": "Vuelve Esta Noche",
       "kind": "long",
-      "views": 2232,
+      "views": 2233,
       "id": "1sKPharmVVM"
     },
     {
@@ -73,19 +120,19 @@
     {
       "title": "Hablame Bailando",
       "kind": "short",
-      "views": 118031,
+      "views": 118032,
       "id": "jXYgugUiUc0"
     },
     {
       "title": "Aunque Duela",
       "kind": "short",
-      "views": 49746,
+      "views": 49747,
       "id": "xFZKi7tDTm8"
     },
     {
       "title": "No Pasa de Moda",
       "kind": "short",
-      "views": 16639,
+      "views": 16642,
       "id": "-Fa1bCKEqM8"
     },
     {
@@ -102,11 +149,11 @@
     }
   ],
   "recs": [
-    "Earn MISSING today: the Studio Earn page shows the YouTube Partner page (YouTube Partner page, no meters; Watch Page Ads, Shorts Feed Ads, Memberships, Supers in use; Gifts not on; AdSense pub-2060205614836612 associated Oct 29 2026; Getting paid 'Not ready for payment') with no meters. LAST-KNOWN 3,304 qualified public hours as of Oct 23. shorts90 MISSING.",
-    "Community Guidelines 'Warning' noted on the Studio Dashboard Oct 30 was not re-read in today's pull (status UNVERIFIED for Nov 4).",
-    "subs MISSING (exact Studio Earn count not shown); Data API rounded 4,560; Studio Realtime 4,562 (UNVERIFIED as Earn-exact). Last exact Studio count 4,111 (read Oct 28).",
-    "Board Short jXYgugUiUc0 is at 118,031 lifetime; Salsa, Dembow y más / Latin Mix X9j7lvl1lGg at 22,262 lifetime (Data API). 28d top (Studio): 'You need this Salsa Romántica mix right now' 103,644 views, Juan Luis Guerra – La Bilirrubina 32,837; top long by hours 'SALSA ROMÁNTICA VIEJITAS PERO BONITAS' 7,997.4 h. Keep end screens and live pins pointing at the Mix and the newest Public longs.",
-    "Analytics CURRENT 7d 2,723.5 h / 115,666 views (Oct 28–Nov 3), subs +451; previous 7d 4,443.2 h / 112,748 (Oct 27–Nov 2). 28d 11,487.6 h / 215,196 views (Oct 7–Nov 3), +710 subs; 28d impressions 961,019, CTR 3.0%. Yesterday Nov 3: 16,958 views / 248.1 h, +95 subs.",
-    "video_count CURRENT 236 (+5 from 231) / channel_views CURRENT 470,678 (+15,008 from 455,670 on Nov 3, Data API)."
+    "Earnings CURRENT (first desk write with kpis.earnings contract): 7d/28d est revenue $0.67 as of Nov 4. day_est_revenue_usd null (Studio '—' not yet reported). rpm/cpm/monetized_playbacks_28d and revenue_by_source_28d awaiting. 7d by source (not plotted on 28d card): Watch Page $0.45, Shorts Feed $0.22.",
+    "Earn meters MISSING (Not opened; Revenue tab shows engaged-views RPM; November ongoing $0.67, Oct and earlier $0.00.). LAST-KNOWN qualified public hours 3,304 as of Oct 23. shorts90 MISSING.",
+    "subs MISSING (exact Studio Earn count not shown); Data API rounded 4,610; Studio Realtime 4,618 (UNVERIFIED as Earn-exact). Last exact Studio count 4,111 (read Oct 28).",
+    "Board Short jXYgugUiUc0 is at 118,032 lifetime; Salsa, Dembow y más / Latin Mix X9j7lvl1lGg at 22,372 lifetime (Data API). 28d top (Studio): 'You need this Salsa Romántica mix right now (Short)' 119,646 views, Juan Luis Guerra – La Bilirrubina (Short) 32,896; top long by hours 'SALSA ROMÁNTICA VIEJITAS PERO BONITAS (long)' 8,074.7 h. Keep end screens and live pins pointing at the Mix and the newest Public longs.",
+    "Analytics CURRENT 7d 2,240.0 h / 121,433 views (Oct 29–Nov 4), subs +440; previous 7d 2,723.5 h / 115,666 (Oct 28–Nov 3). 28d 11,631.4 h / 232,468 views (Oct 8–Nov 4), +771 subs; 28d impressions 964,097, CTR 3.0%. Yesterday Nov 4: 17,787 views / 181.4 h, +57 subs.",
+    "video_count CURRENT 241 (+5 from 236) / channel_views CURRENT 489,849 (+19,171 from 470,678 on Nov 4, Data API)."
   ]
 }
