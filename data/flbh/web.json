@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-07",
-  "end": "2026-11-03"
+  "start": "2026-10-08",
+  "end": "2026-11-04"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 1091,
-  "sessions": 1106,
-  "pageviews": 1161,
+  "users": 1114,
+  "sessions": 1127,
+  "pageviews": 1183,
   "daily": [
-   {
-    "day": "2026-10-07",
-    "users": 16,
-    "sessions": 16,
-    "pageviews": 19
-   },
    {
     "day": "2026-10-08",
     "users": 8,
@@ -177,13 +171,19 @@
     "users": 81,
     "sessions": 82,
     "pageviews": 82
+   },
+   {
+    "day": "2026-11-04",
+    "users": 39,
+    "sessions": 40,
+    "pageviews": 41
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 31,
-    "users": 29
+    "views": 27,
+    "users": 25
    },
    {
     "page": "/guides/florida-channel-markers-icw",
@@ -192,8 +192,8 @@
    },
    {
     "page": "/map/",
-    "views": 11,
-    "users": 10
+    "views": 10,
+    "users": 9
    },
    {
     "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
@@ -201,14 +201,14 @@
     "users": 10
    },
    {
-    "page": "/ramps/",
-    "views": 5,
-    "users": 5
-   },
-   {
     "page": "/mechanics",
     "views": 4,
     "users": 3
+   },
+   {
+    "page": "/ramps/",
+    "views": 4,
+    "users": 4
    },
    {
     "page": "/ramps/lake/banana-cove-marina-and-rv-park",
@@ -234,22 +234,22 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 973
+    "sessions": 991
    },
    {
     "channel": "Organic Search",
-    "sessions": 110
+    "sessions": 113
    },
    {
     "channel": "AI Assistant",
-    "sessions": 14
-   },
-   {
-    "channel": "Referral",
-    "sessions": 3
+    "sessions": 15
    },
    {
     "channel": "Unassigned",
+    "sessions": 5
+   },
+   {
+    "channel": "Referral",
     "sessions": 3
    },
    {
@@ -259,16 +259,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 1114,
-  "sessions": 1128,
-  "pageviews": 1185
+  "users": 1130,
+  "sessions": 1143,
+  "pageviews": 1200
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 74,
+  "impressions": 73,
   "top_queries": [
    {
     "query": "alimacani boat ramp",
