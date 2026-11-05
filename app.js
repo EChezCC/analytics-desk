@@ -87,8 +87,11 @@ document.addEventListener('focusin', e => { const el = e.target.closest?.('[data
 addEventListener('scroll', () => { tip.hidden = true; }, { passive: true });
 let channels = [];
 // Only files that exist are requested (no 404s).
-const OPTIONAL = { chezerecta: ['ypp'], morntide: ['pace'] };
+const OPTIONAL = { morntide: ['pace'] }; // chezerecta ypp.json is retired (earnings focus, Nov 5)
+const EARN_DESK = ['chezerecta']; // channels showing earnings instead of YPP tracking
 const WEB = ['chezerecta', 'morntide', 'flbh'];
+const TREND_EARN = [['subs', 'Subscribers'], ['an7', 'Watch hours, 7d'], ['views7', 'Views, 7d rolling'], ['est_revenue_day_usd', 'Revenue / day'], ['rpm_28d_usd', 'RPM, 28d']];
+let TREND_CUR;
 const TREND = [['subs', 'Subscribers'], ['earn', 'YPP hours (Earn)'], ['views7', 'Views, 7d rolling'], ['an7', 'Hours, 7d rolling']];
 let trendKey = 'subs', S_cur = [];
 
@@ -118,6 +121,34 @@ async function webSection(slug) {
   return h;
 }
 
+// Earnings (DJ Chezerecta). Reads latest.json kpis.earnings (YCM contract, Nov 5); null = awaiting data, never filled in.
+const usd = n => n == null ? null : '$' + Number(n).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const wait = 'awaiting data';
+const ekpi = (l, v, d, n) => v == null ? kpi(l, '—', wait, null) : kpi(l, v, d, n);
+const statusTag = s => s ? tag(s, s === 'CURRENT' ? '' : s === 'UNVERIFIED' ? 'warn' : 'bad') : tag('awaiting data', 'mut');
+function earningsSection(k, S) {
+  const E = k.earnings || {}, r7 = E.range_7d ? ' · ' + E.range_7d : '', r28 = E.range_28d ? ' · ' + E.range_28d : '';
+  const wh7 = k.watch_hours_7d ?? k.an7, wh28 = k.watch_hours_28d ?? k.an28, snap = (S || [])[0] || {}, whd = k.day_watch_hours ?? snap.day_watch_hours;
+  let h = `<div class="hd"><h2>Earnings</h2><span class="r">${statusTag(E.status)}${upd('Revenue as of', E.revenue_as_of)}</span></div>`;
+  h += `<div class="grid k4">` + ekpi('Earn hours, yesterday', whd == null ? null : fmt(whd), 'watch hours' + (snap.day_date ? ', ' + snap.day_date : ''), whd)
+    + ekpi('Earn hours, 7d', wh7 == null ? null : fmt(wh7), 'watch hours' + (snap.an7_range ? ' · ' + snap.an7_range : ''), wh7)
+    + ekpi('Earn hours, 28d', wh28 == null ? null : fmt(wh28), 'watch hours' + (snap.an28_range ? ' · ' + snap.an28_range : ''), wh28)
+    + ekpi('Est. revenue, yesterday', usd(E.day_est_revenue_usd), 'estimatedRevenue, USD', null) + `</div>`;
+  h += `<div class="grid k4">` + ekpi('Est. revenue, 7d', usd(E.est_revenue_7d_usd), 'estimatedRevenue, USD' + r7, null)
+    + ekpi('Est. revenue, 28d', usd(E.est_revenue_28d_usd), 'estimatedRevenue, USD' + r28, null)
+    + ekpi('RPM, 28d', usd(E.rpm_28d_usd), E.rpm_7d_usd != null ? `7d ${usd(E.rpm_7d_usd)}` : 'rpm, USD per 1,000 views', null)
+    + ekpi('Monetized playbacks, 28d', E.monetized_playbacks_28d == null ? null : fmt(E.monetized_playbacks_28d), E.cpm_28d_usd != null ? `playback CPM ${usd(E.cpm_28d_usd)}` : 'playback CPM: ' + wait, E.monetized_playbacks_28d) + `</div>`;
+  const src = E.revenue_by_source_28d || {}, srcRows = [['watch_page_ads', 'Watch page ads'], ['shorts_feed_ads', 'Shorts feed ads'], ['memberships', 'Memberships'], ['supers', 'Supers']]
+    .map(([key, l]) => `<tr><td>${l}</td><td class="n">${src[key] == null ? `<span class="muted">${wait}</span>` : usd(src[key])}</td></tr>`);
+  const vids = (E.top_earning_videos_28d || []).filter(v => v.revenue_usd != null);
+  const revDays = [...(S || [])].filter(x => x.day && typeof x.est_revenue_day_usd === 'number').sort((a, b) => a.day < b.day ? -1 : 1);
+  h += `<div class="grid two">` + card('Revenue per day', revDays.length ? `${revDays.length} days with data` : '', revDays.length ? vbars(revDays.map(x => ({ x: x.day.slice(5), y: x.est_revenue_day_usd }))) + `<p class="muted">USD, snapshots.json est_revenue_day_usd. Days without a value are not plotted.</p>` : na('Awaiting data', 'snapshots.json has no est_revenue_day_usd values yet.'))
+    + daily(S, 'day_watch_hours', 'Earn hours per day') + `</div>`;
+  h += `<div class="grid two">` + card('Revenue by source', '28 days', `<div class="scroll">${table(['Source', 'USD'], srcRows, 1)}</div>`)
+    + card('Top earning videos', '28 days', vids.length ? `<div class="scroll">${table(['Video', 'Revenue'], vids.map(v => `<tr><td><a href="${yt(v.video_id)}" target="_blank" rel="noopener">${esc(v.title)}</a></td><td class="n">${usd(v.revenue_usd)}</td></tr>`), 1)}</div>` : na('Awaiting data', 'latest.json has no kpis.earnings.top_earning_videos_28d yet.')) + `</div>`;
+  return h;
+}
+
 async function show(slug) {
   const c = channels.find(x => x.slug === slug); if (!c) return;
   if (location.hash.slice(1) !== slug) history.replaceState(null, '', '#' + slug);
@@ -136,9 +167,11 @@ async function show(slug) {
       : kpi('Subscribers', fmt(k.subs), prev7?.subs != null && k.subs != null ? `${k.subs - prev7.subs >= 0 ? '+' : ''}${k.subs - prev7.subs} vs ${prev7.day} snapshot` : k.subs == null ? 'MISSING' : 'Studio exact', k.subs))
     + kpi('Views, 7d', fmt(k.views7), `${fmt(k.views28)} in 28d`, k.views7)
     + kpi('Watch hours, 7d', fmt(k.an7), `${fmt(k.an28)} h in 28d`, k.an7)
-    + (k.earn == null
+    + (EARN_DESK.includes(slug) ? kpi('Views, yesterday', fmt(snap.day_views), snap.day_date || 'Studio single day', snap.day_views) : k.earn == null
       ? kpi('YPP hours', 'UNVERIFIED', k.earn_last_known != null ? `Studio Earn not shown; last known ${fmt(k.earn_last_known)} h as of ${k.earn_last_known_as_of ?? '—'}` : 'Studio Earn not shown', null)
       : kpi('YPP hours', fmt(k.earn), 'Studio Earn, 365d' + ((k.earn_as_of || snap.earn_as_of) ? ', as of ' + (k.earn_as_of || snap.earn_as_of) : ''), k.earn)) + `</div>`;
+  if (EARN_DESK.includes(slug)) h += earningsSection(k, S);
+  else {
   // YPP
   let pace = '';
   if (Y) pace = `<dl class="props"><dt>Goal</dt><dd>${fmt(Y.goal_hours)} h by ${Y.deadline}</dd><dt>Status</dt><dd>${tag(Y.overall_status, Y.overall_status === 'behind' ? 'warn' : '')} ${esc(Y.overall_note)}</dd><dt>Pace</dt><dd>${Y.pace_h_per_day} h/day (28d) · ${Y.pace_7d_h_per_day} h/day (7d)</dd></dl>`
@@ -148,9 +181,11 @@ async function show(slug) {
   const meter = (label, val, goal) => `<div class="meter"><div class="top"><b>${label}</b><span>${fmt(val)} / ${fmt(goal)} · ${val == null ? '—' : Math.min(100, val/goal*100).toFixed(1) + '%'}</span></div><div class="bar"><i style="width:${Math.min(100, (val||0)/goal*100)}%"></i></div></div>`;
   h += `<div class="grid two">` + card('YPP progress', 'Studio', meter(k.subs == null && k.subs_api_rounded != null ? 'Subscribers (API rounded)' : 'Subscribers', k.subs ?? k.subs_api_rounded, 1000) + (k.earn == null ? `<div class="meter"><div class="top"><b>Watch hours (Earn, 365d)</b><span>UNVERIFIED / 4,000</span></div><div class="bar"></div></div>` : meter('Watch hours (Earn, 365d; full YPP 4,000)', k.earn, 4000)) + `<p class="muted">Public yt-dlp count ${fmt(T?.subs_public)} at ${T?.fetched ?? '—'}.</p>`)
     + card('YPP pace', Y ? 'ypp.json' : P ? 'pace.json' : '', pace) + `</div>`;
+  }
   // Trends
-  h += card('Trend', 'daily snapshots', `<div class="seg" id="trend-seg" style="margin-bottom:10px">${TREND.map(([key, l]) => `<button data-k="${key}">${l}</button>`).join('')}</div><div id="trend"></div>`, '', upd('Updated', snap.day));
-  h += `<div class="grid two">`
+  TREND_CUR = EARN_DESK.includes(slug) ? TREND_EARN : TREND; if (!TREND_CUR.some(t => t[0] === trendKey)) trendKey = 'subs';
+  h += card('Trend', 'daily snapshots', `<div class="seg" id="trend-seg" style="margin-bottom:10px">${TREND_CUR.map(([key, l]) => `<button data-k="${key}">${l}</button>`).join('')}</div><div id="trend"></div>`, '', upd('Updated', snap.day));
+  h += EARN_DESK.includes(slug) ? daily(S, 'day_views', 'Views per day') : `<div class="grid two">`
     + daily(S, 'day_views', 'Views per day') + daily(S, 'day_watch_hours', 'Watch hours per day') + `</div>`;
   // Top content
   const up = T?.uploads || [], lv = T?.streams || [];
@@ -166,7 +201,7 @@ async function show(slug) {
   const vids = (list, tagged) => list.map(v => `<tr><td><a href="${yt(v.id)}" target="_blank" rel="noopener">${esc(v.title)}</a>${tagged && v.tag ? tag(v.tag, 'acc') : ''}${v.live === 'is_live' ? tag('LIVE', 'bad') : ''}</td><td class="n">${dur(v.duration)}</td><td class="n">${fmt(v.views)}</td></tr>`);
   h += `<div class="grid two">` + card('Uploads', up.length + ' public', `<div class="scroll">${table(['Title', 'Length', 'Views'], vids(up))}</div>`)
     + card('Lives', lv.length + ' public' + (c.live_tag ? ` · ${lv.filter(s => s.tag).length} ${esc(c.live_tag)}` : ''), `<div class="scroll">${table(['Title', 'Length', 'Views'], vids(lv, true))}</div>`) + `</div>`;
-  h += card('Snapshots', (S || []).length + ' days', `<div class="scroll">${table(['Day', 'Subs', 'Earn h', 'Views 7d', 'Hours 7d', 'Views 28d', 'Hours 28d'], (S || []).map(s => `<tr><td>${s.day}</td><td class="n">${fmt(s.subs)}</td><td class="n">${fmt(s.earn)}</td><td class="n">${fmt(s.views7)}</td><td class="n">${fmt(s.an7)}</td><td class="n">${fmt(s.views28)}</td><td class="n">${fmt(s.an28)}</td></tr>`), 1)}</div>`);
+  h += card('Snapshots', (S || []).length + ' days', `<div class="scroll">${EARN_DESK.includes(slug) ? table(['Day', 'Subs', 'Rev/day', 'RPM 28d', 'Views 7d', 'Hours 7d', 'Views 28d', 'Hours 28d'], (S || []).map(s => `<tr><td>${s.day}</td><td class="n">${fmt(s.subs)}</td><td class="n">${usd(s.est_revenue_day_usd) ?? '—'}</td><td class="n">${usd(s.rpm_28d_usd) ?? '—'}</td><td class="n">${fmt(s.views7)}</td><td class="n">${fmt(s.an7)}</td><td class="n">${fmt(s.views28)}</td><td class="n">${fmt(s.an28)}</td></tr>`), 1) : table(['Day', 'Subs', 'Earn h', 'Views 7d', 'Hours 7d', 'Views 28d', 'Hours 28d'], (S || []).map(s => `<tr><td>${s.day}</td><td class="n">${fmt(s.subs)}</td><td class="n">${fmt(s.earn)}</td><td class="n">${fmt(s.views7)}</td><td class="n">${fmt(s.an7)}</td><td class="n">${fmt(s.views28)}</td><td class="n">${fmt(s.an28)}</td></tr>`), 1)}</div>`);
   h += await webSection(slug);
   $('view').innerHTML = h;
   S_cur = S || []; drawTrend(); countUp();
