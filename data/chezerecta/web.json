@@ -1,14 +1,14 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-08",
-  "end": "2026-11-04"
+  "start": "2026-10-09",
+  "end": "2026-11-05"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 165,
-  "sessions": 181,
-  "pageviews": 207,
+  "users": 181,
+  "sessions": 198,
+  "pageviews": 224,
   "daily": [
    {
     "day": "2026-10-12",
@@ -147,6 +147,12 @@
     "users": 8,
     "sessions": 8,
     "pageviews": 9
+   },
+   {
+    "day": "2026-11-05",
+    "users": 16,
+    "sessions": 17,
+    "pageviews": 17
    }
   ],
   "top_pages": [
@@ -157,8 +163,8 @@
    },
    {
     "page": "/es/",
-    "views": 67,
-    "users": 52
+    "views": 73,
+    "users": 58
    },
    {
     "page": "/player/",
@@ -204,11 +210,11 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 98
+    "sessions": 109
    },
    {
     "channel": "Organic Video",
-    "sessions": 60
+    "sessions": 66
    },
    {
     "channel": "Organic Social",
@@ -221,16 +227,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 608,
-  "sessions": 627,
-  "pageviews": 655
+  "users": 624,
+  "sessions": 645,
+  "pageviews": 672
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (443 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (447 paths)",
  "bot_spikes": [
   {
    "day": "2026-10-13",
    "sessions": 468,
-   "median": 8,
+   "median": 8.0,
    "direct_share": 0.99,
    "offsite_share": 0.93,
    "kept_sessions": 30
