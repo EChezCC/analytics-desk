@@ -1,14 +1,14 @@
 {
- "fetched": "2026-11-05T06:55-04:00",
+ "fetched": "2026-11-06T06:00-05:00",
  "subs_public": 501,
- "studio_day": "2026-11-05",
+ "studio_day": "2026-11-06",
  "subs_studio": 501,
- "earn": 993,
+ "earn": 995,
  "uploads": [
   {
    "id": "I16A-_kPbvY",
    "title": "Malecón Rain: Bachata Lo-Fi | Romantic Guitar Beats to Work and Relax",
-   "views": 3,
+   "views": 2,
    "duration": 1659,
    "live": null
   },
@@ -71,7 +71,7 @@
   {
    "id": "-CZW0rGHg5o",
    "title": "8 Hours of Ocean Waves | The Perfect Night for Deep Sleep",
-   "views": 29,
+   "views": 30,
    "duration": 29101,
    "live": null
   },
@@ -120,7 +120,7 @@
   {
    "id": "64tyeo8LkDM",
    "title": "Quiet Pool: 53 Minutes of Ambient Sleep Music",
-   "views": 160,
+   "views": 161,
    "duration": 3200,
    "live": null
   },
@@ -148,11 +148,19 @@
  ],
  "streams": [
   {
-   "id": "B6B1Yf7flNk",
+   "id": "plXW1OmzQE4",
    "title": "Can't Get Into Deep Work? Play This for Focus",
    "views": null,
    "duration": null,
-   "live": "is_live",
+   "live": "is_upcoming",
+   "tag": null
+  },
+  {
+   "id": "B6B1Yf7flNk",
+   "title": "Can't Get Into Deep Work? Play This for Focus",
+   "views": 18,
+   "duration": 32681,
+   "live": "was_live",
    "tag": null
   }
  ],
@@ -161,83 +169,142 @@
    "title": "Spa Bowls (album) - 1. Opening Bowls",
    "type": "album",
    "date": "2026-10-30",
-   "status": "pending",
+   "status": "live",
    "stores": {
+    "Apple": "https://music.apple.com/us/album/opening-bowls/6819100058?i=6819100059",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kfDsvhiapX6tN8BRlmWP07OFhglUdaSwY",
+    "Amazon": "https://music.amazon.com/albums/B0HLWSYN27",
+    "Tidal": "https://listen.tidal.com/album/566955765",
+    "Deezer": "https://www.deezer.com/album/1113080482",
     "HyperFollow": "https://distrokid.com/hyperfollow/morntide/spa-bowls"
    },
-   "checked": "2026-10-29 09:55 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Spa Bowls (album) - 2. Warm Light",
    "type": "album",
    "date": "2026-10-30",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/warm-light/6819100058?i=6819100060",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kfDsvhiapX6tN8BRlmWP07OFhglUdaSwY",
+    "Amazon": "https://music.amazon.com/albums/B0HLWSYN27",
+    "Tidal": "https://listen.tidal.com/album/566955765",
+    "Deezer": "https://www.deezer.com/album/1113080482"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Spa Bowls (album) - 3. Deep Stillness",
    "type": "album",
    "date": "2026-10-30",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/deep-stillness/6819100058?i=6819100061",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kfDsvhiapX6tN8BRlmWP07OFhglUdaSwY",
+    "Amazon": "https://music.amazon.com/albums/B0HLWSYN27",
+    "Tidal": "https://listen.tidal.com/album/566955765",
+    "Deezer": "https://www.deezer.com/album/1113080482"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Spa Bowls (album) - 4. Morning Garden",
    "type": "album",
    "date": "2026-10-30",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/morning-garden/6819100058?i=6819100062",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kfDsvhiapX6tN8BRlmWP07OFhglUdaSwY",
+    "Amazon": "https://music.amazon.com/albums/B0HLWSYN27",
+    "Tidal": "https://listen.tidal.com/album/566955765",
+    "Deezer": "https://www.deezer.com/album/1113080482"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Spa Bowls (album) - 5. Cedar Room",
    "type": "album",
    "date": "2026-10-30",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/cedar-room/6819100058?i=6819100063",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kfDsvhiapX6tN8BRlmWP07OFhglUdaSwY",
+    "Amazon": "https://music.amazon.com/albums/B0HLWSYN27",
+    "Tidal": "https://listen.tidal.com/album/566955765",
+    "Deezer": "https://www.deezer.com/album/1113080482"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Spa Bowls (album) - 6. Open Sky",
    "type": "album",
    "date": "2026-10-30",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/open-sky/6819100058?i=6819100064",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kfDsvhiapX6tN8BRlmWP07OFhglUdaSwY",
+    "Amazon": "https://music.amazon.com/albums/B0HLWSYN27",
+    "Tidal": "https://listen.tidal.com/album/566955765",
+    "Deezer": "https://www.deezer.com/album/1113080482"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Spa Bowls (album) - 7. Evening Stone",
    "type": "album",
    "date": "2026-10-30",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/evening-stone/6819100058?i=6819100065",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kfDsvhiapX6tN8BRlmWP07OFhglUdaSwY",
+    "Amazon": "https://music.amazon.com/albums/B0HLWSYN27",
+    "Tidal": "https://listen.tidal.com/album/566955765",
+    "Deezer": "https://www.deezer.com/album/1113080482"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Spa Bowls (album) - 8. Floating",
    "type": "album",
    "date": "2026-10-30",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/floating/6819100058?i=6819100066",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kfDsvhiapX6tN8BRlmWP07OFhglUdaSwY",
+    "Amazon": "https://music.amazon.com/albums/B0HLWSYN27",
+    "Tidal": "https://listen.tidal.com/album/566955765",
+    "Deezer": "https://www.deezer.com/album/1113080482"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Spa Bowls (album) - 9. Golden Hour",
    "type": "album",
    "date": "2026-10-30",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/golden-hour/6819100058?i=6819100067",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kfDsvhiapX6tN8BRlmWP07OFhglUdaSwY",
+    "Amazon": "https://music.amazon.com/albums/B0HLWSYN27",
+    "Tidal": "https://listen.tidal.com/album/566955765",
+    "Deezer": "https://www.deezer.com/album/1113080482"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Spa Bowls (album) - 10. Closing Circle",
    "type": "album",
    "date": "2026-10-30",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/closing-circle/6819100058?i=6819100068",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kfDsvhiapX6tN8BRlmWP07OFhglUdaSwY",
+    "Amazon": "https://music.amazon.com/albums/B0HLWSYN27",
+    "Tidal": "https://listen.tidal.com/album/566955765",
+    "Deezer": "https://www.deezer.com/album/1113080482"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Deep Focus Coding",
@@ -266,7 +333,7 @@
     "Tidal": "https://tidal.com/browse/track/564226408",
     "Deezer": "https://www.deezer.com/album/1106728412"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Deep Work",
@@ -280,7 +347,7 @@
     "Tidal": "https://tidal.com/browse/track/564226044",
     "Deezer": "https://www.deezer.com/album/1106728822"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "First Light on the Water",
@@ -294,7 +361,7 @@
     "Tidal": "https://tidal.com/browse/track/564226050",
     "Deezer": "https://www.deezer.com/album/1106729192"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Music for Coding",
@@ -307,12 +374,12 @@
     "Amazon": "https://music.amazon.com/albums/B0HL4V9HSV?trackAsin=B0HL4SN7G3",
     "Deezer": "https://www.deezer.com/album/1107412192"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   }
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-05)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-06)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

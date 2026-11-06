@@ -1,84 +1,91 @@
 {
- "fetched": "2026-11-05T06:55-04:00",
- "subs_public": 4610,
- "studio_day": "2026-11-04",
+ "fetched": "2026-11-06T06:00-05:00",
+ "subs_public": 4690,
+ "studio_day": "2026-11-06",
  "subs_studio": null,
  "earn": null,
  "uploads": [
   {
+   "id": "k0gbaMbv1tI",
+   "title": "Marimba Clash | Original Salsa Choke 2026 | DJ Chezerecta",
+   "views": 33,
+   "duration": 181,
+   "live": null
+  },
+  {
    "id": "erWtoSBWIM8",
    "title": "Romantic Vallenato Mix 2026 | Backyard Vallenato | DJ Chezerecta",
-   "views": 8,
+   "views": 25,
    "duration": 1354,
    "live": null
   },
   {
    "id": "1Dju_ndTxeo",
    "title": "Ese Riddim Nos Conoce | Reggaeton Old School Original | DJ Chezerecta",
-   "views": 49,
+   "views": 95,
    "duration": 195,
    "live": null
   },
   {
    "id": "qs6bTlCeHUY",
    "title": "Salsa Brava Mix 2026 | Salsa Brava del Barrio | 12 Original Tracks by DJ Chezerecta",
-   "views": 169,
+   "views": 188,
    "duration": 2494,
    "live": null
   },
   {
    "id": "grPGDaQA9bc",
    "title": "Low Light Hours | Deep House Mix 2026 | DJ Chezerecta (Original Album)",
-   "views": 53,
+   "views": 55,
    "duration": 2681,
    "live": null
   },
   {
    "id": "jK5mJtu17q4",
    "title": "¿Quién es la Morena? | Pa'l Tíguere y la Morena de DJ Chezerecta",
-   "views": 33,
+   "views": 36,
    "duration": 187,
    "live": null
   },
   {
    "id": "Lsv6jq63Fdc",
    "title": "Modern Bachata Mix 2026 | New Bachata for Dancing | DJ Chezerecta",
-   "views": 124,
+   "views": 135,
    "duration": 2476,
    "live": null
   },
   {
    "id": "wqExFdUeU0w",
    "title": "90s Pop Mix | Wheel of Fortune, Return of the Mack, The Sign, What Is Love… | DJ Chezerecta",
-   "views": 784,
+   "views": 791,
    "duration": 3669,
    "live": null
   },
   {
    "id": "gwXWy6fg36E",
    "title": "Your Perfume on My Pillow | Romantic Bachata (Official Video)",
-   "views": 50,
+   "views": 56,
    "duration": 179,
    "live": null
   },
   {
    "id": "PZ6SUCDAzSM",
    "title": "DEMBOW MIX 🔥 Bad Bunny, El Alfa, Karol G | Classic & Modern Dembow",
-   "views": 340,
+   "views": 346,
    "duration": 3235,
    "live": null
   },
   {
    "id": "jWaEk6uQq20",
    "title": "Heavy Mambo Mix ft. Dahian El Apechao | Dominican Party Mix",
-   "views": 647,
+   "views": 657,
    "duration": 2636,
    "live": null
   },
   {
    "id": "gESUjka6Q3Q",
    "title": "MIX SALSA DURA 🎺 Grupo Niche, Joe Arroyo, Willie Colon | Clásicos Bravos",
-   "views": 230,
+   "views": 235,
    "duration": 7335,
    "live": null
   },
@@ -92,7 +99,7 @@
   {
    "id": "3UEBvxaJiOc",
    "title": "Dos Cafés y un Adiós | Bachata (Official)",
-   "views": 77,
+   "views": 79,
    "duration": 328,
    "live": null
   },
@@ -106,42 +113,42 @@
   {
    "id": "4i-LIj3pDws",
    "title": "Quédate en Mi Clave | Salsa (Official)",
-   "views": 80,
+   "views": 85,
    "duration": 281,
    "live": null
   },
   {
    "id": "5WP-_FVC7Xw",
    "title": "Noches Sonideras — Full Album | Cumbia Sonidera (Official)",
-   "views": 301,
+   "views": 302,
    "duration": 1381,
    "live": null
   },
   {
    "id": "5MYHEBpYk8I",
    "title": "Why Is This House Mix Getting Stuck in Everyone's Head?",
-   "views": 86,
+   "views": 90,
    "duration": 2261,
    "live": null
   },
   {
    "id": "UQXNazwzf1s",
    "title": "BACHATAS QUE DUELEN 💔 Aventura, Zacarías Ferreira, Luis Vargas | Amargue & Romántica",
-   "views": 247,
+   "views": 249,
    "duration": 4837,
    "live": null
   },
   {
    "id": "koAuAT76e8g",
    "title": "CLASSIC REGGAETON MIX 🔥 Daddy Yankee, Don Omar, Ivy Queen | Old School Hits",
-   "views": 767,
+   "views": 775,
    "duration": 4448,
    "live": null
   },
   {
    "id": "-qTrOJAZJPo",
    "title": "COLOMBIAN CUMBIA MIX 🔥 Rodolfo y La Colegiala, Sonora Dinamita, Aniceto Molina | Colombian Hits",
-   "views": 641,
+   "views": 646,
    "duration": 4542,
    "live": null
   },
@@ -162,21 +169,21 @@
   {
    "id": "x-H_oIn1zqk",
    "title": "Las Mejores Bachatas Románticas Para Bailar con el Alma Rota 💔 Aventura, Prince Royce",
-   "views": 271,
+   "views": 273,
    "duration": 3462,
    "live": null
   },
   {
    "id": "IC29QXidwvY",
    "title": "POP LATINO PARTY MIX 💃 Shakira, Ricky Martin, Enrique Iglesias, Camilo, Morat | Pop en Español",
-   "views": 214,
+   "views": 216,
    "duration": 5331,
    "live": null
   },
   {
    "id": "xRlcpZzmtwU",
    "title": "DJ Chezerecta Presents Salsa Dominicana (Official Video) | Yiyo Sarante and More",
-   "views": 694,
+   "views": 695,
    "duration": 4897,
    "live": null
   },
@@ -190,21 +197,21 @@
   {
    "id": "_stz9sNJrRY",
    "title": "Halloween Party Mix 2026: Bad Bunny, Daddy Yankee and more 👻",
-   "views": 890,
+   "views": 894,
    "duration": 2275,
    "live": null
   },
   {
    "id": "ZRtB-o3yrWk",
    "title": "Soft Fire 🔥 Keep Moving on the Floor | DJ Chezerecta Afro House 2026 (Official Video)",
-   "views": 121,
+   "views": 124,
    "duration": 238,
    "live": null
   },
   {
    "id": "U5_j7XAX1CQ",
    "title": "DOMINICAN BIRTHDAY MIX 🎂 Juan Luis Guerra, Aventura and more | NON-STOP PARTY!",
-   "views": 61,
+   "views": 66,
    "duration": 6183,
    "live": null
   },
@@ -232,7 +239,7 @@
   {
    "id": "rFyM_O4LlRU",
    "title": "I Returned for Her Light 🌹 Romantic Bachata | The Light in Your Window (Official Video)",
-   "views": 79,
+   "views": 82,
    "duration": 256,
    "live": null
   },
@@ -267,7 +274,7 @@
   {
    "id": "3sUVQHF7mV0",
    "title": "Afro House Mix 2026 🌅 Deep Tribal Grooves for a Desert Fire Ritual | DJ Chezerecta",
-   "views": 293,
+   "views": 294,
    "duration": 1886,
    "live": null
   },
@@ -323,7 +330,7 @@
   {
    "id": "7it9ze-xJCM",
    "title": "Wanna dance? New merengue and party night at the Malecón",
-   "views": 28,
+   "views": 31,
    "duration": 230,
    "live": null
   },
@@ -400,7 +407,7 @@
   {
    "id": "b2-kM2WNWPY",
    "title": "DJ Chezerecta - Spin With Me (Official Video)",
-   "views": 98,
+   "views": 99,
    "duration": 185,
    "live": null
   },
@@ -448,7 +455,7 @@
   },
   {
    "id": "waKe80YXx3w",
-   "title": "DJ Chezerecta - This Night Is Yours (Official Video)",
+   "title": "DJ Chezerecta - Esta Noche Es Tuya (Official Video)",
    "views": 124,
    "duration": 190,
    "live": null
@@ -477,7 +484,7 @@
   {
    "id": "VUP9QzIg0JI",
    "title": "DJ Chezerecta - Somos El Pueblo (Official Video)",
-   "views": 129,
+   "views": 130,
    "duration": 179,
    "live": null
   },
@@ -631,7 +638,7 @@
   {
    "id": "ddj6anK6Q0Y",
    "title": "DJ Chezerecta - Aunque Sea Mentira (Official Video) | Bachata",
-   "views": 111,
+   "views": 115,
    "duration": 185,
    "live": null
   },
@@ -715,7 +722,7 @@
   {
    "id": "s5GCaZ-BXFQ",
    "title": "Se Me Nota (Bachata R&B) by DJ Chezerecta",
-   "views": 116,
+   "views": 120,
    "duration": 200,
    "live": null
   },
@@ -750,6 +757,14 @@
  ],
  "streams": [
   {
+   "id": "qPASVK96Gp0",
+   "title": "After Hours R&B Session: DJ Chezerecta Live Stream",
+   "views": 37,
+   "duration": 17643,
+   "live": "was_live",
+   "tag": null
+  },
+  {
    "id": "5akljYiYpVo",
    "title": "Is This the Most Heartbreaking Bolero Session? DJ Chezerecta Live Stream",
    "views": 84,
@@ -760,7 +775,7 @@
   {
    "id": "rQ5j4B7C8iQ",
    "title": "Is This the Most Dangerous Merengue Dance Floor? DJ Chezerecta Live Stream",
-   "views": 121,
+   "views": 132,
    "duration": 17690,
    "live": "was_live",
    "tag": null
@@ -768,7 +783,7 @@
   {
    "id": "OZhoUMLPYQc",
    "title": "Is This the Best Bachata Night Yet? DJ Chezerecta Live Stream",
-   "views": 162,
+   "views": 165,
    "duration": 16977,
    "live": "was_live",
    "tag": null
@@ -776,7 +791,7 @@
   {
    "id": "Y8qB61YEORA",
    "title": "After Hours R&B Session: DJ Chezerecta Live Stream",
-   "views": 111,
+   "views": 113,
    "duration": 17695,
    "live": "was_live",
    "tag": null
@@ -784,7 +799,7 @@
   {
    "id": "WuiPjl2MKGY",
    "title": "Caribbean Rhythm Session: DJ Chezerecta Live Stream",
-   "views": 149,
+   "views": 150,
    "duration": 1498,
    "live": "was_live",
    "tag": null
@@ -813,7 +828,7 @@
    "date": "2026-11-21",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Dos Cafés y un Adiós",
@@ -821,7 +836,7 @@
    "date": "2026-11-20",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Soft Fire",
@@ -829,7 +844,17 @@
    "date": "2026-11-14",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "checked": "2026-11-05 10:05 ET"
+  },
+  {
+   "title": "Low Light Hours (album)",
+   "type": "album",
+   "date": "2026-11-13",
+   "status": "pending",
+   "stores": {
+    "HyperFollow": "https://distrokid.com/hyperfollow/djchezerecta/low-light-hours"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Baja Pa' La Calle (remaster resubmit)",
@@ -837,15 +862,93 @@
    "date": "2026-11-10",
    "status": "pending",
    "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Don't Turn Off the Night",
    "type": "single",
    "date": "2026-11-05",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-10-29 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/dont-turn-off-the-night-single/6821085309",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kD9X6EurLCXAqKQ_a1NG-jV2fXFVzq7R8",
+    "Amazon": "https://music.amazon.com/albums/B0HMFD9RWR?trackAsin=B0HMF9JRBR",
+    "Tidal": "https://tidal.com/browse/track/568400949",
+    "Deezer": "https://www.deezer.com/album/1117246482",
+    "HyperFollow": "https://distrokid.com/hyperfollow/djchezerecta/dont-turn-off-the-night"
+   },
+   "checked": "2026-11-05 10:05 ET"
+  },
+  {
+   "title": "Ese Riddim Nos Conoce",
+   "type": "single",
+   "date": "2026-11-04",
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/ese-riddim-nos-conoce-single/6830661953",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_lJGsDE6iOrBuBFcZtrFa15XZhiBsMngFc",
+    "Amazon": "https://music.amazon.com/albums/B0HQCX2VBP?trackAsin=B0HQD44B6W",
+    "Tidal": "https://tidal.com/browse/track/575947311",
+    "Deezer": "https://www.deezer.com/album/1138528111"
+   },
+   "checked": "2026-11-05 10:05 ET"
+  },
+  {
+   "title": "Vallenato de Patio",
+   "type": "album",
+   "date": "2026-11-04",
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/vallenato-de-patio/6830954716",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_lWjwbMDJNortvaE5kCx3M_aYcbRHjCf7Q",
+    "Amazon": "https://music.amazon.com/albums/B0HQGM84T9",
+    "Tidal": "https://listen.tidal.com/album/576120729",
+    "Deezer": "https://www.deezer.com/album/1139021901"
+   },
+   "checked": "2026-11-05 10:05 ET"
+  },
+  {
+   "title": "Salsa Brava del Barrio",
+   "type": "album",
+   "date": "2026-11-03",
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/salsa-brava-del-barrio/6830389329",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_ng0SxHo37X-8EYdQPbJ0437K4rKsiDoqQ",
+    "Amazon": "https://music.amazon.com/albums/B0HQ8WTP88",
+    "Tidal": "https://listen.tidal.com/album/575785231",
+    "Deezer": "https://www.deezer.com/album/1138027311"
+   },
+   "checked": "2026-11-05 10:05 ET"
+  },
+  {
+   "title": "Pa'l Tíguere y la Morena",
+   "type": "single",
+   "date": "2026-11-02",
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/pal-t%C3%ADguere-y-la-morena-single/6830000244",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kPAlEEtDJB22Huzoi1bGcLf67TvA-pqpg",
+    "Amazon": "https://music.amazon.com/albums/B0HQ5WHCV3?trackAsin=B0HQ5TDMRL",
+    "Tidal": "https://tidal.com/browse/track/575452799",
+    "Deezer": "https://www.deezer.com/album/1137244321"
+   },
+   "checked": "2026-11-05 10:05 ET"
+  },
+  {
+   "title": "Tu Perfume en Mi Almohada",
+   "type": "single",
+   "date": "2026-11-01",
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/tu-perfume-en-mi-almohada-single/6829496538",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_mirZQD22Wd7wrWNaeTnJ_VwC2HtF_EMSM",
+    "Amazon": "https://music.amazon.com/albums/B0HQ1C39Y3?trackAsin=B0HQ1SX1JN",
+    "Tidal": "https://tidal.com/browse/track/575114190",
+    "Deezer": "https://www.deezer.com/album/1136165291",
+    "HyperFollow": "https://distrokid.com/hyperfollow/djchezerecta/tu-perfume-en-mi-almohada"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Noche Latina (EP) - 1. Si Me Das La Mano",
@@ -854,12 +957,13 @@
    "status": "live",
    "stores": {
     "Apple": "https://music.apple.com/us/album/si-me-das-la-mano/6816970330?i=6816970331",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kgvOTTkASglg-VbQtqND-3OuCPqmo4J-Y",
     "Amazon": "https://music.amazon.com/albums/B0HL9729JV",
     "Tidal": "https://listen.tidal.com/album/564966598",
     "Deezer": "https://www.deezer.com/album/1108419222",
     "HyperFollow": "https://distrokid.com/hyperfollow/djchezerecta/noche-latina"
    },
-   "checked": "2026-10-30 10:00 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Noche Latina (EP) - 2. Por La Cintura",
@@ -868,11 +972,12 @@
    "status": "live",
    "stores": {
     "Apple": "https://music.apple.com/us/album/por-la-cintura/6816970330?i=6816970662",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kgvOTTkASglg-VbQtqND-3OuCPqmo4J-Y",
     "Amazon": "https://music.amazon.com/albums/B0HL9729JV",
     "Tidal": "https://listen.tidal.com/album/564966598",
     "Deezer": "https://www.deezer.com/album/1108419222"
    },
-   "checked": "2026-10-30 10:00 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Noche Latina (EP) - 3. Prende La Yala",
@@ -881,11 +986,12 @@
    "status": "live",
    "stores": {
     "Apple": "https://music.apple.com/us/album/prende-la-yala/6816970330?i=6816970663",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kgvOTTkASglg-VbQtqND-3OuCPqmo4J-Y",
     "Amazon": "https://music.amazon.com/albums/B0HL9729JV",
     "Tidal": "https://listen.tidal.com/album/564966598",
     "Deezer": "https://www.deezer.com/album/1108419222"
    },
-   "checked": "2026-10-30 10:00 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Noche Latina (EP) - 4. Esta Noche Es Tuya",
@@ -894,11 +1000,12 @@
    "status": "live",
    "stores": {
     "Apple": "https://music.apple.com/us/album/esta-noche-es-tuya/6816970330?i=6816970664",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kgvOTTkASglg-VbQtqND-3OuCPqmo4J-Y",
     "Amazon": "https://music.amazon.com/albums/B0HL9729JV",
     "Tidal": "https://listen.tidal.com/album/564966598",
     "Deezer": "https://www.deezer.com/album/1108419222"
    },
-   "checked": "2026-10-30 10:00 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Noche Latina (EP) - 5. Que Siga el Son",
@@ -907,11 +1014,12 @@
    "status": "live",
    "stores": {
     "Apple": "https://music.apple.com/us/album/que-siga-el-son/6816970330?i=6816970665",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kgvOTTkASglg-VbQtqND-3OuCPqmo4J-Y",
     "Amazon": "https://music.amazon.com/albums/B0HL9729JV",
     "Tidal": "https://listen.tidal.com/album/564966598",
     "Deezer": "https://www.deezer.com/album/1108419222"
    },
-   "checked": "2026-10-30 10:00 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Noche Latina (EP) - 6. Háblame Bailando",
@@ -920,11 +1028,40 @@
    "status": "live",
    "stores": {
     "Apple": "https://music.apple.com/us/album/h%C3%A1blame-bailando/6816970330?i=6816970666",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kgvOTTkASglg-VbQtqND-3OuCPqmo4J-Y",
     "Amazon": "https://music.amazon.com/albums/B0HL9729JV",
     "Tidal": "https://listen.tidal.com/album/564966598",
     "Deezer": "https://www.deezer.com/album/1108419222"
    },
-   "checked": "2026-10-30 10:00 ET"
+   "checked": "2026-11-05 10:05 ET"
+  },
+  {
+   "title": "Can't Outrun It",
+   "type": "single",
+   "date": "2026-10-29",
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/cant-outrun-it-single/6828603310",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_lldxq_6gPfeYHU6ZO_BEcNT2MLYo0mTbE",
+    "Amazon": "https://music.amazon.com/albums/B0HPR2QPHZ?trackAsin=B0HPQMJBGR",
+    "Tidal": "https://tidal.com/browse/track/574449516",
+    "Deezer": "https://www.deezer.com/album/1134160151"
+   },
+   "checked": "2026-11-05 10:05 ET"
+  },
+  {
+   "title": "Porch Light On",
+   "type": "single",
+   "date": "2026-10-29",
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/porch-light-on-single/6828635743",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_lLZsa8AnBT11RkYQ9e43bWEhGWZErB5co",
+    "Amazon": "https://music.amazon.com/albums/B0HPRW1293?trackAsin=B0HPRTZLRT",
+    "Tidal": "https://tidal.com/browse/track/574468851",
+    "Deezer": "https://www.deezer.com/album/1134220661"
+   },
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "La Luz de Tu Ventana",
@@ -953,7 +1090,7 @@
     "Tidal": "https://tidal.com/browse/track/569835865",
     "Deezer": "https://www.deezer.com/album/1121441402"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "La Última Vuelta",
@@ -982,7 +1119,7 @@
     "Tidal": "https://tidal.com/browse/track/567561567",
     "Deezer": "https://www.deezer.com/album/1114872712"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Don't Hang Up",
@@ -996,7 +1133,7 @@
     "Tidal": "https://tidal.com/browse/track/564733989",
     "Deezer": "https://www.deezer.com/album/1107761532"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Por La Cintura",
@@ -1025,7 +1162,7 @@
     "Tidal": "https://tidal.com/browse/track/564826775",
     "Deezer": "https://www.deezer.com/album/1108040932"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "After Midnight",
@@ -1054,7 +1191,7 @@
     "Tidal": "https://tidal.com/browse/track/564193795",
     "Deezer": "https://www.deezer.com/album/1106649932"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "La Mentira Que Mejor Me Sé",
@@ -1068,7 +1205,7 @@
     "Tidal": "https://tidal.com/browse/track/566556932",
     "Deezer": "https://www.deezer.com/album/1112026582"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Melt (Every Time)",
@@ -1082,7 +1219,7 @@
     "Tidal": "https://tidal.com/browse/track/566454635",
     "Deezer": "https://www.deezer.com/album/1111738882"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Candil de Medianoche",
@@ -1096,7 +1233,7 @@
     "Tidal": "https://tidal.com/browse/track/566458409",
     "Deezer": "https://www.deezer.com/album/1111741202"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Ven a La Pista",
@@ -1110,7 +1247,7 @@
     "Tidal": "https://tidal.com/browse/track/566472218",
     "Deezer": "https://www.deezer.com/album/1111804322"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Tumbao de Acero",
@@ -1124,7 +1261,7 @@
     "Tidal": "https://tidal.com/browse/track/566472823",
     "Deezer": "https://www.deezer.com/album/1111804832"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Malecón a las 3",
@@ -1138,7 +1275,7 @@
     "Tidal": "https://tidal.com/browse/track/566472226",
     "Deezer": "https://www.deezer.com/album/1111804942"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Gira Conmigo",
@@ -1152,7 +1289,7 @@
     "Tidal": "https://tidal.com/browse/track/566472699",
     "Deezer": "https://www.deezer.com/album/1111805022"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Tambor del Sol",
@@ -1166,7 +1303,7 @@
     "Tidal": "https://tidal.com/browse/track/566774999",
     "Deezer": "https://www.deezer.com/album/1112571842"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Horizonte",
@@ -1188,7 +1325,7 @@
     "Tidal": "https://tidal.com/browse/track/563864656",
     "Deezer": "https://www.deezer.com/album/1105925682"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Somos El Pueblo",
@@ -1202,7 +1339,7 @@
     "Tidal": "https://tidal.com/browse/track/563880946",
     "Deezer": "https://www.deezer.com/album/1105981422"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Así de Cerca",
@@ -1246,7 +1383,7 @@
     "Tidal": "https://tidal.com/browse/track/565060205",
     "Deezer": "https://www.deezer.com/album/1108693192"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Esta Noche Es Tuya",
@@ -1259,7 +1396,7 @@
     "Tidal": "https://tidal.com/browse/track/564579189",
     "Deezer": "https://www.deezer.com/album/1107372412"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Prende La Yala",
@@ -1297,13 +1434,14 @@
    "date": "2026-09-25",
    "status": "live",
    "stores": {
+    "Spotify": "https://open.spotify.com/album/0PZbEgxgQz06gIalKCfrKZ",
     "Apple": "https://music.apple.com/us/album/pr%C3%A9ndela-single/6816370711",
     "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_l_Uqf3sKeuBVHs6udYe8BVhhWc0v2NYRE",
     "Amazon": "https://music.amazon.com/albums/B0HL1YCJ99?trackAsin=B0HL21DXT9",
     "Tidal": "https://tidal.com/browse/track/564462115",
     "Deezer": "https://www.deezer.com/album/1107110512"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Keep the Floor Warm",
@@ -1317,7 +1455,7 @@
     "Tidal": "https://tidal.com/browse/track/563803053",
     "Deezer": "https://www.deezer.com/album/1104604652"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Te Quiero Despacio",
@@ -1706,7 +1844,7 @@
     "Tidal": "https://tidal.com/browse/track/561215094",
     "Deezer": "https://www.deezer.com/album/1078821092"
    },
-   "checked": "2026-10-29 09:55 ET"
+   "checked": "2026-11-05 10:05 ET"
   },
   {
    "title": "Can't Hide It",
@@ -1746,16 +1884,17 @@
    "stores": {
     "Spotify": "https://open.spotify.com/album/32ZykwN7I3hKie4N33gdim",
     "Apple": "https://music.apple.com/us/album/h%C3%A1blame-bailando-single/6811695950",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_m1x6ZH3pPRx7_xXTowuOphejZn6vWsBkE",
     "Amazon": "https://music.amazon.com/albums/B0HJP58JGF?trackAsin=B0HJP59716",
     "Tidal": "https://tidal.com/browse/track/560936763",
     "Deezer": "https://www.deezer.com/album/1077976992"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-05 10:05 ET"
   }
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/chezerecta/latest.json (2026-11-04)",
+  "hours": "YouTube Studio Earn reading in data/chezerecta/latest.json (2026-11-06)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
