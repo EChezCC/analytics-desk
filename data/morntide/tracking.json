@@ -1,9 +1,9 @@
 {
- "fetched": "2026-11-06T06:00-05:00",
+ "fetched": "2026-11-07T05:58-05:00",
  "subs_public": 501,
- "studio_day": "2026-11-06",
+ "studio_day": "2026-11-07",
  "subs_studio": 501,
- "earn": 995,
+ "earn": 892,
  "uploads": [
   {
    "id": "I16A-_kPbvY",
@@ -71,7 +71,7 @@
   {
    "id": "-CZW0rGHg5o",
    "title": "8 Hours of Ocean Waves | The Perfect Night for Deep Sleep",
-   "views": 30,
+   "views": 32,
    "duration": 29101,
    "live": null
   },
@@ -85,7 +85,7 @@
   {
    "id": "FDCP-FRQ_GU",
    "title": "One Hour of Quiet Focus: First Light Sessions",
-   "views": 85,
+   "views": 86,
    "duration": 3655,
    "live": null
   },
@@ -120,7 +120,7 @@
   {
    "id": "64tyeo8LkDM",
    "title": "Quiet Pool: 53 Minutes of Ambient Sleep Music",
-   "views": 161,
+   "views": 162,
    "duration": 3200,
    "live": null
   },
@@ -158,7 +158,7 @@
   {
    "id": "B6B1Yf7flNk",
    "title": "Can't Get Into Deep Work? Play This for Focus",
-   "views": 18,
+   "views": 21,
    "duration": 32681,
    "live": "was_live",
    "tag": null
@@ -379,7 +379,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-06)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-07)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

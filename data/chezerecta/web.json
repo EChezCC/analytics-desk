@@ -1,14 +1,14 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-09",
-  "end": "2026-11-05"
+  "start": "2026-10-10",
+  "end": "2026-11-06"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 181,
-  "sessions": 198,
-  "pageviews": 224,
+  "users": 184,
+  "sessions": 201,
+  "pageviews": 227,
   "daily": [
    {
     "day": "2026-10-12",
@@ -153,6 +153,12 @@
     "users": 16,
     "sessions": 17,
     "pageviews": 17
+   },
+   {
+    "day": "2026-11-06",
+    "users": 3,
+    "sessions": 3,
+    "pageviews": 3
    }
   ],
   "top_pages": [
@@ -163,8 +169,8 @@
    },
    {
     "page": "/es/",
-    "views": 73,
-    "users": 58
+    "views": 75,
+    "users": 60
    },
    {
     "page": "/player/",
@@ -214,7 +220,7 @@
    },
    {
     "channel": "Organic Video",
-    "sessions": 66
+    "sessions": 68
    },
    {
     "channel": "Organic Social",
@@ -222,21 +228,25 @@
    },
    {
     "channel": "Organic Search",
-    "sessions": 6
+    "sessions": 7
+   },
+   {
+    "channel": "Unassigned",
+    "sessions": 1
    }
   ]
  },
  "ga4_raw": {
-  "users": 624,
-  "sessions": 645,
-  "pageviews": 672
+  "users": 627,
+  "sessions": 648,
+  "pageviews": 675
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (447 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (451 paths)",
  "bot_spikes": [
   {
    "day": "2026-10-13",
    "sessions": 468,
-   "median": 8.0,
+   "median": 8,
    "direct_share": 0.99,
    "offsite_share": 0.93,
    "kept_sessions": 30
@@ -245,7 +255,7 @@
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 5,
-  "impressions": 98,
+  "impressions": 100,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
@@ -269,6 +279,12 @@
     "query": "le rompe el culo",
     "clicks": 0,
     "impressions": 2,
+    "position": 5
+   },
+   {
+    "query": "reggae mix 2026",
+    "clicks": 0,
+    "impressions": 1,
     "position": 5
    },
    {
