@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-10",
-  "end": "2026-11-06"
+  "start": "2026-10-11",
+  "end": "2026-11-07"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 1180,
-  "sessions": 1193,
-  "pageviews": 1256,
+  "users": 1418,
+  "sessions": 1430,
+  "pageviews": 1492,
   "daily": [
-   {
-    "day": "2026-10-10",
-    "users": 18,
-    "sessions": 19,
-    "pageviews": 20
-   },
    {
     "day": "2026-10-11",
     "users": 9,
@@ -174,31 +168,37 @@
    },
    {
     "day": "2026-11-06",
-    "users": 48,
-    "sessions": 48,
-    "pageviews": 51
+    "users": 54,
+    "sessions": 54,
+    "pageviews": 57
+   },
+   {
+    "day": "2026-11-07",
+    "users": 250,
+    "sessions": 250,
+    "pageviews": 250
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 27,
-    "users": 25
-   },
-   {
-    "page": "/guides/florida-channel-markers-icw",
-    "views": 12,
-    "users": 10
+    "views": 26,
+    "users": 24
    },
    {
     "page": "/map/",
-    "views": 11,
-    "users": 10
+    "views": 12,
+    "users": 11
+   },
+   {
+    "page": "/guides/florida-channel-markers-icw",
+    "views": 10,
+    "users": 8
    },
    {
     "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
-    "views": 11,
-    "users": 11
+    "views": 8,
+    "users": 8
    },
    {
     "page": "/ramps/",
@@ -211,9 +211,9 @@
     "users": 4
    },
    {
-    "page": "/ramps/lake/banana-cove-marina-and-rv-park",
+    "page": "/ramps/marion/carney-island-recreation-and-conservation-area-boat-ramp",
     "views": 4,
-    "users": 3
+    "users": 4
    },
    {
     "page": "/mechanics",
@@ -226,7 +226,7 @@
     "users": 2
    },
    {
-    "page": "/ramps/gulf/white-city-public-boat-ramp",
+    "page": "/ramps/citrus/gobbler-drive-roadside-park-primitive-ramp-canoe-access",
     "views": 3,
     "users": 3
    }
@@ -234,41 +234,41 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 1053
+    "sessions": 1294
    },
    {
     "channel": "Organic Search",
-    "sessions": 118
+    "sessions": 114
    },
    {
     "channel": "AI Assistant",
     "sessions": 16
    },
    {
-    "channel": "Unassigned",
-    "sessions": 8
-   },
-   {
     "channel": "Organic Video",
     "sessions": 2
    },
    {
-    "channel": "Referral",
+    "channel": "Unassigned",
     "sessions": 2
+   },
+   {
+    "channel": "Referral",
+    "sessions": 1
    }
   ]
  },
  "ga4_raw": {
-  "users": 1196,
-  "sessions": 1210,
-  "pageviews": 1273
+  "users": 1433,
+  "sessions": 1445,
+  "pageviews": 1508
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 68,
+  "impressions": 61,
   "top_queries": [
    {
     "query": "alimacani boat ramp",
@@ -287,12 +287,6 @@
     "clicks": 0,
     "impressions": 1,
     "position": 84
-   },
-   {
-    "query": "boat ramp near me within 5 mi",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 15
    },
    {
     "query": "boating naples fl",
@@ -325,10 +319,16 @@
     "position": 89
    },
    {
-    "query": "florida boat ramps",
+    "query": "florida permit fish",
     "clicks": 0,
     "impressions": 1,
-    "position": 99
+    "position": 94
+   },
+   {
+    "query": "gulf snook season",
+    "clicks": 0,
+    "impressions": 2,
+    "position": 90
    }
   ]
  }

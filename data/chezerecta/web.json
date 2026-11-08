@@ -1,14 +1,14 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-10",
-  "end": "2026-11-06"
+  "start": "2026-10-11",
+  "end": "2026-11-07"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 184,
-  "sessions": 201,
-  "pageviews": 227,
+  "users": 186,
+  "sessions": 204,
+  "pageviews": 230,
   "daily": [
    {
     "day": "2026-10-12",
@@ -159,6 +159,12 @@
     "users": 3,
     "sessions": 3,
     "pageviews": 3
+   },
+   {
+    "day": "2026-11-07",
+    "users": 2,
+    "sessions": 3,
+    "pageviews": 3
    }
   ],
   "top_pages": [
@@ -169,8 +175,8 @@
    },
    {
     "page": "/es/",
-    "views": 75,
-    "users": 60
+    "views": 77,
+    "users": 61
    },
    {
     "page": "/player/",
@@ -220,33 +226,29 @@
    },
    {
     "channel": "Organic Video",
-    "sessions": 68
+    "sessions": 69
    },
    {
     "channel": "Organic Social",
-    "sessions": 17
+    "sessions": 18
    },
    {
     "channel": "Organic Search",
-    "sessions": 7
-   },
-   {
-    "channel": "Unassigned",
-    "sessions": 1
+    "sessions": 8
    }
   ]
  },
  "ga4_raw": {
-  "users": 627,
-  "sessions": 648,
-  "pageviews": 675
+  "users": 629,
+  "sessions": 651,
+  "pageviews": 678
  },
  "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (451 paths)",
  "bot_spikes": [
   {
    "day": "2026-10-13",
    "sessions": 468,
-   "median": 8,
+   "median": 7.5,
    "direct_share": 0.99,
    "offsite_share": 0.93,
    "kept_sessions": 30
@@ -255,7 +257,7 @@
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 5,
-  "impressions": 100,
+  "impressions": 118,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
@@ -282,6 +284,18 @@
     "position": 5
    },
    {
+    "query": "lyrics merengue mix @djyellowpanama (olga ta\u00f1on, sergio vargas, eddy herrera, jl guerra, elvis crespo, ) dj yellow",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 9
+   },
+   {
+    "query": "perreo mix 2026",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 8
+   },
+   {
     "query": "reggae mix 2026",
     "clicks": 0,
     "impressions": 1,
@@ -298,6 +312,12 @@
     "clicks": 0,
     "impressions": 1,
     "position": 34
+   },
+   {
+    "query": "salsa brava dominicana",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 10
    }
   ]
  }

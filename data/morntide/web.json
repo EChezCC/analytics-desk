@@ -1,15 +1,15 @@
 {
  "domain": "morntidemusic.com",
  "range": {
-  "start": "2026-10-10",
-  "end": "2026-11-06"
+  "start": "2026-10-11",
+  "end": "2026-11-07"
  },
  "ga4_note": "Admin API lookup unavailable (Admin API 403); using seo-api configured ID 558780885 (name not verified)",
  "ga4_property": "558780885",
  "ga4": {
-  "users": 31,
-  "sessions": 36,
-  "pageviews": 39,
+  "users": 34,
+  "sessions": 39,
+  "pageviews": 42,
   "daily": [
    {
     "day": "2026-10-14",
@@ -73,9 +73,9 @@
    },
    {
     "day": "2026-11-06",
-    "users": 2,
-    "sessions": 2,
-    "pageviews": 2
+    "users": 5,
+    "sessions": 5,
+    "pageviews": 5
    }
   ],
   "top_pages": [
@@ -95,7 +95,17 @@
     "users": 1
    },
    {
+    "page": "/releases/merengue-lofi-tropical-beats/",
+    "views": 1,
+    "users": 1
+   },
+   {
     "page": "/releases/morning-piano-focus/",
+    "views": 1,
+    "users": 1
+   },
+   {
+    "page": "/releases/night-calm-sleep-ambient/",
     "views": 1,
     "users": 1
    },
@@ -103,12 +113,17 @@
     "page": "/releases/pure-focus-ambient/",
     "views": 1,
     "users": 1
+   },
+   {
+    "page": "/releases/quiet-pool-sleep/",
+    "views": 1,
+    "users": 1
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 31
+    "sessions": 34
    },
    {
     "channel": "Organic Video",
@@ -121,16 +136,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 72,
-  "sessions": 77,
-  "pageviews": 82
+  "users": 75,
+  "sessions": 80,
+  "pageviews": 85
  },
  "ga4_filter": "hostName in morntidemusic.com (+www), pagePath in sitemap allowlist (99 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "https://morntidemusic.com/",
   "clicks": 1,
-  "impressions": 14,
+  "impressions": 13,
   "top_queries": [
    {
     "query": "morntide",
