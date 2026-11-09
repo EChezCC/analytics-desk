@@ -1,14 +1,14 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-11",
-  "end": "2026-11-07"
+  "start": "2026-10-12",
+  "end": "2026-11-08"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 186,
-  "sessions": 204,
-  "pageviews": 230,
+  "users": 189,
+  "sessions": 208,
+  "pageviews": 242,
   "daily": [
    {
     "day": "2026-10-12",
@@ -165,38 +165,54 @@
     "users": 2,
     "sessions": 3,
     "pageviews": 3
+   },
+   {
+    "day": "2026-11-08",
+    "users": 4,
+    "sessions": 4,
+    "pageviews": 12
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 104,
-    "users": 96
+    "views": 107,
+    "users": 98
    },
    {
     "page": "/es/",
-    "views": 77,
+    "views": 79,
     "users": 61
    },
    {
     "page": "/player/",
-    "views": 10,
-    "users": 8
+    "views": 12,
+    "users": 9
    },
    {
     "page": "/releases/",
-    "views": 6,
-    "users": 5
+    "views": 7,
+    "users": 6
    },
    {
     "page": "/es/player/",
-    "views": 4,
-    "users": 3
+    "views": 5,
+    "users": 4
    },
    {
     "page": "/releases/halloween-reggaeton-mix-2026/",
     "views": 3,
     "users": 3
+   },
+   {
+    "page": "/es/releases/cumbia-mix-2026/",
+    "views": 2,
+    "users": 2
+   },
+   {
+    "page": "/releases/bolero-a-las-cuatro/",
+    "views": 2,
+    "users": 1
    },
    {
     "page": "/releases/cumbia-mix-2026/",
@@ -207,26 +223,16 @@
     "page": "/releases/la-mejor-salsa-navidena-el-gran-combo-hector-lavoe-celia-cruz/",
     "views": 2,
     "users": 1
-   },
-   {
-    "page": "/releases/soft-fire/",
-    "views": 2,
-    "users": 1
-   },
-   {
-    "page": "/es/releases/",
-    "views": 1,
-    "users": 1
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 109
+    "sessions": 111
    },
    {
     "channel": "Organic Video",
-    "sessions": 69
+    "sessions": 70
    },
    {
     "channel": "Organic Social",
@@ -234,21 +240,25 @@
    },
    {
     "channel": "Organic Search",
-    "sessions": 8
+    "sessions": 9
+   },
+   {
+    "channel": "Unassigned",
+    "sessions": 1
    }
   ]
  },
  "ga4_raw": {
-  "users": 629,
-  "sessions": 651,
-  "pageviews": 678
+  "users": 632,
+  "sessions": 655,
+  "pageviews": 690
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (451 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (459 paths)",
  "bot_spikes": [
   {
    "day": "2026-10-13",
    "sessions": 468,
-   "median": 7.5,
+   "median": 7,
    "direct_share": 0.99,
    "offsite_share": 0.93,
    "kept_sessions": 30
@@ -257,7 +267,7 @@
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 5,
-  "impressions": 118,
+  "impressions": 146,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
@@ -286,8 +296,14 @@
    {
     "query": "lyrics merengue mix @djyellowpanama (olga ta\u00f1on, sergio vargas, eddy herrera, jl guerra, elvis crespo, ) dj yellow",
     "clicks": 0,
-    "impressions": 1,
-    "position": 9
+    "impressions": 4,
+    "position": 9.8
+   },
+   {
+    "query": "lyrics mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo",
+    "clicks": 0,
+    "impressions": 4,
+    "position": 8
    },
    {
     "query": "perreo mix 2026",
@@ -312,12 +328,6 @@
     "clicks": 0,
     "impressions": 1,
     "position": 34
-   },
-   {
-    "query": "salsa brava dominicana",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 10
    }
   ]
  }

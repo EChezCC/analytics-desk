@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-11",
-  "end": "2026-11-07"
+  "start": "2026-10-12",
+  "end": "2026-11-08"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 1418,
-  "sessions": 1430,
-  "pageviews": 1492,
+  "users": 1419,
+  "sessions": 1431,
+  "pageviews": 1486,
   "daily": [
-   {
-    "day": "2026-10-11",
-    "users": 9,
-    "sessions": 9,
-    "pageviews": 15
-   },
    {
     "day": "2026-10-12",
     "users": 7,
@@ -177,18 +171,19 @@
     "users": 250,
     "sessions": 250,
     "pageviews": 250
+   },
+   {
+    "day": "2026-11-08",
+    "users": 10,
+    "sessions": 10,
+    "pageviews": 9
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 26,
+    "views": 24,
     "users": 24
-   },
-   {
-    "page": "/map/",
-    "views": 12,
-    "users": 11
    },
    {
     "page": "/guides/florida-channel-markers-icw",
@@ -196,14 +191,19 @@
     "users": 8
    },
    {
+    "page": "/map/",
+    "views": 10,
+    "users": 9
+   },
+   {
     "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
-    "views": 8,
-    "users": 8
+    "views": 7,
+    "users": 7
    },
    {
     "page": "/ramps/",
-    "views": 6,
-    "users": 6
+    "views": 5,
+    "users": 5
    },
    {
     "page": "/ramps/lee/",
@@ -216,17 +216,17 @@
     "users": 4
    },
    {
-    "page": "/mechanics",
-    "views": 3,
-    "users": 2
-   },
-   {
     "page": "/newsletter",
     "views": 3,
     "users": 2
    },
    {
     "page": "/ramps/citrus/gobbler-drive-roadside-park-primitive-ramp-canoe-access",
+    "views": 3,
+    "users": 3
+   },
+   {
+    "page": "/ramps/gulf/beards-cox-landing-pay-ramp",
     "views": 3,
     "users": 3
    }
@@ -245,11 +245,11 @@
     "sessions": 16
    },
    {
-    "channel": "Organic Video",
-    "sessions": 2
+    "channel": "Unassigned",
+    "sessions": 3
    },
    {
-    "channel": "Unassigned",
+    "channel": "Organic Video",
     "sessions": 2
    },
    {
@@ -259,16 +259,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 1433,
-  "sessions": 1445,
-  "pageviews": 1508
+  "users": 1434,
+  "sessions": 1446,
+  "pageviews": 1502
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 61,
+  "impressions": 60,
   "top_queries": [
    {
     "query": "alimacani boat ramp",

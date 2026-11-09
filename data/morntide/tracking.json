@@ -1,9 +1,9 @@
 {
- "fetched": "2026-11-08T05:56-05:00",
- "subs_public": 501,
- "studio_day": "2026-11-08",
- "subs_studio": 501,
- "earn": 897,
+ "fetched": "2026-11-09T06:00-05:00",
+ "subs_public": 500,
+ "studio_day": "2026-11-09",
+ "subs_studio": 500,
+ "earn": 895,
  "uploads": [
   {
    "id": "I16A-_kPbvY",
@@ -158,7 +158,7 @@
   {
    "id": "B6B1Yf7flNk",
    "title": "Can't Get Into Deep Work? Play This for Focus",
-   "views": 27,
+   "views": 33,
    "duration": 32681,
    "live": "was_live",
    "tag": null
@@ -379,7 +379,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-08)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-09)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

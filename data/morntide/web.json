@@ -1,15 +1,15 @@
 {
  "domain": "morntidemusic.com",
  "range": {
-  "start": "2026-10-11",
-  "end": "2026-11-07"
+  "start": "2026-10-12",
+  "end": "2026-11-08"
  },
  "ga4_note": "Admin API lookup unavailable (Admin API 403); using seo-api configured ID 558780885 (name not verified)",
  "ga4_property": "558780885",
  "ga4": {
-  "users": 34,
-  "sessions": 39,
-  "pageviews": 42,
+  "users": 35,
+  "sessions": 40,
+  "pageviews": 43,
   "daily": [
    {
     "day": "2026-10-14",
@@ -76,13 +76,19 @@
     "users": 5,
     "sessions": 5,
     "pageviews": 5
+   },
+   {
+    "day": "2026-11-08",
+    "users": 1,
+    "sessions": 1,
+    "pageviews": 1
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 32,
-    "users": 29
+    "views": 33,
+    "users": 30
    },
    {
     "page": "/sleep/",
@@ -123,7 +129,7 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 34
+    "sessions": 35
    },
    {
     "channel": "Organic Video",
@@ -136,21 +142,21 @@
   ]
  },
  "ga4_raw": {
-  "users": 75,
-  "sessions": 80,
-  "pageviews": 85
+  "users": 76,
+  "sessions": 81,
+  "pageviews": 86
  },
  "ga4_filter": "hostName in morntidemusic.com (+www), pagePath in sitemap allowlist (99 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "https://morntidemusic.com/",
   "clicks": 1,
-  "impressions": 13,
+  "impressions": 14,
   "top_queries": [
    {
     "query": "morntide",
     "clicks": 0,
-    "impressions": 8,
+    "impressions": 9,
     "position": 2
    }
   ]
