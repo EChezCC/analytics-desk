@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-12",
-  "end": "2026-11-08"
+  "start": "2026-10-13",
+  "end": "2026-11-09"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 1419,
-  "sessions": 1431,
-  "pageviews": 1486,
+  "users": 1468,
+  "sessions": 1484,
+  "pageviews": 1538,
   "daily": [
-   {
-    "day": "2026-10-12",
-    "users": 7,
-    "sessions": 8,
-    "pageviews": 8
-   },
    {
     "day": "2026-10-13",
     "users": 9,
@@ -177,13 +171,19 @@
     "users": 10,
     "sessions": 10,
     "pageviews": 9
+   },
+   {
+    "day": "2026-11-09",
+    "users": 58,
+    "sessions": 61,
+    "pageviews": 60
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 24,
-    "users": 24
+    "views": 22,
+    "users": 23
    },
    {
     "page": "/guides/florida-channel-markers-icw",
@@ -197,8 +197,8 @@
    },
    {
     "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
-    "views": 7,
-    "users": 7
+    "views": 8,
+    "users": 8
    },
    {
     "page": "/ramps/",
@@ -234,15 +234,15 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 1294
+    "sessions": 1339
    },
    {
     "channel": "Organic Search",
-    "sessions": 114
+    "sessions": 121
    },
    {
     "channel": "AI Assistant",
-    "sessions": 16
+    "sessions": 18
    },
    {
     "channel": "Unassigned",
@@ -259,9 +259,9 @@
   ]
  },
  "ga4_raw": {
-  "users": 1434,
-  "sessions": 1446,
-  "pageviews": 1502
+  "users": 1483,
+  "sessions": 1500,
+  "pageviews": 1554
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
@@ -313,6 +313,12 @@
     "position": 96
    },
    {
+    "query": "collier boat ramp",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 25
+   },
+   {
     "query": "flat creek boat ramp",
     "clicks": 0,
     "impressions": 1,
@@ -323,12 +329,6 @@
     "clicks": 0,
     "impressions": 1,
     "position": 94
-   },
-   {
-    "query": "gulf snook season",
-    "clicks": 0,
-    "impressions": 2,
-    "position": 90
    }
   ]
  }

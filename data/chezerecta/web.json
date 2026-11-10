@@ -1,21 +1,15 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-12",
-  "end": "2026-11-08"
+  "start": "2026-10-13",
+  "end": "2026-11-09"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 189,
-  "sessions": 208,
-  "pageviews": 242,
+  "users": 180,
+  "sessions": 201,
+  "pageviews": 236,
   "daily": [
-   {
-    "day": "2026-10-12",
-    "users": 10,
-    "sessions": 10,
-    "pageviews": 11
-   },
    {
     "day": "2026-10-13",
     "users": 29,
@@ -171,18 +165,24 @@
     "users": 4,
     "sessions": 4,
     "pageviews": 12
+   },
+   {
+    "day": "2026-11-09",
+    "users": 1,
+    "sessions": 3,
+    "pageviews": 5
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 107,
-    "users": 98
+    "views": 96,
+    "users": 88
    },
    {
     "page": "/es/",
-    "views": 79,
-    "users": 61
+    "views": 82,
+    "users": 62
    },
    {
     "page": "/player/",
@@ -228,11 +228,11 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 111
+    "sessions": 103
    },
    {
     "channel": "Organic Video",
-    "sessions": 70
+    "sessions": 71
    },
    {
     "channel": "Organic Social",
@@ -241,24 +241,20 @@
    {
     "channel": "Organic Search",
     "sessions": 9
-   },
-   {
-    "channel": "Unassigned",
-    "sessions": 1
    }
   ]
  },
  "ga4_raw": {
-  "users": 632,
-  "sessions": 655,
-  "pageviews": 690
+  "users": 622,
+  "sessions": 647,
+  "pageviews": 688
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (459 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (471 paths)",
  "bot_spikes": [
   {
    "day": "2026-10-13",
    "sessions": 468,
-   "median": 7,
+   "median": 6,
    "direct_share": 0.99,
    "offsite_share": 0.93,
    "kept_sessions": 30
@@ -267,7 +263,7 @@
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 5,
-  "impressions": 146,
+  "impressions": 160,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
@@ -294,16 +290,28 @@
     "position": 5
    },
    {
+    "query": "letras mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 9
+   },
+   {
     "query": "lyrics merengue mix @djyellowpanama (olga ta\u00f1on, sergio vargas, eddy herrera, jl guerra, elvis crespo, ) dj yellow",
     "clicks": 0,
     "impressions": 4,
     "position": 9.8
    },
    {
+    "query": "lyrics mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo dj doo per\u00fa",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 9
+   },
+   {
     "query": "lyrics mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo",
     "clicks": 0,
-    "impressions": 4,
-    "position": 8
+    "impressions": 6,
+    "position": 7.3
    },
    {
     "query": "perreo mix 2026",
@@ -316,18 +324,6 @@
     "clicks": 0,
     "impressions": 1,
     "position": 5
-   },
-   {
-    "query": "reggaeton halloween 2026",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 5
-   },
-   {
-    "query": "rompen el culo",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 34
    }
   ]
  }

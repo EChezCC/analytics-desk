@@ -1,9 +1,9 @@
 {
- "fetched": "2026-11-09T06:00-05:00",
+ "fetched": "2026-11-10T05:54-05:00",
  "subs_public": 500,
- "studio_day": "2026-11-09",
+ "studio_day": "2026-11-10",
  "subs_studio": 500,
- "earn": 895,
+ "earn": 904,
  "uploads": [
   {
    "id": "I16A-_kPbvY",
@@ -71,7 +71,7 @@
   {
    "id": "-CZW0rGHg5o",
    "title": "8 Hours of Ocean Waves | The Perfect Night for Deep Sleep",
-   "views": 34,
+   "views": 36,
    "duration": 29101,
    "live": null
   },
@@ -158,7 +158,7 @@
   {
    "id": "B6B1Yf7flNk",
    "title": "Can't Get Into Deep Work? Play This for Focus",
-   "views": 33,
+   "views": 42,
    "duration": 32681,
    "live": "was_live",
    "tag": null
@@ -379,7 +379,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-09)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-10)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
