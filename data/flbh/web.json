@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-13",
-  "end": "2026-11-09"
+  "start": "2026-10-14",
+  "end": "2026-11-10"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 1468,
-  "sessions": 1484,
-  "pageviews": 1538,
+  "users": 1510,
+  "sessions": 1525,
+  "pageviews": 1582,
   "daily": [
-   {
-    "day": "2026-10-13",
-    "users": 9,
-    "sessions": 9,
-    "pageviews": 9
-   },
    {
     "day": "2026-10-14",
     "users": 6,
@@ -177,18 +171,24 @@
     "users": 58,
     "sessions": 61,
     "pageviews": 60
+   },
+   {
+    "day": "2026-11-10",
+    "users": 51,
+    "sessions": 52,
+    "pageviews": 53
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 22,
-    "users": 23
+    "views": 24,
+    "users": 25
    },
    {
     "page": "/guides/florida-channel-markers-icw",
-    "views": 10,
-    "users": 8
+    "views": 12,
+    "users": 10
    },
    {
     "page": "/map/",
@@ -206,6 +206,11 @@
     "users": 5
    },
    {
+    "page": "/ramps/lake/mcdonald-canal-boat-ramp",
+    "views": 5,
+    "users": 5
+   },
+   {
     "page": "/ramps/lee/",
     "views": 5,
     "users": 4
@@ -216,33 +221,28 @@
     "users": 4
    },
    {
+    "page": "/ramps/polk/lake-clinch-public-boat-ramp",
+    "views": 4,
+    "users": 4
+   },
+   {
     "page": "/newsletter",
     "views": 3,
     "users": 2
-   },
-   {
-    "page": "/ramps/citrus/gobbler-drive-roadside-park-primitive-ramp-canoe-access",
-    "views": 3,
-    "users": 3
-   },
-   {
-    "page": "/ramps/gulf/beards-cox-landing-pay-ramp",
-    "views": 3,
-    "users": 3
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 1339
+    "sessions": 1375
    },
    {
     "channel": "Organic Search",
-    "sessions": 121
+    "sessions": 124
    },
    {
     "channel": "AI Assistant",
-    "sessions": 18
+    "sessions": 19
    },
    {
     "channel": "Unassigned",
@@ -259,16 +259,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 1483,
-  "sessions": 1500,
-  "pageviews": 1554
+  "users": 1520,
+  "sessions": 1535,
+  "pageviews": 1593
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 60,
+  "impressions": 59,
   "top_queries": [
    {
     "query": "alimacani boat ramp",
@@ -301,12 +301,6 @@
     "position": 94
    },
    {
-    "query": "camp mack boat ramp",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 63
-   },
-   {
     "query": "causeway boat ramp",
     "clicks": 0,
     "impressions": 1,
@@ -329,6 +323,12 @@
     "clicks": 0,
     "impressions": 1,
     "position": 94
+   },
+   {
+    "query": "gulf snook season",
+    "clicks": 0,
+    "impressions": 2,
+    "position": 90
    }
   ]
  }

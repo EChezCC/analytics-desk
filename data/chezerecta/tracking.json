@@ -1,77 +1,91 @@
 {
- "fetched": "2026-11-10T05:54-05:00",
- "subs_public": 4790,
- "studio_day": "2026-11-10",
+ "fetched": "2026-11-11T06:00-05:00",
+ "subs_public": 4800,
+ "studio_day": "2026-11-11",
  "subs_studio": null,
  "earn": null,
  "uploads": [
   {
+   "id": "rpnx9YeW5Ns",
+   "title": "My partner won't be able to resist this bachata | Burning Slowly | DJ Chezerecta",
+   "views": 5,
+   "duration": 215,
+   "live": null
+  },
+  {
+   "id": "Lt1gY6RDepw",
+   "title": "This Is What a Perfect Weekend Sounds Like: Latino Tropical in 47 Minutes | DJ Chezerecta",
+   "views": 96,
+   "duration": 2829,
+   "live": null
+  },
+  {
    "id": "lN1Ch8CuIPs",
-   "title": "Malecón After Hours | Latin Deep House Original | DJ Chezerecta",
-   "views": 3,
+   "title": "Latin Deep House Sunset | Malecón After Hours",
+   "views": 4,
    "duration": 245,
    "live": null
   },
   {
    "id": "zNDzcvQxhyU",
    "title": "The Corner Store Closes at Three | Original Dominican Dembow 2026 | DJ Chezerecta",
-   "views": 3,
+   "views": 8,
    "duration": 161,
    "live": null
   },
   {
    "id": "gX8CCpAUOd8",
    "title": "Bolero a las Cuatro | Bolero Clásico Original 2026 | DJ Chezerecta",
-   "views": 26,
+   "views": 29,
    "duration": 253,
    "live": null
   },
   {
    "id": "lJ4BDAKM7iE",
    "title": "Tres and Montuno | Original Cuban Son 2026 | DJ Chezerecta",
-   "views": 31,
+   "views": 32,
    "duration": 203,
    "live": null
   },
   {
    "id": "zS89Xb5Mv7s",
    "title": "Alleyway Accordion | Original Typical Merengue 2026 | DJ Chezerecta",
-   "views": 19,
+   "views": 20,
    "duration": 192,
    "live": null
   },
   {
    "id": "k0gbaMbv1tI",
    "title": "Marimba Clash | Original Salsa Choke 2026 | DJ Chezerecta",
-   "views": 77,
+   "views": 82,
    "duration": 181,
    "live": null
   },
   {
    "id": "erWtoSBWIM8",
-   "title": "Romantic Vallenato Mix 2026 | Backyard Vallenato | DJ Chezerecta",
-   "views": 83,
+   "title": "Backyard Vallenato like at Grandma's House | Romantic Mix | DJ Chezerecta",
+   "views": 84,
    "duration": 1354,
    "live": null
   },
   {
    "id": "1Dju_ndTxeo",
-   "title": "Ese Riddim Nos Conoce | Reggaeton Old School Original | DJ Chezerecta",
-   "views": 116,
+   "title": "Ese Riddim Nos Conoce | ¡Bailaron Como Si Nada Pasara! | Reggaeton Old School",
+   "views": 117,
    "duration": 195,
    "live": null
   },
   {
    "id": "qs6bTlCeHUY",
-   "title": "Salsa Brava Mix 2026 | Salsa Brava del Barrio | 12 Original Tracks by DJ Chezerecta",
+   "title": "Qué Pasa Cuando el Coro Responde a Cada Llamado | Salsa Brava Mix 2026 | DJ Chezerecta",
    "views": 228,
    "duration": 2494,
    "live": null
   },
   {
    "id": "grPGDaQA9bc",
-   "title": "Low Light Hours | Deep House Mix 2026 | DJ Chezerecta (Original Album)",
-   "views": 59,
+   "title": "I Made 12 Deep House Tracks for the Last Hours of Night",
+   "views": 180,
    "duration": 2681,
    "live": null
   },
@@ -84,29 +98,29 @@
   },
   {
    "id": "Lsv6jq63Fdc",
-   "title": "Modern Bachata Mix 2026 | New Bachata for Dancing | DJ Chezerecta",
-   "views": 155,
+   "title": "The Best Bachata of 2026? Full Mix to Dance To",
+   "views": 157,
    "duration": 2476,
    "live": null
   },
   {
    "id": "wqExFdUeU0w",
    "title": "90s Pop Mix | Wheel of Fortune, Return of the Mack, The Sign, What Is Love… | DJ Chezerecta",
-   "views": 804,
+   "views": 805,
    "duration": 3669,
    "live": null
   },
   {
    "id": "gwXWy6fg36E",
    "title": "Your Perfume on My Pillow | Romantic Bachata (Official Video)",
-   "views": 73,
+   "views": 75,
    "duration": 179,
    "live": null
   },
   {
    "id": "PZ6SUCDAzSM",
    "title": "DEMBOW MIX 🔥 Bad Bunny, El Alfa, Karol G | Classic & Modern Dembow",
-   "views": 368,
+   "views": 370,
    "duration": 3235,
    "live": null
   },
@@ -148,14 +162,14 @@
   {
    "id": "4i-LIj3pDws",
    "title": "Quédate en Mi Clave | Salsa (Official)",
-   "views": 91,
+   "views": 92,
    "duration": 281,
    "live": null
   },
   {
    "id": "5WP-_FVC7Xw",
    "title": "Noches Sonideras — Full Album | Cumbia Sonidera (Official)",
-   "views": 307,
+   "views": 305,
    "duration": 1381,
    "live": null
   },
@@ -169,7 +183,7 @@
   {
    "id": "UQXNazwzf1s",
    "title": "BACHATAS QUE DUELEN 💔 Aventura, Zacarías Ferreira, Luis Vargas | Amargue & Romántica",
-   "views": 262,
+   "views": 264,
    "duration": 4837,
    "live": null
   },
@@ -204,21 +218,21 @@
   {
    "id": "x-H_oIn1zqk",
    "title": "Las Mejores Bachatas Románticas Para Bailar con el Alma Rota 💔 Aventura, Prince Royce",
-   "views": 280,
+   "views": 282,
    "duration": 3462,
    "live": null
   },
   {
    "id": "IC29QXidwvY",
    "title": "POP LATINO PARTY MIX 💃 Shakira, Ricky Martin, Enrique Iglesias, Camilo, Morat | Pop en Español",
-   "views": 216,
+   "views": 218,
    "duration": 5331,
    "live": null
   },
   {
    "id": "xRlcpZzmtwU",
    "title": "DJ Chezerecta Presents Salsa Dominicana (Official Video) | Yiyo Sarante and More",
-   "views": 703,
+   "views": 704,
    "duration": 4897,
    "live": null
   },
@@ -239,21 +253,21 @@
   {
    "id": "ZRtB-o3yrWk",
    "title": "Soft Fire 🔥 Keep Moving on the Floor | DJ Chezerecta Afro House 2026 (Official Video)",
-   "views": 127,
+   "views": 126,
    "duration": 238,
    "live": null
   },
   {
    "id": "U5_j7XAX1CQ",
    "title": "DOMINICAN BIRTHDAY MIX 🎂 Juan Luis Guerra, Aventura and more | NON-STOP PARTY!",
-   "views": 71,
+   "views": 72,
    "duration": 6183,
    "live": null
   },
   {
    "id": "ixpT3pFRV-s",
    "title": "THE BEST CHRISTMAS SALSA El Gran Combo, Héctor Lavoe, Celia Cruz | Latin Christmas Salsa Mix",
-   "views": 619,
+   "views": 621,
    "duration": 5637,
    "live": null
   },
@@ -274,14 +288,14 @@
   {
    "id": "rFyM_O4LlRU",
    "title": "I Returned for Her Light 🌹 Romantic Bachata | The Light in Your Window (Official Video)",
-   "views": 96,
+   "views": 98,
    "duration": 256,
    "live": null
   },
   {
    "id": "8VvpLdEkNrM",
    "title": "Baladas Pop en Español Mix 🌹 Las Más Románticas | DJ Chezerecta",
-   "views": 212,
+   "views": 214,
    "duration": 3945,
    "live": null
   },
@@ -379,7 +393,7 @@
   {
    "id": "G1WmI_82eGk",
    "title": "Official Music Video: Deep House Drive",
-   "views": 164,
+   "views": 165,
    "duration": 177,
    "live": null
   },
@@ -463,7 +477,7 @@
   {
    "id": "iE8eeTukaL8",
    "title": "¿Quieres Bailar? - DJ Chezerecta (Official Video)",
-   "views": 273,
+   "views": 274,
    "duration": 183,
    "live": null
   },
@@ -477,7 +491,7 @@
   {
    "id": "IZPQmf6idjU",
    "title": "DJ Chezerecta - Don't Hang Up (Official Video)",
-   "views": 64,
+   "views": 65,
    "duration": 213,
    "live": null
   },
@@ -582,7 +596,7 @@
   {
    "id": "QVaogC6UJ5Y",
    "title": "Latin House Heat: DJ Chezerecta - Don't Let It Stop",
-   "views": 165,
+   "views": 166,
    "duration": 182,
    "live": null
   },
@@ -666,7 +680,7 @@
   {
    "id": "GknKCzWwxWY",
    "title": "DJ Chezerecta - No Pasa de Moda (Official Video) | Bachata",
-   "views": 229,
+   "views": 230,
    "duration": 180,
    "live": null
   },
@@ -687,7 +701,7 @@
   {
    "id": "B-JkO2fFCGI",
    "title": "DJ Chezerecta - Que Siga el Son (Official Video) | Salsa",
-   "views": 79,
+   "views": 80,
    "duration": 184,
    "live": null
   },
@@ -757,14 +771,14 @@
   {
    "id": "s5GCaZ-BXFQ",
    "title": "Se Me Nota (Bachata R&B) by DJ Chezerecta",
-   "views": 124,
+   "views": 126,
    "duration": 200,
    "live": null
   },
   {
    "id": "rQeQPcQJx18",
    "title": "Why I Can't Hide It When We Dance 💃 Bachata × R&B",
-   "views": 121,
+   "views": 122,
    "duration": 200,
    "live": null
   },
@@ -794,15 +808,15 @@
   {
    "id": "YlMQI1OcYF4",
    "title": "DJ Chezerecta Radio (Live) | Deep House Originals | Nov 10, 2026",
-   "views": null,
-   "duration": null,
-   "live": "is_upcoming",
+   "views": 12,
+   "duration": 9983,
+   "live": "was_live",
    "tag": null
   },
   {
    "id": "R4W4LoTQ2BI",
    "title": "Romantic Boleros for the Night You Can't Sleep | DJ Chezerecta Live Radio",
-   "views": 28,
+   "views": 35,
    "duration": 16707,
    "live": "was_live",
    "tag": null
@@ -810,7 +824,7 @@
   {
    "id": "3ggcCe_ujEw",
    "title": "Is This the Best Merengue Night Yet? DJ Chezerecta Live Stream",
-   "views": 47,
+   "views": 52,
    "duration": 17697,
    "live": "was_live",
    "tag": null
@@ -818,7 +832,7 @@
   {
    "id": "gC5EiLeOGyY",
    "title": "Is This the Best Bachata Night Yet? DJ Chezerecta Live Stream",
-   "views": 27,
+   "views": 30,
    "duration": 1534,
    "live": "was_live",
    "tag": null
@@ -1961,7 +1975,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/chezerecta/latest.json (2026-11-10)",
+  "hours": "YouTube Studio Earn reading in data/chezerecta/latest.json (2026-11-11)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

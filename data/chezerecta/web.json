@@ -1,21 +1,15 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-13",
-  "end": "2026-11-09"
+  "start": "2026-10-14",
+  "end": "2026-11-10"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 180,
-  "sessions": 201,
-  "pageviews": 236,
+  "users": 154,
+  "sessions": 175,
+  "pageviews": 207,
   "daily": [
-   {
-    "day": "2026-10-13",
-    "users": 29,
-    "sessions": 30,
-    "pageviews": 36
-   },
    {
     "day": "2026-10-14",
     "users": 6,
@@ -170,39 +164,50 @@
     "day": "2026-11-09",
     "users": 1,
     "sessions": 3,
-    "pageviews": 5
+    "pageviews": 4
+   },
+   {
+    "day": "2026-11-10",
+    "users": 4,
+    "sessions": 4,
+    "pageviews": 8
    }
   ],
   "top_pages": [
    {
-    "page": "/",
-    "views": 96,
-    "users": 88
+    "page": "/es/",
+    "views": 79,
+    "users": 60
    },
    {
-    "page": "/es/",
-    "views": 82,
-    "users": 62
+    "page": "/",
+    "views": 71,
+    "users": 64
    },
    {
     "page": "/player/",
-    "views": 12,
-    "users": 9
-   },
-   {
-    "page": "/releases/",
-    "views": 7,
-    "users": 6
+    "views": 8,
+    "users": 5
    },
    {
     "page": "/es/player/",
+    "views": 6,
+    "users": 5
+   },
+   {
+    "page": "/releases/",
     "views": 5,
-    "users": 4
+    "users": 5
    },
    {
     "page": "/releases/halloween-reggaeton-mix-2026/",
     "views": 3,
     "users": 3
+   },
+   {
+    "page": "/es/releases/",
+    "views": 2,
+    "users": 2
    },
    {
     "page": "/es/releases/cumbia-mix-2026/",
@@ -218,17 +223,12 @@
     "page": "/releases/cumbia-mix-2026/",
     "views": 2,
     "users": 1
-   },
-   {
-    "page": "/releases/la-mejor-salsa-navidena-el-gran-combo-hector-lavoe-celia-cruz/",
-    "views": 2,
-    "users": 1
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 103
+    "sessions": 78
    },
    {
     "channel": "Organic Video",
@@ -236,34 +236,29 @@
    },
    {
     "channel": "Organic Social",
-    "sessions": 18
+    "sessions": 15
    },
    {
     "channel": "Organic Search",
-    "sessions": 9
+    "sessions": 11
+   },
+   {
+    "channel": "Unassigned",
+    "sessions": 1
    }
   ]
  },
  "ga4_raw": {
-  "users": 622,
-  "sessions": 647,
-  "pageviews": 688
+  "users": 160,
+  "sessions": 182,
+  "pageviews": 221
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (471 paths)",
- "bot_spikes": [
-  {
-   "day": "2026-10-13",
-   "sessions": 468,
-   "median": 6,
-   "direct_share": 0.99,
-   "offsite_share": 0.93,
-   "kept_sessions": 30
-  }
- ],
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (479 paths)",
+ "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 5,
-  "impressions": 160,
+  "impressions": 167,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
@@ -314,16 +309,16 @@
     "position": 7.3
    },
    {
-    "query": "perreo mix 2026",
+    "query": "lyrics mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo unknown",
     "clicks": 0,
-    "impressions": 1,
-    "position": 8
+    "impressions": 3,
+    "position": 7
    },
    {
-    "query": "reggae mix 2026",
+    "query": "mix house 2026",
     "clicks": 0,
     "impressions": 1,
-    "position": 5
+    "position": 10
    }
   ]
  }

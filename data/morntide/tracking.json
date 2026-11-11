@@ -1,9 +1,9 @@
 {
- "fetched": "2026-11-10T05:54-05:00",
+ "fetched": "2026-11-11T06:00-05:00",
  "subs_public": 500,
- "studio_day": "2026-11-10",
+ "studio_day": "2026-11-11",
  "subs_studio": 500,
- "earn": 904,
+ "earn": 912,
  "uploads": [
   {
    "id": "I16A-_kPbvY",
@@ -120,7 +120,7 @@
   {
    "id": "64tyeo8LkDM",
    "title": "Quiet Pool: 53 Minutes of Ambient Sleep Music",
-   "views": 162,
+   "views": 163,
    "duration": 3200,
    "live": null
   },
@@ -147,14 +147,6 @@
   }
  ],
  "streams": [
-  {
-   "id": "plXW1OmzQE4",
-   "title": "Can't Get Into Deep Work? Play This for Focus",
-   "views": null,
-   "duration": null,
-   "live": "is_upcoming",
-   "tag": null
-  },
   {
    "id": "B6B1Yf7flNk",
    "title": "Can't Get Into Deep Work? Play This for Focus",
@@ -379,7 +371,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-10)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-11)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
