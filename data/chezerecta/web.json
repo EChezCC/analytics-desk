@@ -1,21 +1,15 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-14",
-  "end": "2026-11-10"
+  "start": "2026-10-15",
+  "end": "2026-11-11"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 154,
-  "sessions": 175,
-  "pageviews": 207,
+  "users": 150,
+  "sessions": 172,
+  "pageviews": 206,
   "daily": [
-   {
-    "day": "2026-10-14",
-    "users": 6,
-    "sessions": 6,
-    "pageviews": 6
-   },
    {
     "day": "2026-10-15",
     "users": 10,
@@ -171,6 +165,12 @@
     "users": 4,
     "sessions": 4,
     "pageviews": 8
+   },
+   {
+    "day": "2026-11-11",
+    "users": 3,
+    "sessions": 3,
+    "pageviews": 5
    }
   ],
   "top_pages": [
@@ -181,8 +181,8 @@
    },
    {
     "page": "/",
-    "views": 71,
-    "users": 64
+    "views": 67,
+    "users": 58
    },
    {
     "page": "/player/",
@@ -228,7 +228,7 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 78
+    "sessions": 73
    },
    {
     "channel": "Organic Video",
@@ -240,25 +240,21 @@
    },
    {
     "channel": "Organic Search",
-    "sessions": 11
-   },
-   {
-    "channel": "Unassigned",
-    "sessions": 1
+    "sessions": 13
    }
   ]
  },
  "ga4_raw": {
-  "users": 160,
-  "sessions": 182,
-  "pageviews": 221
+  "users": 155,
+  "sessions": 177,
+  "pageviews": 218
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (479 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (483 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
-  "clicks": 5,
-  "impressions": 167,
+  "clicks": 7,
+  "impressions": 178,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
@@ -299,7 +295,7 @@
    {
     "query": "lyrics mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo dj doo per\u00fa",
     "clicks": 0,
-    "impressions": 1,
+    "impressions": 2,
     "position": 9
    },
    {

@@ -1,9 +1,9 @@
 {
- "fetched": "2026-11-11T06:00-05:00",
- "subs_public": 500,
- "studio_day": "2026-11-11",
- "subs_studio": 500,
- "earn": 912,
+ "fetched": "2026-11-12T06:00-05:00",
+ "subs_public": 499,
+ "studio_day": "2026-11-12",
+ "subs_studio": 499,
+ "earn": 913,
  "uploads": [
   {
    "id": "I16A-_kPbvY",
@@ -43,7 +43,7 @@
   {
    "id": "s-IjylbAUDY",
    "title": "Deep Work Ambience: 2 Hours of Ocean Waves on a Rocky Cliff | Morntide",
-   "views": 50,
+   "views": 51,
    "duration": 7201,
    "live": null
   },
@@ -71,7 +71,7 @@
   {
    "id": "-CZW0rGHg5o",
    "title": "8 Hours of Ocean Waves | The Perfect Night for Deep Sleep",
-   "views": 36,
+   "views": 38,
    "duration": 29101,
    "live": null
   },
@@ -120,7 +120,7 @@
   {
    "id": "64tyeo8LkDM",
    "title": "Quiet Pool: 53 Minutes of Ambient Sleep Music",
-   "views": 163,
+   "views": 165,
    "duration": 3200,
    "live": null
   },
@@ -147,6 +147,14 @@
   }
  ],
  "streams": [
+  {
+   "id": "T3PdwzdwnwE",
+   "title": "Can't Get Into Deep Work? Play This for Focus",
+   "views": null,
+   "duration": null,
+   "live": "is_upcoming",
+   "tag": null
+  },
   {
    "id": "B6B1Yf7flNk",
    "title": "Can't Get Into Deep Work? Play This for Focus",
@@ -371,7 +379,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-11)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-12)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

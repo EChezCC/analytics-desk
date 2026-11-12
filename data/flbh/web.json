@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-14",
-  "end": "2026-11-10"
+  "start": "2026-10-15",
+  "end": "2026-11-11"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 1510,
-  "sessions": 1525,
-  "pageviews": 1582,
+  "users": 1731,
+  "sessions": 1749,
+  "pageviews": 1802,
   "daily": [
-   {
-    "day": "2026-10-14",
-    "users": 6,
-    "sessions": 6,
-    "pageviews": 7
-   },
    {
     "day": "2026-10-15",
     "users": 18,
@@ -177,13 +171,19 @@
     "users": 51,
     "sessions": 52,
     "pageviews": 53
+   },
+   {
+    "day": "2026-11-11",
+    "users": 227,
+    "sessions": 227,
+    "pageviews": 227
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 24,
-    "users": 25
+    "views": 25,
+    "users": 26
    },
    {
     "page": "/guides/florida-channel-markers-icw",
@@ -211,34 +211,34 @@
     "users": 5
    },
    {
+    "page": "/newsletter",
+    "views": 4,
+    "users": 3
+   },
+   {
+    "page": "/ramps/escambia/smiths-fish-camp-pay-ramp",
+    "views": 4,
+    "users": 3
+   },
+   {
     "page": "/ramps/lee/",
-    "views": 5,
-    "users": 4
+    "views": 4,
+    "users": 3
    },
    {
     "page": "/ramps/marion/carney-island-recreation-and-conservation-area-boat-ramp",
     "views": 4,
     "users": 4
-   },
-   {
-    "page": "/ramps/polk/lake-clinch-public-boat-ramp",
-    "views": 4,
-    "users": 4
-   },
-   {
-    "page": "/newsletter",
-    "views": 3,
-    "users": 2
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 1375
+    "sessions": 1600
    },
    {
     "channel": "Organic Search",
-    "sessions": 124
+    "sessions": 123
    },
    {
     "channel": "AI Assistant",
@@ -259,16 +259,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 1520,
-  "sessions": 1535,
-  "pageviews": 1593
+  "users": 1741,
+  "sessions": 1758,
+  "pageviews": 1813
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 59,
+  "impressions": 61,
   "top_queries": [
    {
     "query": "alimacani boat ramp",
@@ -313,12 +313,6 @@
     "position": 25
    },
    {
-    "query": "flat creek boat ramp",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 89
-   },
-   {
     "query": "florida permit fish",
     "clicks": 0,
     "impressions": 1,
@@ -329,6 +323,12 @@
     "clicks": 0,
     "impressions": 2,
     "position": 90
+   },
+   {
+    "query": "high tide at mayport",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 91
    }
   ]
  }
