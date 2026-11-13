@@ -1,5 +1,28 @@
 [
  {
+  "day": "2026-11-13",
+  "subs": 499,
+  "subs_api_rounded": 499,
+  "earn": 913,
+  "an7": 13.0,
+  "an28": 124.3,
+  "views7": 168,
+  "views28": 7921,
+  "channel_views": 21409,
+  "video_count": 38,
+  "channel": "@morntidemusic",
+  "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+  "source": "Studio eyes-on HARD PASS 2026-11-13 ~5:21 AM EST @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (URL channel id + account menu; subs exact, Earn, shorts90, 7d, 28d, yesterday, CTR CURRENT; pull status PARTIAL) + Data API CURRENT ~05:14 EST",
+  "notes": "Subs 499 CURRENT Studio exact (API 499). Earn 913 CURRENT (as of Nov 8, 2026; unchanged from 913 as of 2026-11-07). video_count 38 CURRENT Data API (was 35). shorts90 622 CURRENT. uploads_90d 3/3 CURRENT. 7d 13.0h/168 CURRENT (Nov 6 – 12, 2026, -2 subs). 28d 124.3h/7921 CURRENT (Oct 16 – Nov 12, 2026, +0 subs). day_views/day_watch_hours = Studio single-day for 2026-11-12 (84 / 2.8h). CTR 1.2% on 16,517 CURRENT. Analytics API 2026-11-05..2026-11-11 7d 17.2h/108 views, 28d 2026-10-15..2026-11-11 121.8h/7989 views (UNVERIFIED vs Studio; lags a day; not used for KPIs).",
+  "shorts90": 622,
+  "ctr28": 1.2,
+  "impr28": 16517,
+  "day_views": 84,
+  "day_watch_hours": 2.8,
+  "day_date": "2026-11-12",
+  "note": "All Studio figures CURRENT 2026-11-13 (eyes-on HARD PASS; pull status PARTIAL); subs 499 Studio exact; Earn 913 as of Nov 8, 2026 (unchanged from 913); yesterday bars for 2026-11-12"
+ },
+ {
   "day": "2026-11-12",
   "subs": 499,
   "subs_api_rounded": 499,
