@@ -1,10 +1,17 @@
 {
- "fetched": "2026-11-12T06:00-05:00",
+ "fetched": "2026-11-13T05:51-05:00",
  "subs_public": 499,
- "studio_day": "2026-11-12",
+ "studio_day": "2026-11-13",
  "subs_studio": 499,
  "earn": 913,
  "uploads": [
+  {
+   "id": "FNnV17v2EWc",
+   "title": "Can't Stay Focused? Study With This Felt Piano Hour",
+   "views": 1,
+   "duration": 4255,
+   "live": null
+  },
   {
    "id": "I16A-_kPbvY",
    "title": "Malecón Rain: Bachata Lo-Fi | Romantic Guitar Beats to Work and Relax",
@@ -22,7 +29,7 @@
   {
    "id": "R2rgrxRU0ro",
    "title": "Late-Night Coding Flow: 3 Hours of Soft Electronic Ambient, No Lyrics",
-   "views": 13,
+   "views": 14,
    "duration": 10801,
    "live": null
   },
@@ -148,11 +155,19 @@
  ],
  "streams": [
   {
-   "id": "T3PdwzdwnwE",
+   "id": "CqMcaxr5r4A",
    "title": "Can't Get Into Deep Work? Play This for Focus",
    "views": null,
    "duration": null,
    "live": "is_upcoming",
+   "tag": null
+  },
+  {
+   "id": "T3PdwzdwnwE",
+   "title": "Can't Get Into Deep Work? Play This for Focus",
+   "views": 25,
+   "duration": 29757,
+   "live": "was_live",
    "tag": null
   },
   {
@@ -165,6 +180,14 @@
   }
  ],
  "releases": [
+  {
+   "title": "Malecón Rain: Bachata Lo-Fi (album)",
+   "type": "album",
+   "date": "2026-11-13",
+   "status": "pending",
+   "stores": {},
+   "checked": "2026-11-12 10:01 ET"
+  },
   {
    "title": "Spa Bowls (album) - 1. Opening Bowls",
    "type": "album",
@@ -319,7 +342,7 @@
     "Tidal": "https://listen.tidal.com/album/571569019",
     "Deezer": "https://www.deezer.com/album/1126317411"
    },
-   "checked": "2026-10-22 10:01 ET"
+   "checked": "2026-11-12 10:01 ET"
   },
   {
    "title": "Deep Channel",
@@ -379,7 +402,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-12)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-13)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

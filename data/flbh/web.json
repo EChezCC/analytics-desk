@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-15",
-  "end": "2026-11-11"
+  "start": "2026-10-16",
+  "end": "2026-11-12"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 1731,
+  "users": 1728,
   "sessions": 1749,
-  "pageviews": 1802,
+  "pageviews": 1801,
   "daily": [
-   {
-    "day": "2026-10-15",
-    "users": 18,
-    "sessions": 18,
-    "pageviews": 18
-   },
    {
     "day": "2026-10-16",
     "users": 27,
@@ -177,23 +171,29 @@
     "users": 227,
     "sessions": 227,
     "pageviews": 227
+   },
+   {
+    "day": "2026-11-12",
+    "users": 16,
+    "sessions": 18,
+    "pageviews": 17
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 25,
-    "users": 26
+    "views": 24,
+    "users": 24
    },
    {
     "page": "/guides/florida-channel-markers-icw",
-    "views": 12,
-    "users": 10
+    "views": 11,
+    "users": 9
    },
    {
     "page": "/map/",
-    "views": 10,
-    "users": 9
+    "views": 11,
+    "users": 10
    },
    {
     "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
@@ -211,6 +211,11 @@
     "users": 5
    },
    {
+    "page": "/ramps/pinellas/fred-howard-park-wave-runner-launch-area",
+    "views": 5,
+    "users": 5
+   },
+   {
     "page": "/newsletter",
     "views": 4,
     "users": 3
@@ -224,21 +229,16 @@
     "page": "/ramps/lee/",
     "views": 4,
     "users": 3
-   },
-   {
-    "page": "/ramps/marion/carney-island-recreation-and-conservation-area-boat-ramp",
-    "views": 4,
-    "users": 4
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 1600
+    "sessions": 1599
    },
    {
     "channel": "Organic Search",
-    "sessions": 123
+    "sessions": 124
    },
    {
     "channel": "AI Assistant",
@@ -259,16 +259,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 1741,
-  "sessions": 1758,
-  "pageviews": 1813
+  "users": 1737,
+  "sessions": 1757,
+  "pageviews": 1811
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 61,
+  "impressions": 60,
   "top_queries": [
    {
     "query": "alimacani boat ramp",

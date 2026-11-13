@@ -1,21 +1,15 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-15",
-  "end": "2026-11-11"
+  "start": "2026-10-16",
+  "end": "2026-11-12"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 150,
-  "sessions": 172,
-  "pageviews": 206,
+  "users": 142,
+  "sessions": 164,
+  "pageviews": 198,
   "daily": [
-   {
-    "day": "2026-10-15",
-    "users": 10,
-    "sessions": 10,
-    "pageviews": 10
-   },
    {
     "day": "2026-10-16",
     "users": 5,
@@ -171,23 +165,29 @@
     "users": 3,
     "sessions": 3,
     "pageviews": 5
+   },
+   {
+    "day": "2026-11-12",
+    "users": 2,
+    "sessions": 2,
+    "pageviews": 2
    }
   ],
   "top_pages": [
    {
     "page": "/es/",
-    "views": 79,
-    "users": 60
+    "views": 80,
+    "users": 61
    },
    {
     "page": "/",
-    "views": 67,
-    "users": 58
+    "views": 59,
+    "users": 50
    },
    {
     "page": "/player/",
-    "views": 8,
-    "users": 5
+    "views": 7,
+    "users": 4
    },
    {
     "page": "/es/player/",
@@ -227,16 +227,16 @@
   ],
   "sources": [
    {
-    "channel": "Direct",
-    "sessions": 73
-   },
-   {
     "channel": "Organic Video",
     "sessions": 71
    },
    {
+    "channel": "Direct",
+    "sessions": 64
+   },
+   {
     "channel": "Organic Social",
-    "sessions": 15
+    "sessions": 16
    },
    {
     "channel": "Organic Search",
@@ -245,16 +245,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 155,
-  "sessions": 177,
-  "pageviews": 218
+  "users": 148,
+  "sessions": 170,
+  "pageviews": 211
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (483 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (487 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 7,
-  "impressions": 178,
+  "impressions": 176,
   "top_queries": [
    {
     "query": "cumbia mix 2026",
