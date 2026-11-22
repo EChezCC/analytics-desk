@@ -1,8 +1,8 @@
 {
- "fetched": "2026-11-21T20:27-05:00",
+ "fetched": "2026-11-21T20:33-05:00",
  "subs_public": 5580,
- "studio_day": "2026-11-13",
- "subs_studio": null,
+ "studio_day": "2026-11-21",
+ "subs_studio": 5588,
  "earn": null,
  "uploads": [
   {
@@ -15,7 +15,7 @@
   {
    "id": "FXV2RBUMQnE",
    "title": "Solo Bachata Clásica: Anthony Santos, Aventura, Frank Reyes y más 🔥✔✔",
-   "views": 509,
+   "views": 514,
    "duration": 5001,
    "live": null
   },
@@ -64,7 +64,7 @@
   {
    "id": "_fHb1TAWwZo",
    "title": "Así sonaba la República Dominicana en los 80s | Mix Clásico",
-   "views": 240000,
+   "views": 241000,
    "duration": 5019,
    "live": null
   },
@@ -778,7 +778,7 @@
   {
    "id": "GknKCzWwxWY",
    "title": "DJ Chezerecta - No Pasa de Moda (Official Video) | Bachata",
-   "views": 236,
+   "views": 237,
    "duration": 180,
    "live": null
   },
@@ -2261,7 +2261,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/chezerecta/latest.json (2026-11-13)",
+  "hours": "YouTube Studio Earn reading in data/chezerecta/latest.json (2026-11-21)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
