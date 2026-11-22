@@ -1,21 +1,15 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-24",
-  "end": "2026-11-20"
+  "start": "2026-10-25",
+  "end": "2026-11-21"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 134,
-  "sessions": 155,
-  "pageviews": 195,
+  "users": 133,
+  "sessions": 151,
+  "pageviews": 191,
   "daily": [
-   {
-    "day": "2026-10-24",
-    "users": 7,
-    "sessions": 9,
-    "pageviews": 9
-   },
    {
     "day": "2026-10-25",
     "users": 9,
@@ -177,6 +171,12 @@
     "users": 2,
     "sessions": 2,
     "pageviews": 2
+   },
+   {
+    "day": "2026-11-21",
+    "users": 5,
+    "sessions": 5,
+    "pageviews": 5
    }
   ],
   "top_pages": [
@@ -187,8 +187,8 @@
    },
    {
     "page": "/",
-    "views": 45,
-    "users": 37
+    "views": 40,
+    "users": 34
    },
    {
     "page": "/es/player/",
@@ -196,12 +196,12 @@
     "users": 5
    },
    {
-    "page": "/releases/",
-    "views": 6,
-    "users": 5
+    "page": "/es/releases/bachata-mix-2026/",
+    "views": 5,
+    "users": 4
    },
    {
-    "page": "/es/releases/bachata-mix-2026/",
+    "page": "/releases/",
     "views": 5,
     "users": 4
    },
@@ -221,13 +221,13 @@
     "users": 3
    },
    {
-    "page": "/es/releases/merengues-de-los-anos-dorados-de-los-80s-mix-clasico-dominicano/",
+    "page": "/es/releases/cumbia-mix-2026/",
     "views": 3,
-    "users": 2
+    "users": 3
    },
    {
-    "page": "/es/releases/cumbia-mix-2026/",
-    "views": 2,
+    "page": "/es/releases/merengues-de-los-anos-dorados-de-los-80s-mix-clasico-dominicano/",
+    "views": 3,
     "users": 2
    }
   ],
@@ -238,29 +238,29 @@
    },
    {
     "channel": "Direct",
-    "sessions": 56
+    "sessions": 53
    },
    {
     "channel": "Organic Search",
-    "sessions": 20
+    "sessions": 22
    },
    {
     "channel": "Organic Social",
-    "sessions": 10
+    "sessions": 7
    }
   ]
  },
  "ga4_raw": {
-  "users": 140,
-  "sessions": 161,
-  "pageviews": 208
+  "users": 139,
+  "sessions": 157,
+  "pageviews": 204
  },
  "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (535 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 8,
-  "impressions": 225,
+  "impressions": 228,
   "top_queries": [
    {
     "query": "as\u00ed de cerca",
@@ -311,16 +311,16 @@
     "position": 9
    },
    {
+    "query": "merengueros dominicanos de los 80",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 21
+   },
+   {
     "query": "mix house 2026",
     "clicks": 0,
     "impressions": 1,
     "position": 10
-   },
-   {
-    "query": "mk afterhour",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 43
    }
   ]
  }

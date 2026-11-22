@@ -1,22 +1,16 @@
 {
  "domain": "morntidemusic.com",
  "range": {
-  "start": "2026-10-24",
-  "end": "2026-11-20"
+  "start": "2026-10-25",
+  "end": "2026-11-21"
  },
  "ga4_note": "Admin API lookup unavailable (Admin API 403); using seo-api configured ID 558780885 (name not verified)",
  "ga4_property": "558780885",
  "ga4": {
-  "users": 13,
-  "sessions": 13,
-  "pageviews": 13,
+  "users": 12,
+  "sessions": 12,
+  "pageviews": 12,
   "daily": [
-   {
-    "day": "2026-10-24",
-    "users": 1,
-    "sessions": 1,
-    "pageviews": 1
-   },
    {
     "day": "2026-11-06",
     "users": 5,
@@ -45,8 +39,8 @@
   "top_pages": [
    {
     "page": "/",
-    "views": 8,
-    "users": 8
+    "views": 7,
+    "users": 7
    },
    {
     "page": "/releases/merengue-lofi-tropical-beats/",
@@ -77,7 +71,7 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 9
+    "sessions": 8
    },
    {
     "channel": "Paid Search",
@@ -86,16 +80,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 26,
-  "sessions": 26,
-  "pageviews": 25
+  "users": 12,
+  "sessions": 12,
+  "pageviews": 12
  },
  "ga4_filter": "hostName in morntidemusic.com (+www), pagePath in sitemap allowlist (99 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "https://morntidemusic.com/",
   "clicks": 0,
-  "impressions": 27,
+  "impressions": 29,
   "top_queries": [
    {
     "query": "morningtide music happy alarm clock",

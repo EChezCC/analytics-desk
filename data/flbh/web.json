@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-24",
-  "end": "2026-11-20"
+  "start": "2026-10-25",
+  "end": "2026-11-21"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 2746,
-  "sessions": 2763,
-  "pageviews": 2818,
+  "users": 2748,
+  "sessions": 2764,
+  "pageviews": 2823,
   "daily": [
-   {
-    "day": "2026-10-24",
-    "users": 15,
-    "sessions": 16,
-    "pageviews": 16
-   },
    {
     "day": "2026-10-25",
     "users": 16,
@@ -177,13 +171,19 @@
     "users": 20,
     "sessions": 20,
     "pageviews": 20
+   },
+   {
+    "day": "2026-11-21",
+    "users": 17,
+    "sessions": 17,
+    "pageviews": 21
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 22,
-    "users": 22
+    "views": 25,
+    "users": 24
    },
    {
     "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
@@ -196,14 +196,14 @@
     "users": 7
    },
    {
+    "page": "/guides/florida-channel-markers-icw",
+    "views": 6,
+    "users": 5
+   },
+   {
     "page": "/ramps/franklin/",
     "views": 6,
     "users": 2
-   },
-   {
-    "page": "/guides/florida-channel-markers-icw",
-    "views": 5,
-    "users": 4
    },
    {
     "page": "/map/",
@@ -221,12 +221,12 @@
     "users": 4
    },
    {
-    "page": "/ramps/miami-dade/snake-creek-canal-c-9-at-highway-441",
+    "page": "/ramps/pinellas/fred-howard-park-gulf-beach-kayak-launch",
     "views": 5,
-    "users": 4
+    "users": 5
    },
    {
-    "page": "/ramps/pinellas/fred-howard-park-gulf-beach-kayak-launch",
+    "page": "/species/tarpon",
     "views": 5,
     "users": 5
    }
@@ -234,11 +234,11 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 2632
+    "sessions": 2631
    },
    {
     "channel": "Organic Search",
-    "sessions": 114
+    "sessions": 116
    },
    {
     "channel": "AI Assistant",
@@ -249,15 +249,19 @@
     "sessions": 3
    },
    {
+    "channel": "Organic Social",
+    "sessions": 1
+   },
+   {
     "channel": "Referral",
     "sessions": 1
    }
   ]
  },
  "ga4_raw": {
-  "users": 2756,
+  "users": 2757,
   "sessions": 2773,
-  "pageviews": 2829
+  "pageviews": 2833
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
@@ -266,12 +270,6 @@
   "clicks": 0,
   "impressions": 37,
   "top_queries": [
-   {
-    "query": "alimacani boat ramp",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 84
-   },
    {
     "query": "bass boat",
     "clicks": 0,
@@ -303,12 +301,6 @@
     "position": 91
    },
    {
-    "query": "is it snook season",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 97
-   },
-   {
     "query": "lighthouse park boat ramp",
     "clicks": 0,
     "impressions": 1,
@@ -325,6 +317,18 @@
     "clicks": 0,
     "impressions": 4,
     "position": 58
+   },
+   {
+    "query": "rainbow trout florida",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 98
+   },
+   {
+    "query": "red drum season",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 97
    }
   ]
  }
