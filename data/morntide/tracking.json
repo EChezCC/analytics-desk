@@ -1,10 +1,17 @@
 {
- "fetched": "2026-11-13T05:51-05:00",
+ "fetched": "2026-11-21T20:18-05:00",
  "subs_public": 499,
  "studio_day": "2026-11-13",
  "subs_studio": 499,
  "earn": 913,
  "uploads": [
+  {
+   "id": "jzd0_1nZw1o",
+   "title": "Can't Focus Today? Try This Birdsong & Piano Session",
+   "views": 5,
+   "duration": 3067,
+   "live": null
+  },
   {
    "id": "FNnV17v2EWc",
    "title": "Can't Stay Focused? Study With This Felt Piano Hour",
@@ -14,7 +21,7 @@
   },
   {
    "id": "I16A-_kPbvY",
-   "title": "Malecón Rain: Bachata Lo-Fi | Romantic Guitar Beats to Work and Relax",
+   "title": "Can Bachata Lo-Fi Make Your Night Feel Like Santo Domingo?",
    "views": 2,
    "duration": 1659,
    "live": null
@@ -92,7 +99,7 @@
   {
    "id": "FDCP-FRQ_GU",
    "title": "One Hour of Quiet Focus: First Light Sessions",
-   "views": 86,
+   "views": 94,
    "duration": 3655,
    "live": null
   },
@@ -127,21 +134,21 @@
   {
    "id": "64tyeo8LkDM",
    "title": "Quiet Pool: 53 Minutes of Ambient Sleep Music",
-   "views": 165,
+   "views": 168,
    "duration": 3200,
    "live": null
   },
   {
    "id": "uPqitC0mm4g",
    "title": "Rise and Focus | 2 Hours of Warm Morning Music for Deep Work",
-   "views": 376,
+   "views": 377,
    "duration": 7928,
    "live": null
   },
   {
    "id": "L11Hc6Jc1SA",
    "title": "Morntide Sessions | 2 Hours of Deep Work Focus Music",
-   "views": 1000,
+   "views": 1100,
    "duration": 6715,
    "live": null
   },
@@ -155,17 +162,9 @@
  ],
  "streams": [
   {
-   "id": "CqMcaxr5r4A",
-   "title": "Can't Get Into Deep Work? Play This for Focus",
-   "views": null,
-   "duration": null,
-   "live": "is_upcoming",
-   "tag": null
-  },
-  {
    "id": "T3PdwzdwnwE",
    "title": "Can't Get Into Deep Work? Play This for Focus",
-   "views": 25,
+   "views": 32,
    "duration": 29757,
    "live": "was_live",
    "tag": null
@@ -173,7 +172,7 @@
   {
    "id": "B6B1Yf7flNk",
    "title": "Can't Get Into Deep Work? Play This for Focus",
-   "views": 42,
+   "views": 46,
    "duration": 32681,
    "live": "was_live",
    "tag": null
@@ -184,9 +183,15 @@
    "title": "Malecón Rain: Bachata Lo-Fi (album)",
    "type": "album",
    "date": "2026-11-13",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-11-12 10:01 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/malec%C3%B3n-rain-bachata-lo-fi-ep/6829618815",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kg0AWdBijmWeTzYC3NvlnEjBjLU1KzhoE",
+    "Amazon": "https://music.amazon.com/albums/B0HQ3BYCGG",
+    "Tidal": "https://tidal.com/browse/album/575200310",
+    "Deezer": "https://www.deezer.com/album/1136456621"
+   },
+   "checked": "2026-11-19 09:55 ET"
   },
   {
    "title": "Spa Bowls (album) - 1. Opening Bowls",

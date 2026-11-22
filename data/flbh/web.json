@@ -1,63 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-16",
-  "end": "2026-11-12"
+  "start": "2026-10-24",
+  "end": "2026-11-20"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 1728,
-  "sessions": 1749,
-  "pageviews": 1801,
+  "users": 2746,
+  "sessions": 2763,
+  "pageviews": 2818,
   "daily": [
-   {
-    "day": "2026-10-16",
-    "users": 27,
-    "sessions": 27,
-    "pageviews": 30
-   },
-   {
-    "day": "2026-10-17",
-    "users": 16,
-    "sessions": 17,
-    "pageviews": 21
-   },
-   {
-    "day": "2026-10-18",
-    "users": 12,
-    "sessions": 12,
-    "pageviews": 14
-   },
-   {
-    "day": "2026-10-19",
-    "users": 52,
-    "sessions": 53,
-    "pageviews": 57
-   },
-   {
-    "day": "2026-10-20",
-    "users": 65,
-    "sessions": 65,
-    "pageviews": 69
-   },
-   {
-    "day": "2026-10-21",
-    "users": 6,
-    "sessions": 6,
-    "pageviews": 6
-   },
-   {
-    "day": "2026-10-22",
-    "users": 17,
-    "sessions": 18,
-    "pageviews": 19
-   },
-   {
-    "day": "2026-10-23",
-    "users": 11,
-    "sessions": 12,
-    "pageviews": 12
-   },
    {
     "day": "2026-10-24",
     "users": 15,
@@ -177,28 +129,86 @@
     "users": 16,
     "sessions": 18,
     "pageviews": 17
+   },
+   {
+    "day": "2026-11-13",
+    "users": 141,
+    "sessions": 141,
+    "pageviews": 142
+   },
+   {
+    "day": "2026-11-14",
+    "users": 485,
+    "sessions": 485,
+    "pageviews": 485
+   },
+   {
+    "day": "2026-11-15",
+    "users": 174,
+    "sessions": 175,
+    "pageviews": 175
+   },
+   {
+    "day": "2026-11-16",
+    "users": 236,
+    "sessions": 235,
+    "pageviews": 236
+   },
+   {
+    "day": "2026-11-17",
+    "users": 102,
+    "sessions": 102,
+    "pageviews": 102
+   },
+   {
+    "day": "2026-11-18",
+    "users": 49,
+    "sessions": 50,
+    "pageviews": 68
+   },
+   {
+    "day": "2026-11-19",
+    "users": 16,
+    "sessions": 16,
+    "pageviews": 17
+   },
+   {
+    "day": "2026-11-20",
+    "users": 20,
+    "sessions": 20,
+    "pageviews": 20
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 24,
-    "users": 24
-   },
-   {
-    "page": "/guides/florida-channel-markers-icw",
-    "views": 11,
-    "users": 9
-   },
-   {
-    "page": "/map/",
-    "views": 11,
-    "users": 10
+    "views": 22,
+    "users": 22
    },
    {
     "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
-    "views": 8,
-    "users": 8
+    "views": 7,
+    "users": 7
+   },
+   {
+    "page": "/ramps/pinellas/fred-howard-park-wave-runner-launch-area",
+    "views": 7,
+    "users": 7
+   },
+   {
+    "page": "/ramps/franklin/",
+    "views": 6,
+    "users": 2
+   },
+   {
+    "page": "/guides/florida-channel-markers-icw",
+    "views": 5,
+    "users": 4
+   },
+   {
+    "page": "/map/",
+    "views": 5,
+    "users": 5
    },
    {
     "page": "/ramps/",
@@ -206,51 +216,37 @@
     "users": 5
    },
    {
-    "page": "/ramps/lake/mcdonald-canal-boat-ramp",
-    "views": 5,
-    "users": 5
-   },
-   {
-    "page": "/ramps/pinellas/fred-howard-park-wave-runner-launch-area",
-    "views": 5,
-    "users": 5
-   },
-   {
-    "page": "/newsletter",
-    "views": 4,
-    "users": 3
-   },
-   {
     "page": "/ramps/escambia/smiths-fish-camp-pay-ramp",
-    "views": 4,
-    "users": 3
+    "views": 5,
+    "users": 4
    },
    {
-    "page": "/ramps/lee/",
-    "views": 4,
-    "users": 3
+    "page": "/ramps/miami-dade/snake-creek-canal-c-9-at-highway-441",
+    "views": 5,
+    "users": 4
+   },
+   {
+    "page": "/ramps/pinellas/fred-howard-park-gulf-beach-kayak-launch",
+    "views": 5,
+    "users": 5
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 1599
+    "sessions": 2632
    },
    {
     "channel": "Organic Search",
-    "sessions": 124
+    "sessions": 114
    },
    {
     "channel": "AI Assistant",
-    "sessions": 19
+    "sessions": 13
    },
    {
     "channel": "Unassigned",
     "sessions": 3
-   },
-   {
-    "channel": "Organic Video",
-    "sessions": 2
    },
    {
     "channel": "Referral",
@@ -259,16 +255,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 1737,
-  "sessions": 1757,
-  "pageviews": 1811
+  "users": 2756,
+  "sessions": 2773,
+  "pageviews": 2829
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 60,
+  "impressions": 37,
   "top_queries": [
    {
     "query": "alimacani boat ramp",
@@ -283,12 +279,6 @@
     "position": 1
    },
    {
-    "query": "blimp road boat launch",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 84
-   },
-   {
     "query": "boating naples fl",
     "clicks": 0,
     "impressions": 1,
@@ -301,34 +291,40 @@
     "position": 94
    },
    {
-    "query": "causeway boat ramp",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 96
-   },
-   {
     "query": "collier boat ramp",
     "clicks": 0,
     "impressions": 1,
     "position": 25
    },
    {
-    "query": "florida permit fish",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 94
-   },
-   {
-    "query": "gulf snook season",
-    "clicks": 0,
-    "impressions": 2,
-    "position": 90
-   },
-   {
     "query": "high tide at mayport",
     "clicks": 0,
     "impressions": 1,
     "position": 91
+   },
+   {
+    "query": "is it snook season",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 97
+   },
+   {
+    "query": "lighthouse park boat ramp",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 79
+   },
+   {
+    "query": "mayport fl tides",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 89
+   },
+   {
+    "query": "naples boat ramps",
+    "clicks": 0,
+    "impressions": 4,
+    "position": 58
    }
   ]
  }

@@ -1,64 +1,16 @@
 {
  "domain": "morntidemusic.com",
  "range": {
-  "start": "2026-10-16",
-  "end": "2026-11-12"
+  "start": "2026-10-24",
+  "end": "2026-11-20"
  },
  "ga4_note": "Admin API lookup unavailable (Admin API 403); using seo-api configured ID 558780885 (name not verified)",
  "ga4_property": "558780885",
  "ga4": {
-  "users": 40,
-  "sessions": 45,
-  "pageviews": 48,
+  "users": 13,
+  "sessions": 13,
+  "pageviews": 13,
   "daily": [
-   {
-    "day": "2026-10-16",
-    "users": 1,
-    "sessions": 2,
-    "pageviews": 2
-   },
-   {
-    "day": "2026-10-17",
-    "users": 4,
-    "sessions": 4,
-    "pageviews": 4
-   },
-   {
-    "day": "2026-10-18",
-    "users": 1,
-    "sessions": 1,
-    "pageviews": 1
-   },
-   {
-    "day": "2026-10-19",
-    "users": 2,
-    "sessions": 3,
-    "pageviews": 3
-   },
-   {
-    "day": "2026-10-20",
-    "users": 0,
-    "sessions": 1,
-    "pageviews": 0
-   },
-   {
-    "day": "2026-10-21",
-    "users": 16,
-    "sessions": 16,
-    "pageviews": 16
-   },
-   {
-    "day": "2026-10-22",
-    "users": 2,
-    "sessions": 3,
-    "pageviews": 6
-   },
-   {
-    "day": "2026-10-23",
-    "users": 1,
-    "sessions": 2,
-    "pageviews": 3
-   },
    {
     "day": "2026-10-24",
     "users": 1,
@@ -93,18 +45,8 @@
   "top_pages": [
    {
     "page": "/",
-    "views": 38,
-    "users": 35
-   },
-   {
-    "page": "/sleep/",
-    "views": 3,
-    "users": 1
-   },
-   {
-    "page": "/player/",
-    "views": 2,
-    "users": 1
+    "views": 8,
+    "users": 8
    },
    {
     "page": "/releases/merengue-lofi-tropical-beats/",
@@ -135,39 +77,37 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 36
+    "sessions": 9
    },
    {
     "channel": "Paid Search",
     "sessions": 4
-   },
-   {
-    "channel": "Organic Video",
-    "sessions": 3
-   },
-   {
-    "channel": "Organic Search",
-    "sessions": 2
    }
   ]
  },
  "ga4_raw": {
-  "users": 70,
-  "sessions": 75,
-  "pageviews": 79
+  "users": 26,
+  "sessions": 26,
+  "pageviews": 25
  },
  "ga4_filter": "hostName in morntidemusic.com (+www), pagePath in sitemap allowlist (99 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "https://morntidemusic.com/",
-  "clicks": 1,
-  "impressions": 17,
+  "clicks": 0,
+  "impressions": 27,
   "top_queries": [
+   {
+    "query": "morningtide music happy alarm clock",
+    "clicks": 0,
+    "impressions": 2,
+    "position": 8.5
+   },
    {
     "query": "morntide",
     "clicks": 0,
-    "impressions": 10,
-    "position": 2.1
+    "impressions": 6,
+    "position": 2.8
    }
   ]
  }

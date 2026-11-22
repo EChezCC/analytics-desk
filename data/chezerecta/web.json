@@ -1,57 +1,15 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-16",
-  "end": "2026-11-12"
+  "start": "2026-10-24",
+  "end": "2026-11-20"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 142,
-  "sessions": 164,
-  "pageviews": 198,
+  "users": 134,
+  "sessions": 155,
+  "pageviews": 195,
   "daily": [
-   {
-    "day": "2026-10-16",
-    "users": 5,
-    "sessions": 5,
-    "pageviews": 5
-   },
-   {
-    "day": "2026-10-17",
-    "users": 9,
-    "sessions": 10,
-    "pageviews": 11
-   },
-   {
-    "day": "2026-10-18",
-    "users": 5,
-    "sessions": 5,
-    "pageviews": 5
-   },
-   {
-    "day": "2026-10-19",
-    "users": 3,
-    "sessions": 4,
-    "pageviews": 4
-   },
-   {
-    "day": "2026-10-21",
-    "users": 8,
-    "sessions": 8,
-    "pageviews": 8
-   },
-   {
-    "day": "2026-10-22",
-    "users": 2,
-    "sessions": 3,
-    "pageviews": 5
-   },
-   {
-    "day": "2026-10-23",
-    "users": 5,
-    "sessions": 6,
-    "pageviews": 9
-   },
    {
     "day": "2026-10-24",
     "users": 7,
@@ -171,23 +129,66 @@
     "users": 2,
     "sessions": 2,
     "pageviews": 2
+   },
+   {
+    "day": "2026-11-13",
+    "users": 3,
+    "sessions": 3,
+    "pageviews": 3
+   },
+   {
+    "day": "2026-11-14",
+    "users": 2,
+    "sessions": 2,
+    "pageviews": 2
+   },
+   {
+    "day": "2026-11-15",
+    "users": 8,
+    "sessions": 9,
+    "pageviews": 12
+   },
+   {
+    "day": "2026-11-16",
+    "users": 3,
+    "sessions": 3,
+    "pageviews": 7
+   },
+   {
+    "day": "2026-11-17",
+    "users": 5,
+    "sessions": 5,
+    "pageviews": 9
+   },
+   {
+    "day": "2026-11-18",
+    "users": 5,
+    "sessions": 7,
+    "pageviews": 8
+   },
+   {
+    "day": "2026-11-19",
+    "users": 1,
+    "sessions": 1,
+    "pageviews": 1
+   },
+   {
+    "day": "2026-11-20",
+    "users": 2,
+    "sessions": 2,
+    "pageviews": 2
    }
   ],
   "top_pages": [
    {
     "page": "/es/",
     "views": 80,
-    "users": 61
+    "users": 60
    },
    {
     "page": "/",
-    "views": 59,
-    "users": 50
-   },
-   {
-    "page": "/player/",
-    "views": 7,
-    "users": 4
+    "views": 45,
+    "users": 37
    },
    {
     "page": "/es/player/",
@@ -196,89 +197,76 @@
    },
    {
     "page": "/releases/",
-    "views": 5,
+    "views": 6,
     "users": 5
    },
    {
-    "page": "/releases/halloween-reggaeton-mix-2026/",
+    "page": "/es/releases/bachata-mix-2026/",
+    "views": 5,
+    "users": 4
+   },
+   {
+    "page": "/merch/",
+    "views": 4,
+    "users": 3
+   },
+   {
+    "page": "/player/",
+    "views": 4,
+    "users": 2
+   },
+   {
+    "page": "/es/releases/",
     "views": 3,
     "users": 3
    },
    {
-    "page": "/es/releases/",
-    "views": 2,
+    "page": "/es/releases/merengues-de-los-anos-dorados-de-los-80s-mix-clasico-dominicano/",
+    "views": 3,
     "users": 2
    },
    {
     "page": "/es/releases/cumbia-mix-2026/",
     "views": 2,
     "users": 2
-   },
-   {
-    "page": "/releases/bolero-a-las-cuatro/",
-    "views": 2,
-    "users": 1
-   },
-   {
-    "page": "/releases/cumbia-mix-2026/",
-    "views": 2,
-    "users": 1
    }
   ],
   "sources": [
    {
     "channel": "Organic Video",
-    "sessions": 71
+    "sessions": 69
    },
    {
     "channel": "Direct",
-    "sessions": 64
-   },
-   {
-    "channel": "Organic Social",
-    "sessions": 16
+    "sessions": 56
    },
    {
     "channel": "Organic Search",
-    "sessions": 13
+    "sessions": 20
+   },
+   {
+    "channel": "Organic Social",
+    "sessions": 10
    }
   ]
  },
  "ga4_raw": {
-  "users": 148,
-  "sessions": 170,
-  "pageviews": 211
+  "users": 140,
+  "sessions": 161,
+  "pageviews": 208
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (487 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (535 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
-  "clicks": 7,
-  "impressions": 176,
+  "clicks": 8,
+  "impressions": 225,
   "top_queries": [
-   {
-    "query": "cumbia mix 2026",
-    "clicks": 1,
-    "impressions": 6,
-    "position": 9.7
-   },
-   {
-    "query": "asi de cerca",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 10
-   },
    {
     "query": "as\u00ed de cerca",
     "clicks": 0,
     "impressions": 1,
     "position": 10
-   },
-   {
-    "query": "le rompe el culo",
-    "clicks": 0,
-    "impressions": 2,
-    "position": 5
    },
    {
     "query": "letras mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo",
@@ -293,15 +281,21 @@
     "position": 9.8
    },
    {
+    "query": "lyrics mix merengue de oro eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1\u00f3n y m\u00e1s# reggaeton retro flow",
+    "clicks": 0,
+    "impressions": 3,
+    "position": 16
+   },
+   {
     "query": "lyrics mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo dj doo per\u00fa",
     "clicks": 0,
-    "impressions": 2,
-    "position": 9
+    "impressions": 4,
+    "position": 10
    },
    {
     "query": "lyrics mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo mix merengues (eddy herrera, juan luis guerra, proyecto uno, elvis crespo, olga ta\u00f1on) dj doo",
     "clicks": 0,
-    "impressions": 6,
+    "impressions": 7,
     "position": 7.3
    },
    {
@@ -311,10 +305,22 @@
     "position": 7
    },
    {
+    "query": "lyrics olga ta\u00f1on, juan luis guerra, elvis crespo mix merengue",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 9
+   },
+   {
     "query": "mix house 2026",
     "clicks": 0,
     "impressions": 1,
     "position": 10
+   },
+   {
+    "query": "mk afterhour",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 43
    }
   ]
  }
