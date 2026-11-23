@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-25",
-  "end": "2026-11-21"
+  "start": "2026-10-26",
+  "end": "2026-11-22"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 2748,
-  "sessions": 2764,
+  "users": 2747,
+  "sessions": 2762,
   "pageviews": 2823,
   "daily": [
-   {
-    "day": "2026-10-25",
-    "users": 16,
-    "sessions": 17,
-    "pageviews": 17
-   },
    {
     "day": "2026-10-26",
     "users": 17,
@@ -177,6 +171,12 @@
     "users": 17,
     "sessions": 17,
     "pageviews": 21
+   },
+   {
+    "day": "2026-11-22",
+    "users": 15,
+    "sessions": 15,
+    "pageviews": 17
    }
   ],
   "top_pages": [
@@ -186,9 +186,9 @@
     "users": 24
    },
    {
-    "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
+    "page": "/guides/florida-channel-markers-icw",
     "views": 7,
-    "users": 7
+    "users": 6
    },
    {
     "page": "/ramps/pinellas/fred-howard-park-wave-runner-launch-area",
@@ -196,19 +196,14 @@
     "users": 7
    },
    {
-    "page": "/guides/florida-channel-markers-icw",
+    "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
     "views": 6,
-    "users": 5
+    "users": 6
    },
    {
     "page": "/ramps/franklin/",
     "views": 6,
     "users": 2
-   },
-   {
-    "page": "/map/",
-    "views": 5,
-    "users": 5
    },
    {
     "page": "/ramps/",
@@ -229,6 +224,11 @@
     "page": "/species/tarpon",
     "views": 5,
     "users": 5
+   },
+   {
+    "page": "/guides/",
+    "views": 4,
+    "users": 4
    }
   ],
   "sources": [
@@ -238,15 +238,15 @@
    },
    {
     "channel": "Organic Search",
-    "sessions": 116
+    "sessions": 115
    },
    {
     "channel": "AI Assistant",
-    "sessions": 13
+    "sessions": 12
    },
    {
     "channel": "Unassigned",
-    "sessions": 3
+    "sessions": 2
    },
    {
     "channel": "Organic Social",
@@ -259,8 +259,8 @@
   ]
  },
  "ga4_raw": {
-  "users": 2757,
-  "sessions": 2773,
+  "users": 2756,
+  "sessions": 2771,
   "pageviews": 2833
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
@@ -268,7 +268,7 @@
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 37,
+  "impressions": 43,
   "top_queries": [
    {
     "query": "bass boat",
@@ -301,18 +301,6 @@
     "position": 91
    },
    {
-    "query": "lighthouse park boat ramp",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 79
-   },
-   {
-    "query": "mayport fl tides",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 89
-   },
-   {
     "query": "naples boat ramps",
     "clicks": 0,
     "impressions": 4,
@@ -329,6 +317,18 @@
     "clicks": 0,
     "impressions": 1,
     "position": 97
+   },
+   {
+    "query": "snook saltwater",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 69
+   },
+   {
+    "query": "state fish florida",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 100
    }
   ]
  }

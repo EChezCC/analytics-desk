@@ -1,21 +1,15 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-25",
-  "end": "2026-11-21"
+  "start": "2026-10-26",
+  "end": "2026-11-22"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 133,
-  "sessions": 151,
-  "pageviews": 191,
+  "users": 125,
+  "sessions": 144,
+  "pageviews": 184,
   "daily": [
-   {
-    "day": "2026-10-25",
-    "users": 9,
-    "sessions": 9,
-    "pageviews": 10
-   },
    {
     "day": "2026-10-26",
     "users": 10,
@@ -177,18 +171,24 @@
     "users": 5,
     "sessions": 5,
     "pageviews": 5
+   },
+   {
+    "day": "2026-11-22",
+    "users": 2,
+    "sessions": 2,
+    "pageviews": 3
    }
   ],
   "top_pages": [
    {
     "page": "/es/",
-    "views": 80,
-    "users": 60
+    "views": 76,
+    "users": 54
    },
    {
     "page": "/",
-    "views": 40,
-    "users": 34
+    "views": 39,
+    "users": 33
    },
    {
     "page": "/es/player/",
@@ -201,11 +201,6 @@
     "users": 4
    },
    {
-    "page": "/releases/",
-    "views": 5,
-    "users": 4
-   },
-   {
     "page": "/merch/",
     "views": 4,
     "users": 3
@@ -214,6 +209,11 @@
     "page": "/player/",
     "views": 4,
     "users": 2
+   },
+   {
+    "page": "/releases/",
+    "views": 4,
+    "users": 3
    },
    {
     "page": "/es/releases/",
@@ -234,15 +234,15 @@
   "sources": [
    {
     "channel": "Organic Video",
-    "sessions": 69
+    "sessions": 62
    },
    {
     "channel": "Direct",
-    "sessions": 53
+    "sessions": 54
    },
    {
     "channel": "Organic Search",
-    "sessions": 22
+    "sessions": 21
    },
    {
     "channel": "Organic Social",
@@ -251,16 +251,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 139,
-  "sessions": 157,
-  "pageviews": 204
+  "users": 131,
+  "sessions": 150,
+  "pageviews": 197
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (535 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (539 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 8,
-  "impressions": 228,
+  "impressions": 231,
   "top_queries": [
    {
     "query": "as\u00ed de cerca",
@@ -317,10 +317,10 @@
     "position": 21
    },
    {
-    "query": "mix house 2026",
+    "query": "merengues de los 80",
     "clicks": 0,
     "impressions": 1,
-    "position": 10
+    "position": 3
    }
   ]
  }
