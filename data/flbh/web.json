@@ -6,93 +6,93 @@
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 2754,
-  "sessions": 2768,
-  "pageviews": 2828,
+  "users": 2597,
+  "sessions": 2613,
+  "pageviews": 2668,
   "daily": [
    {
     "day": "2026-10-27",
-    "users": 20,
-    "sessions": 20,
-    "pageviews": 20
+    "users": 19,
+    "sessions": 19,
+    "pageviews": 19
    },
    {
     "day": "2026-10-28",
     "users": 14,
     "sessions": 15,
-    "pageviews": 19
+    "pageviews": 18
    },
    {
     "day": "2026-10-29",
-    "users": 63,
-    "sessions": 64,
-    "pageviews": 88
+    "users": 59,
+    "sessions": 60,
+    "pageviews": 82
    },
    {
     "day": "2026-10-30",
-    "users": 172,
-    "sessions": 172,
-    "pageviews": 171
+    "users": 164,
+    "sessions": 164,
+    "pageviews": 163
    },
    {
     "day": "2026-10-31",
-    "users": 76,
+    "users": 72,
+    "sessions": 72,
+    "pageviews": 72
+   },
+   {
+    "day": "2026-11-01",
+    "users": 98,
+    "sessions": 98,
+    "pageviews": 98
+   },
+   {
+    "day": "2026-11-02",
+    "users": 183,
+    "sessions": 182,
+    "pageviews": 183
+   },
+   {
+    "day": "2026-11-03",
+    "users": 75,
     "sessions": 76,
     "pageviews": 76
    },
    {
-    "day": "2026-11-01",
-    "users": 111,
-    "sessions": 111,
-    "pageviews": 111
-   },
-   {
-    "day": "2026-11-02",
-    "users": 192,
-    "sessions": 191,
-    "pageviews": 192
-   },
-   {
-    "day": "2026-11-03",
-    "users": 81,
-    "sessions": 82,
-    "pageviews": 82
-   },
-   {
     "day": "2026-11-04",
-    "users": 39,
-    "sessions": 40,
-    "pageviews": 41
+    "users": 38,
+    "sessions": 39,
+    "pageviews": 40
    },
    {
     "day": "2026-11-05",
-    "users": 44,
-    "sessions": 44,
-    "pageviews": 48
+    "users": 40,
+    "sessions": 40,
+    "pageviews": 44
    },
    {
     "day": "2026-11-06",
-    "users": 54,
-    "sessions": 54,
-    "pageviews": 57
+    "users": 51,
+    "sessions": 51,
+    "pageviews": 54
    },
    {
     "day": "2026-11-07",
-    "users": 250,
-    "sessions": 250,
-    "pageviews": 250
+    "users": 223,
+    "sessions": 223,
+    "pageviews": 223
    },
    {
     "day": "2026-11-08",
-    "users": 10,
-    "sessions": 10,
-    "pageviews": 9
+    "users": 9,
+    "sessions": 9,
+    "pageviews": 8
    },
    {
     "day": "2026-11-09",
-    "users": 58,
-    "sessions": 61,
-    "pageviews": 60
+    "users": 56,
+    "sessions": 59,
+    "pageviews": 58
    },
    {
     "day": "2026-11-10",
@@ -102,63 +102,63 @@
    },
    {
     "day": "2026-11-11",
-    "users": 227,
-    "sessions": 227,
-    "pageviews": 227
+    "users": 218,
+    "sessions": 218,
+    "pageviews": 218
    },
    {
     "day": "2026-11-12",
-    "users": 16,
-    "sessions": 18,
-    "pageviews": 17
+    "users": 14,
+    "sessions": 16,
+    "pageviews": 15
    },
    {
     "day": "2026-11-13",
-    "users": 141,
-    "sessions": 141,
-    "pageviews": 142
+    "users": 135,
+    "sessions": 135,
+    "pageviews": 136
    },
    {
     "day": "2026-11-14",
-    "users": 485,
-    "sessions": 485,
-    "pageviews": 485
+    "users": 466,
+    "sessions": 466,
+    "pageviews": 466
    },
    {
     "day": "2026-11-15",
-    "users": 174,
-    "sessions": 175,
-    "pageviews": 175
+    "users": 164,
+    "sessions": 165,
+    "pageviews": 165
    },
    {
     "day": "2026-11-16",
-    "users": 236,
-    "sessions": 235,
-    "pageviews": 236
+    "users": 221,
+    "sessions": 220,
+    "pageviews": 221
    },
    {
     "day": "2026-11-17",
-    "users": 102,
-    "sessions": 102,
-    "pageviews": 102
+    "users": 98,
+    "sessions": 98,
+    "pageviews": 98
    },
    {
     "day": "2026-11-18",
-    "users": 49,
-    "sessions": 50,
-    "pageviews": 68
+    "users": 44,
+    "sessions": 45,
+    "pageviews": 63
    },
    {
     "day": "2026-11-19",
-    "users": 16,
-    "sessions": 16,
-    "pageviews": 17
+    "users": 15,
+    "sessions": 15,
+    "pageviews": 16
    },
    {
     "day": "2026-11-20",
-    "users": 20,
-    "sessions": 20,
-    "pageviews": 20
+    "users": 19,
+    "sessions": 19,
+    "pageviews": 19
    },
    {
     "day": "2026-11-21",
@@ -168,15 +168,15 @@
    },
    {
     "day": "2026-11-22",
-    "users": 15,
-    "sessions": 15,
-    "pageviews": 17
+    "users": 14,
+    "sessions": 14,
+    "pageviews": 16
    },
    {
     "day": "2026-11-23",
-    "users": 24,
-    "sessions": 24,
-    "pageviews": 24
+    "users": 23,
+    "sessions": 23,
+    "pageviews": 23
    }
   ],
   "top_pages": [
@@ -234,11 +234,11 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 2640
+    "sessions": 2488
    },
    {
     "channel": "Organic Search",
-    "sessions": 112
+    "sessions": 108
    },
    {
     "channel": "AI Assistant",
@@ -263,7 +263,7 @@
   "sessions": 2777,
   "pageviews": 2838
  },
- "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
+ "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (10531 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
