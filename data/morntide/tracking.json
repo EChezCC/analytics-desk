@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-23T09:56-05:00",
+ "fetched": "2026-11-24T05:59-05:00",
  "subs_public": 500,
- "studio_day": "2026-11-23",
+ "studio_day": "2026-11-24",
  "subs_studio": 500,
  "earn": 922,
  "uploads": [
@@ -407,7 +407,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-23)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-24)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

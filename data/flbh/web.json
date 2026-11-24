@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-26",
-  "end": "2026-11-22"
+  "start": "2026-10-27",
+  "end": "2026-11-23"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 2747,
-  "sessions": 2762,
-  "pageviews": 2823,
+  "users": 2754,
+  "sessions": 2768,
+  "pageviews": 2828,
   "daily": [
-   {
-    "day": "2026-10-26",
-    "users": 17,
-    "sessions": 17,
-    "pageviews": 19
-   },
    {
     "day": "2026-10-27",
     "users": 20,
@@ -177,28 +171,29 @@
     "users": 15,
     "sessions": 15,
     "pageviews": 17
+   },
+   {
+    "day": "2026-11-23",
+    "users": 24,
+    "sessions": 24,
+    "pageviews": 24
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 25,
-    "users": 24
-   },
-   {
-    "page": "/guides/florida-channel-markers-icw",
-    "views": 7,
-    "users": 6
+    "views": 26,
+    "users": 25
    },
    {
     "page": "/ramps/pinellas/fred-howard-park-wave-runner-launch-area",
-    "views": 7,
-    "users": 7
+    "views": 8,
+    "users": 8
    },
    {
-    "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
+    "page": "/guides/florida-channel-markers-icw",
     "views": 6,
-    "users": 6
+    "users": 5
    },
    {
     "page": "/ramps/franklin/",
@@ -206,7 +201,17 @@
     "users": 2
    },
    {
+    "page": "/ramps/pinellas/fred-howard-park-gulf-beach-kayak-launch",
+    "views": 6,
+    "users": 6
+   },
+   {
     "page": "/ramps/",
+    "views": 5,
+    "users": 5
+   },
+   {
+    "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
     "views": 5,
     "users": 5
    },
@@ -214,11 +219,6 @@
     "page": "/ramps/escambia/smiths-fish-camp-pay-ramp",
     "views": 5,
     "users": 4
-   },
-   {
-    "page": "/ramps/pinellas/fred-howard-park-gulf-beach-kayak-launch",
-    "views": 5,
-    "users": 5
    },
    {
     "page": "/species/tarpon",
@@ -234,11 +234,11 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 2631
+    "sessions": 2640
    },
    {
     "channel": "Organic Search",
-    "sessions": 115
+    "sessions": 112
    },
    {
     "channel": "AI Assistant",
@@ -259,16 +259,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 2756,
-  "sessions": 2771,
-  "pageviews": 2833
+  "users": 2763,
+  "sessions": 2777,
+  "pageviews": 2838
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (11051 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 43,
+  "impressions": 41,
   "top_queries": [
    {
     "query": "bass boat",
@@ -277,28 +277,10 @@
     "position": 1
    },
    {
-    "query": "boating naples fl",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 99
-   },
-   {
-    "query": "burnt store boat ramp",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 94
-   },
-   {
     "query": "collier boat ramp",
     "clicks": 0,
     "impressions": 1,
     "position": 25
-   },
-   {
-    "query": "high tide at mayport",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 91
    },
    {
     "query": "naples boat ramps",
@@ -329,6 +311,18 @@
     "clicks": 0,
     "impressions": 1,
     "position": 100
+   },
+   {
+    "query": "tampa boat ramps",
+    "clicks": 0,
+    "impressions": 2,
+    "position": 42.5
+   },
+   {
+    "query": "yes",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 3
    }
   ]
  }

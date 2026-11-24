@@ -1,21 +1,15 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-26",
-  "end": "2026-11-22"
+  "start": "2026-10-27",
+  "end": "2026-11-23"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 125,
-  "sessions": 144,
-  "pageviews": 184,
+  "users": 117,
+  "sessions": 135,
+  "pageviews": 176,
   "daily": [
-   {
-    "day": "2026-10-26",
-    "users": 10,
-    "sessions": 11,
-    "pageviews": 11
-   },
    {
     "day": "2026-10-27",
     "users": 2,
@@ -177,28 +171,39 @@
     "users": 2,
     "sessions": 2,
     "pageviews": 3
+   },
+   {
+    "day": "2026-11-23",
+    "users": 2,
+    "sessions": 2,
+    "pageviews": 3
    }
   ],
   "top_pages": [
    {
     "page": "/es/",
-    "views": 76,
-    "users": 54
+    "views": 68,
+    "users": 47
    },
    {
     "page": "/",
-    "views": 39,
-    "users": 33
+    "views": 37,
+    "users": 31
    },
    {
     "page": "/es/player/",
-    "views": 6,
-    "users": 5
+    "views": 7,
+    "users": 6
    },
    {
     "page": "/es/releases/bachata-mix-2026/",
     "views": 5,
     "users": 4
+   },
+   {
+    "page": "/es/releases/merengues-de-los-anos-dorados-de-los-80s-mix-clasico-dominicano/",
+    "views": 4,
+    "users": 3
    },
    {
     "page": "/merch/",
@@ -224,20 +229,15 @@
     "page": "/es/releases/cumbia-mix-2026/",
     "views": 3,
     "users": 3
-   },
-   {
-    "page": "/es/releases/merengues-de-los-anos-dorados-de-los-80s-mix-clasico-dominicano/",
-    "views": 3,
-    "users": 2
    }
   ],
   "sources": [
    {
-    "channel": "Organic Video",
-    "sessions": 62
+    "channel": "Direct",
+    "sessions": 55
    },
    {
-    "channel": "Direct",
+    "channel": "Organic Video",
     "sessions": 54
    },
    {
@@ -246,21 +246,25 @@
    },
    {
     "channel": "Organic Social",
-    "sessions": 7
+    "sessions": 5
+   },
+   {
+    "channel": "Unassigned",
+    "sessions": 1
    }
   ]
  },
  "ga4_raw": {
-  "users": 131,
-  "sessions": 150,
-  "pageviews": 197
+  "users": 123,
+  "sessions": 141,
+  "pageviews": 189
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (539 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (543 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 8,
-  "impressions": 231,
+  "impressions": 236,
   "top_queries": [
    {
     "query": "as\u00ed de cerca",
