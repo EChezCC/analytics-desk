@@ -1,66 +1,66 @@
 {
-  "day": "2026-11-24",
+  "day": "2026-11-25",
   "channel": "@DJChezerecta",
   "channel_id": "UC9HS14jsqdRpXw9tGBPckeg",
   "kpis": {
-    "subs": 5837,
+    "subs": 5955,
     "earn": null,
-    "an7": 96727.7,
-    "views7": 396991,
-    "an28": 103002.1,
-    "views28": 587798,
+    "an7": 104169.3,
+    "views7": 445849,
+    "an28": 112605.0,
+    "views28": 635588,
     "shorts90": null,
-    "channel_views": 925314,
-    "video_count": 298,
-    "subs_api_rounded": 5830,
-    "subs_note": "Studio exact from realtime_subs 5,837 and NOTES.md (Realtime subs 5,837); no e['subscribers'] field in REPORT; Earn meters were not in today's REPORT",
+    "channel_views": 984379,
+    "video_count": 300,
+    "subs_api_rounded": 5950,
+    "subs_note": "Studio exact from realtime_subs 5,955 and NOTES.md (Realtime subs 5,955); no e['subscribers'] field in REPORT; Earn meters were not in today's REPORT",
     "subs_error": null,
     "earn_status": "MISSING (Earn meters not in REPORT; earnings from Revenue tab — see kpis.earnings)",
     "earn_last_known": 3304,
     "earn_last_known_as_of": "2026-10-23",
     "shorts90_status": "MISSING",
-    "day_watch_hours": 8604.8,
-    "watch_hours_7d": 96727.7,
-    "watch_hours_28d": 103002.1,
+    "day_watch_hours": 11554.0,
+    "watch_hours_7d": 104169.3,
+    "watch_hours_28d": 112605.0,
     "earnings": {
-      "est_revenue_7d_usd": 6.36,
-      "est_revenue_28d_usd": 9.41,
-      "rpm_7d_usd": 0.03,
+      "est_revenue_7d_usd": 7.14,
+      "est_revenue_28d_usd": 10.48,
+      "rpm_7d_usd": 0.04,
       "rpm_28d_usd": 0.04,
-      "cpm_28d_usd": 3.21,
-      "monetized_playbacks_7d": 1518,
-      "monetized_playbacks_28d": 3228,
+      "cpm_28d_usd": 3.54,
+      "monetized_playbacks_7d": 1805,
+      "monetized_playbacks_28d": 3544,
       "revenue_by_source_28d": {
-        "watch_page_ads": 6.57,
-        "shorts_feed_ads": 2.44,
+        "watch_page_ads": 7.29,
+        "shorts_feed_ads": 3.18,
         "memberships": null,
         "supers": null
       },
       "day_est_revenue_usd": null,
-      "revenue_as_of": "2026-11-22",
-      "range_7d": "Nov 17 – 23, 2026",
-      "range_28d": "Oct 27 – Nov 23, 2026",
+      "revenue_as_of": "2026-11-23",
+      "range_7d": "Nov 18 – 24, 2026",
+      "range_28d": "Oct 28 – Nov 24, 2026",
       "top_earning_videos_28d": [
+        {
+          "video_id": "2YRTJ1LjYUI",
+          "title": "Merengues Dorados de los 80s 🇩🇴🔥 Volveré · Wilfrido Vargas & Rubby Pérez | DJ Chezerecta #Shorts",
+          "revenue_usd": 2.37,
+          "views": 87519,
+          "watch_hours": 1542.9
+        },
         {
           "video_id": null,
           "title": "Only the Best: 90s Freestyle Classics (Locked Play Order) 🕺",
           "revenue_usd": 2.01,
-          "views": 554,
-          "watch_hours": 70.8
-        },
-        {
-          "video_id": "2YRTJ1LjYUI",
-          "title": "Merengues Dorados de los 80s 🇩🇴🔥 Volveré · Wilfrido Vargas & Rubby Pérez | DJ Chezerecta #Shorts",
-          "revenue_usd": 1.78,
-          "views": 64493,
-          "watch_hours": 1096.9
+          "views": 562,
+          "watch_hours": 73.0
         },
         {
           "video_id": "X9j7lvl1lGg",
           "title": "Salsa, Dembow y más: DJ Chezerecta en vivo (Official Mix)",
-          "revenue_usd": 0.97,
-          "views": 1086,
-          "watch_hours": 15.9
+          "revenue_usd": 0.99,
+          "views": 1026,
+          "watch_hours": 15.8
         },
         {
           "video_id": null,
@@ -71,30 +71,30 @@
         },
         {
           "video_id": "CpWq4tZVsO0",
-          "title": "La Nueva Salsa Romántica | Mix 2026 | 16 Canciones Inéditas",
-          "revenue_usd": 0.52,
-          "views": 3983,
-          "watch_hours": 184.2
+          "title": "Lo mejor de la Salsa Romántica 2026: 16 temas que no has escuchado",
+          "revenue_usd": 0.58,
+          "views": 7310,
+          "watch_hours": 359.3
         }
       ],
       "status": "CURRENT",
       "revenue_by_source_7d": {
-        "watch_page_ads": 4.22,
-        "shorts_feed_ads": 1.9,
+        "watch_page_ads": null,
+        "shorts_feed_ads": null,
         "memberships": null,
         "supers": null
       },
-      "revenue_data_as_of": "2026-11-22",
-      "day_revenue_note": "Nov 23 day_est_revenue is null (em-dash / still processing in the revenue Date table). Latest numeric day Nov 22=$1.80 (not used for day_est). revenue_as_of 2026-11-22. 28d by source from REPORT Advanced table: WP $6.57 + Shorts Feed $2.44 + Premium $0.41 (those three sum to $9.42 vs estimated revenue $9.41). Revenue-tab Ways of earning card WP $6.88 / Shorts Feed $2.54 was Premium-bundled and was not used. Memberships/supers null (rows absent). YouTube Premium $0.41 is in REPORT but omitted from the 4-key revenue_by_source_28d contract object. 7d by source: Advanced WP $4.22 / Shorts Feed $1.90 / Premium $0.25 (Premium omitted from the 4-key 7d object). RPM 7d $0.03 / 28d $0.04; CPM 28d $3.21 (standard; playback-based $3.67). monetized playbacks 7d 1,518 / 28d 3,228.",
+      "revenue_data_as_of": "2026-11-23",
+      "day_revenue_note": "Nov 24 day_est_revenue is null (em-dash / still processing in the revenue Date table). Latest numeric day Nov 23=$1.06 (not used for day_est). revenue_as_of 2026-11-23. 28d by source from REPORT Ways of earning card (only 28d available): WP $7.29 + Shorts Feed $3.18 (sum $10.47 vs estimated revenue $10.48, rounding). No Premium row shown, so youtube_premium null and omitted from the 4-key contract object. Memberships/supers null (rows absent). 7d by source not visible (card fixed to 28d) — all four keys null, not estimated. RPM 7d $0.04 / 28d $0.04 (Advanced, per views; hub RPM $0.03 per engaged views was not used). CPM 28d $3.54 as reported in cpm_28d (cpm_28d_standard and playback_based_cpm_28d were not in today's REPORT; not invented). CPM 7d $4.41 in REPORT only, not a contract field. monetized playbacks 7d 1,805 / 28d 3,544.",
       "top_earning_videos_note": "All-content revenue-sorted 28d table from Studio (5 rows in REPORT); video_id kept as in REPORT (3 present, 2 null; IDs not backfilled). Views/watch_hours as reported."
     }
   },
-  "content_source": "YouTube Data API CURRENT 2026-11-24 ~5:16 AM ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261124/chezerecta-api.json): subs = Studio exact 5,837 from realtime_subs (NOTES.md: 'Realtime subs 5,837'; no e['subscribers'] field); API rounded subscriberCount 5,830 stored separately as subs_api_rounded; video_count 298, channel_views 925,314. Content board = lifetime viewCount, Data API merged with prior board (higher count kept; board IDs re-fetched 2026-11-24; curated board rows were not expanded, so _fHb1TAWwZo is not a board row). no CTR or hours on board rows. Desk Studio eyes-on (identity_ok True; URL channel ID + sidebar DJ Chezerecta; handle @DJChezerecta present in identity_seen; status OK; proof /workspace/desk-studio-pull/20261124/studio-proof/chezerecta/REPORT.json) Nov 24 ~5:22 AM ET: Earn meters MISSING — Earn meters not in today's REPORT (earn is null); Revenue tab used for earnings (no YPP); pull status OK. Earnings CURRENT from Revenue tab: est revenue 7d $6.36 / 28d $9.41 (range Nov 17 – 23, 2026 / Oct 27 – Nov 23, 2026); RPM 7d $0.03 / 28d $0.04; CPM 28d $3.21 (playback-based $3.67); monetized playbacks 7d 1,518 / 28d 3,228; 28d by source Watch Page $6.57, Shorts Feed $2.44 (YouTube Premium $0.41 in REPORT, omitted from 4-key contract object); memberships/supers null; revenue_by_source_7d WP $4.22, Shorts Feed $1.9; day Nov 23 revenue not yet reported (as_of 2026-11-22; latest numeric Nov 22 $1.80). LAST-KNOWN Earn hours 3,304 (as of 2026-10-23). shorts90 MISSING. Realtime 5,837 matches NOTES.md and is used for subs. 7d CURRENT Nov 17 – 23, 2026: 396,991 views / 96,727.7 h, subs +976, 2,246,268 impressions, CTR 7.6%; 28d Oct 27 – Nov 23, 2026: 587,798 views / 103,002.1 h, subs +1796, 2,742,865 impressions, CTR 6.7%. Yesterday (Nov 23, 2026) single-day Studio: 46,823 views / 8604.8 watch hours, day_subs +93 (day figures from the 7d Date table; no distinct chezerecta_day.png).",
+  "content_source": "YouTube Data API CURRENT 2026-11-25 ~5:18 AM ET @DJChezerecta / UC9HS14jsqdRpXw9tGBPckeg (proof /workspace/desk-studio-pull/20261125/chezerecta-api.json): subs = Studio exact 5,955 from realtime_subs (NOTES.md: 'Realtime subs 5,955'; no e['subscribers'] field); API rounded subscriberCount 5,950 stored separately as subs_api_rounded; video_count 300, channel_views 984,379. Content board = lifetime viewCount, Data API merged with prior board (higher count kept; board IDs re-fetched 2026-11-25; curated board rows were not expanded, so _fHb1TAWwZo is not a board row). no CTR or hours on board rows. Desk Studio eyes-on (identity_ok True; URL channel ID + sidebar DJ Chezerecta; handle @DJChezerecta present in identity_seen; status OK; proof /workspace/desk-studio-pull/20261125/studio-proof/chezerecta/REPORT.json) Nov 25 ~5:23 AM ET: Earn meters MISSING — Earn meters not in today's REPORT (earn is null); Revenue tab used for earnings (no YPP); pull status OK. Earnings CURRENT from Revenue tab: est revenue 7d $7.14 / 28d $10.48 (range Nov 18 – 24, 2026 / Oct 28 – Nov 24, 2026); RPM 7d $0.04 / 28d $0.04; CPM 28d $3.54 (cpm_28d as reported; no standard/playback-based split in REPORT); monetized playbacks 7d 1,805 / 28d 3,544; 28d by source Watch Page $7.29, Shorts Feed $3.18 (YouTube Premium not shown, omitted from 4-key contract object); memberships/supers null; revenue_by_source_7d all null (7d source split not visible); day Nov 24 revenue not yet reported (as_of 2026-11-23; latest numeric Nov 23 $1.06). LAST-KNOWN Earn hours 3,304 (as of 2026-10-23). shorts90 MISSING. Realtime 5,955 matches NOTES.md and is used for subs. 7d CURRENT Nov 18 – 24, 2026: 445,849 views / 104,169.3 h, subs +1033, 2,513,154 impressions, CTR 7.4%; 28d Oct 28 – Nov 24, 2026: 635,588 views / 112,605.0 h, subs +1844, 2,997,374 impressions, CTR 6.8%. Yesterday (Nov 24, 2026) single-day Studio: 61,819 views / 11554.0 watch hours (day figures from the 28d Date table / chezerecta_day.png and 7d Date table; day_subs not in today's day block).",
   "content": [
     {
       "title": "Latin Mix",
       "kind": "long mix",
-      "views": 22609,
+      "views": 22621,
       "id": "X9j7lvl1lGg"
     },
     {
@@ -148,7 +148,7 @@
     {
       "title": "Aunque Duela",
       "kind": "short",
-      "views": 49764,
+      "views": 49765,
       "id": "xFZKi7tDTm8"
     },
     {
@@ -171,11 +171,11 @@
     }
   ],
   "recs": [
-    "Earnings CURRENT: 7d est revenue $6.36 / 28d $9.41 (ranges Nov 17 – 23, 2026 / Oct 27 – Nov 23, 2026). day_est_revenue_usd null (Nov 23 em-dash / still processing; revenue_as_of 2026-11-22; latest numeric Nov 22 $1.80). RPM 7d $0.03 / 28d $0.04; CPM 28d $3.21 (playback-based $3.67). monetized playbacks 7d 1,518 / 28d 3,228. 28d by source: Watch Page $6.57, Shorts Feed $2.44; memberships/supers null; YouTube Premium $0.41 in REPORT (omitted from 4-key contract object); 7d by source WP $4.22, Shorts Feed $1.9.",
+    "Earnings CURRENT: 7d est revenue $7.14 / 28d $10.48 (ranges Nov 18 – 24, 2026 / Oct 28 – Nov 24, 2026). day_est_revenue_usd null (Nov 24 em-dash / still processing; revenue_as_of 2026-11-23; latest numeric Nov 23 $1.06). RPM 7d $0.04 / 28d $0.04; CPM 28d $3.54 (cpm_28d as reported; no standard/playback-based split in REPORT). monetized playbacks 7d 1,805 / 28d 3,544. 28d by source: Watch Page $7.29, Shorts Feed $3.18; memberships/supers null; YouTube Premium not shown in REPORT (omitted from 4-key contract object); 7d by source all null (split not visible).",
     "Earn meters MISSING (Earn meters not in today's REPORT (earn is null); Revenue tab used for earnings (no YPP); pull status OK). LAST-KNOWN qualified public hours 3,304 as of 2026-10-23. shorts90 MISSING. No YPP pace/projection (frozen).",
-    "subs CURRENT 5,837 (Studio exact, realtime_subs + NOTES.md); Data API rounded 5,830 stored as subs_api_rounded.",
-    "Data API lifetime #1 long is Así sonaba la República Dominicana en los 80s | Mix Clásico (_fHb1TAWwZo) at 314,789 views; it is not on the curated board (board not expanded). Board Short jXYgugUiUc0 is at 118,059 lifetime; Salsa, Dembow y más / Latin Mix X9j7lvl1lGg at 22,609 lifetime (Data API). 28d top (Studio): 'Así sonaba la República Dominicana en los 80s | Mix Clásico' 315,059 views / 94,498.4 h, 'You need this Salsa Romántica mix right now 💃 #SalsaRomantica #SalsaBaul' 151,029 views / 760.2 h; 'Merengues Dorados de los 80s 🇩🇴🔥 Volveré · Wilfrido Vargas & Rubby Pérez | DJ Chezerecta #Shorts' 64,493 views / 1,096.9 h.",
-    "Analytics CURRENT 7d 96,727.7 h / 396,991 views (Nov 17–23), subs +976, 2,246,268 impressions, CTR 7.6%; previous desk 7d 88,864.6 h / 353,546 (Nov 16–22, as of 2026-11-23; no daily desk snapshots were written Nov 14–20 and none were backfilled). 28d 103,002.1 h / 587,798 views (Oct 27–Nov 23), +1796 subs; 28d impressions 2,742,865, CTR 6.7%. Yesterday Nov 23: 46,823 views / 8604.8 h, day_subs +93.",
-    "video_count CURRENT 298 (+4 from 294 on 2026-11-23) / channel_views CURRENT 925,314 (+48,427 from 876,887 on 2026-11-23, Data API)."
+    "subs CURRENT 5,955 (Studio exact, realtime_subs + NOTES.md); Data API rounded 5,950 stored as subs_api_rounded.",
+    "Data API lifetime #1 long is Así sonaba la República Dominicana en los 80s | Mix Clásico (_fHb1TAWwZo) at 341,502 views; it is not on the curated board (board not expanded). Board Short jXYgugUiUc0 is at 118,059 lifetime; Salsa, Dembow y más / Latin Mix X9j7lvl1lGg at 22,621 lifetime (Data API). 28d top (Studio): 'Así sonaba la República Dominicana en los 80s | Mix Clásico' 341,907 views / 102,845.5 h, 'You need this Salsa Romántica mix right now 💃 #SalsaRomantica #SalsaBaul' 143,238 views / 730.1 h; 'Merengues Dorados de los 80s 🇩🇴🔥 Volveré · Wilfrido Vargas & Rubby Pérez | DJ Chezerecta #Shorts' 87,519 views / 1,542.9 h.",
+    "Analytics CURRENT 7d 104,169.3 h / 445,849 views (Nov 18–24), subs +1033, 2,513,154 impressions, CTR 7.4%; previous desk 7d 96,727.7 h / 396,991 (Nov 17–23, as of 2026-11-24; no daily desk snapshots were written Nov 14–20 and none were backfilled). 28d 112,605.0 h / 635,588 views (Oct 28–Nov 24), +1844 subs; 28d impressions 2,997,374, CTR 6.8%. Yesterday Nov 24: 61,819 views / 11554.0 h (day_subs not in REPORT day block).",
+    "video_count CURRENT 300 (+2 from 298 on 2026-11-24) / channel_views CURRENT 984,379 (+59,065 from 925,314 on 2026-11-24, Data API)."
   ]
 }
