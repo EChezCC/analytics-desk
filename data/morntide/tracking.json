@@ -1,8 +1,8 @@
 {
- "fetched": "2026-11-24T09:55-05:00",
- "subs_public": 500,
- "studio_day": "2026-11-24",
- "subs_studio": 500,
+ "fetched": "2026-11-25T05:58-05:00",
+ "subs_public": 499,
+ "studio_day": "2026-11-25",
+ "subs_studio": 499,
  "earn": 922,
  "uploads": [
   {
@@ -134,7 +134,7 @@
   {
    "id": "64tyeo8LkDM",
    "title": "Quiet Pool: 53 Minutes of Ambient Sleep Music",
-   "views": 168,
+   "views": 169,
    "duration": 3200,
    "live": null
   },
@@ -407,7 +407,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-24)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-25)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }

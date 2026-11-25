@@ -142,13 +142,16 @@
     {
      "day": "2026-11-24",
      "value": 500
+    },
+    {
+     "day": "2026-11-25",
+     "value": 499
     }
    ],
-   "rate_per_day": 0.024,
-   "window": "2026-10-14 to 2026-11-24 (41 days)",
-   "last": 500,
-   "projected": "2083-01-09",
-   "status": "projected"
+   "rate_per_day": 0.0,
+   "window": "2026-10-14 to 2026-11-25 (42 days)",
+   "last": 499,
+   "status": "No net growth in window; no projection."
   },
   {
    "metric": "Public watch hours",
@@ -278,10 +281,14 @@
     {
      "day": "2026-11-19",
      "value": 922
+    },
+    {
+     "day": "2026-11-20",
+     "value": 922
     }
    ],
-   "rate_per_day": -0.098,
-   "window": "2026-10-09 to 2026-11-19 (41 days)",
+   "rate_per_day": -0.095,
+   "window": "2026-10-09 to 2026-11-20 (42 days)",
    "last": 922,
    "status": "No net growth in window; no projection."
   }

@@ -1,21 +1,15 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-27",
-  "end": "2026-11-23"
+  "start": "2026-10-28",
+  "end": "2026-11-24"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 117,
-  "sessions": 135,
-  "pageviews": 176,
+  "users": 119,
+  "sessions": 142,
+  "pageviews": 186,
   "daily": [
-   {
-    "day": "2026-10-27",
-    "users": 2,
-    "sessions": 2,
-    "pageviews": 2
-   },
    {
     "day": "2026-10-28",
     "users": 6,
@@ -177,23 +171,34 @@
     "users": 2,
     "sessions": 2,
     "pageviews": 3
+   },
+   {
+    "day": "2026-11-24",
+    "users": 5,
+    "sessions": 9,
+    "pageviews": 12
    }
   ],
   "top_pages": [
    {
     "page": "/es/",
-    "views": 68,
-    "users": 47
+    "views": 66,
+    "users": 45
    },
    {
     "page": "/",
-    "views": 37,
-    "users": 31
+    "views": 40,
+    "users": 33
    },
    {
     "page": "/es/player/",
     "views": 7,
     "users": 6
+   },
+   {
+    "page": "/es/historia-de-la-musica/",
+    "views": 5,
+    "users": 3
    },
    {
     "page": "/es/releases/bachata-mix-2026/",
@@ -204,6 +209,11 @@
     "page": "/es/releases/merengues-de-los-anos-dorados-de-los-80s-mix-clasico-dominicano/",
     "views": 4,
     "users": 3
+   },
+   {
+    "page": "/historia-de-la-musica/",
+    "views": 4,
+    "users": 1
    },
    {
     "page": "/merch/",
@@ -219,22 +229,12 @@
     "page": "/releases/",
     "views": 4,
     "users": 3
-   },
-   {
-    "page": "/es/releases/",
-    "views": 3,
-    "users": 3
-   },
-   {
-    "page": "/es/releases/cumbia-mix-2026/",
-    "views": 3,
-    "users": 3
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 55
+    "sessions": 60
    },
    {
     "channel": "Organic Video",
@@ -246,25 +246,21 @@
    },
    {
     "channel": "Organic Social",
-    "sessions": 5
-   },
-   {
-    "channel": "Unassigned",
-    "sessions": 1
+    "sessions": 7
    }
   ]
  },
  "ga4_raw": {
-  "users": 123,
-  "sessions": 141,
-  "pageviews": 189
+  "users": 124,
+  "sessions": 147,
+  "pageviews": 198
  },
- "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (543 paths)",
+ "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (551 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 8,
-  "impressions": 236,
+  "impressions": 241,
   "top_queries": [
    {
     "query": "as\u00ed de cerca",
@@ -315,16 +311,16 @@
     "position": 9
    },
    {
+    "query": "merengue de los 80 dominicano",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 11
+   },
+   {
     "query": "merengueros dominicanos de los 80",
     "clicks": 0,
     "impressions": 1,
     "position": 21
-   },
-   {
-    "query": "merengues de los 80",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 3
    }
   ]
  }

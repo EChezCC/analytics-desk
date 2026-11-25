@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-27",
-  "end": "2026-11-23"
+  "start": "2026-10-28",
+  "end": "2026-11-24"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 2597,
-  "sessions": 2613,
-  "pageviews": 2668,
+  "users": 2600,
+  "sessions": 2616,
+  "pageviews": 2671,
   "daily": [
-   {
-    "day": "2026-10-27",
-    "users": 19,
-    "sessions": 19,
-    "pageviews": 19
-   },
    {
     "day": "2026-10-28",
     "users": 14,
@@ -177,23 +171,24 @@
     "users": 23,
     "sessions": 23,
     "pageviews": 23
+   },
+   {
+    "day": "2026-11-24",
+    "users": 22,
+    "sessions": 22,
+    "pageviews": 22
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 26,
-    "users": 25
+    "views": 27,
+    "users": 26
    },
    {
     "page": "/ramps/pinellas/fred-howard-park-wave-runner-launch-area",
     "views": 8,
     "users": 8
-   },
-   {
-    "page": "/guides/florida-channel-markers-icw",
-    "views": 6,
-    "users": 5
    },
    {
     "page": "/ramps/franklin/",
@@ -204,6 +199,11 @@
     "page": "/ramps/pinellas/fred-howard-park-gulf-beach-kayak-launch",
     "views": 6,
     "users": 6
+   },
+   {
+    "page": "/guides/florida-channel-markers-icw",
+    "views": 5,
+    "users": 4
    },
    {
     "page": "/ramps/",
@@ -234,11 +234,11 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 2488
+    "sessions": 2496
    },
    {
     "channel": "Organic Search",
-    "sessions": 108
+    "sessions": 104
    },
    {
     "channel": "AI Assistant",
@@ -259,9 +259,9 @@
   ]
  },
  "ga4_raw": {
-  "users": 2763,
-  "sessions": 2777,
-  "pageviews": 2838
+  "users": 2766,
+  "sessions": 2781,
+  "pageviews": 2841
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (10531 paths)",
  "bot_spikes": [],
@@ -317,6 +317,12 @@
     "clicks": 0,
     "impressions": 2,
     "position": 42.5
+   },
+   {
+    "query": "tiderider boat docks hobe sound",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 98
    },
    {
     "query": "yes",
