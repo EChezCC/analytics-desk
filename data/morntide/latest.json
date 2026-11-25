@@ -1,21 +1,21 @@
 {
-  "day": "2026-11-24",
+  "day": "2026-11-25",
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
-    "subs": 500,
+    "subs": 499,
     "earn": 922,
     "an7": 1.9,
-    "views7": 52,
-    "an28": 50.2,
-    "views28": 607,
-    "channel_views": 21642,
+    "views7": 51,
+    "an28": 43.5,
+    "views28": 588,
+    "channel_views": 21652,
     "video_count": 42,
-    "shorts90": 659,
-    "subs_api_rounded": 500,
-    "earn_as_of": "2026-11-19"
+    "shorts90": 660,
+    "subs_api_rounded": 499,
+    "earn_as_of": "2026-11-20"
   },
-  "content_source": "Studio eyes-on 2026-11-24 ~5:26 AM EST (REPORT read_at as written 2026-11-24T05:26:13-05:00; pull status OK): identity Account menu: Morntide Music / @Morntidemusic; sidebar 'Morntide Music'; Studio URL id UCjIlIYsKiIyUOVsHpItKOWA; 500 subs Studio URL https://studio.youtube.com/channel/UCjIlIYsKiIyUOVsHpItKOWA; proof /workspace/desk-studio-pull/20261124/studio-proof/morntide/REPORT.json (named screenshots present: morntide_advanced_7d.png, morntide_channel_switcher.png, morntide_content_top_28d.png, morntide_day_table.png, morntide_earn.png, morntide_earn_ads.png, morntide_identity.png, morntide_overview_28d.png). Subs CURRENT 500 = Studio exact (Earn + realtime 500); Data API rounded 500 stored as subs_api_rounded. Earn CURRENT 922 qualified public watch hours (Studio Earn, 365d meter as of Nov 19, 2026; threshold 3,000; ads tier also shows 4,000). shorts90 CURRENT 659 (Studio Earn). uploads_90d CURRENT 3/3. Analytics 7d CURRENT 1.9h / 52 views / +0 (Studio Nov 17 – 23, 2026; CTR 0.5% on 1,349). Analytics 28d CURRENT 50.2h / 607 views / +0 (Studio Oct 27 – Nov 23, 2026). 28d CTR CURRENT 1.0% on 9,786 impressions. Yesterday (Studio single-day) day_date 2026-11-23 day_views 5 day_watch_hours 0.0 CURRENT as displayed. Analytics API 2026-11-16..2026-11-22 7d 1.9h/54 views, 28d 2026-10-26..2026-11-22 52.0h/1608 views (UNVERIFIED vs Studio; lags a day; not used for KPIs). Data API CURRENT 2026-11-24 ~5:16 AM EST: video_count 42, channel_views 21,642. Content rows = Data API lifetime viewCount (higher kept; board IDs re-fetched 2026-11-24; other rows carried). Per-video hours/CTR not invented. EARN CHANGE: Studio Earn meter CURRENT 922 as of Nov 19, 2026 vs prior desk 922 as of 2026-11-18 (+0); reported as displayed (meters can revise when as-of date rolls) on both Eligibility tiers (early-access 922/3,000; ads tier 922/4,000). Shorts 90d 659 (was 659). Data API public video_count 42 (was 42 on 2026-11-23 desk); channel_views 21,642 (was 21,639) — reported as CURRENT from Data API. 28d views 607 (was 1,617) / hours 50.2 (was 52.1) as the Studio window rolled from the prior desk's range to Oct 27 – Nov 23, 2026 (the prior desk's Electric Piano 1,001-view / 1.7h 28d row is no longer in this window; figures as displayed, not estimated). Do not log Earn 0 from a Memberships card or blank Earn tab.",
+  "content_source": "Studio eyes-on 2026-11-25 ~5:26–5:29 AM EST (REPORT read_at as written 2026-11-25T05:30:07-05:00; pull status OK): identity Account menu: Morntide Music / @Morntidemusic; Studio sidebar 'Morntide Music'; URL channel id UCjIlIYsKiIyUOVsHpItKOWA Studio URL https://studio.youtube.com/channel/UCjIlIYsKiIyUOVsHpItKOWA; proof /workspace/desk-studio-pull/20261125/studio-proof/morntide/REPORT.json (named screenshots present: morntide_advanced_7d.png, morntide_content_top_28d.png, morntide_earn.png, morntide_earn_ads.png, morntide_identity.png, morntide_overview_28d.png). Figures taken from REPORT.json and verified on morntide_identity.png / morntide_earn.png / morntide_earn_ads.png / morntide_overview_28d.png / morntide_advanced_7d.png (7d date table, also holds the Nov 24 day row; no separate day table) / morntide_content_top_28d.png; phase-b-last-known.json and DESK-CARD-morntide.md MATCH REPORT on identity, Earn, 7d views/hours, 28d, and day. Subs CURRENT 499 = Studio exact (Earn 499/500, dashboard Current subscribers 499, Insights Total subscribers 499; REPORT realtime_subs 499; live-count view not opened); Data API rounded 499 stored as subs_api_rounded. Earn CURRENT 922 qualified public watch hours (Studio Earn, 365d meter as of Nov 20, 2026; threshold 3,000; ads tier also shows 4,000). shorts90 CURRENT 660 (Studio Earn). uploads_90d CURRENT 3/3. Analytics 7d CURRENT 1.9h / 51 views / n/a (not in today's REPORT; not estimated) (Studio Nov 18 – 24, 2026; 51 views / 1.9h verified on the 7d date table; 7d CTR/impressions/subs_change not on the saved Date table, so null, not backfilled). Analytics 28d CURRENT 43.5h / 588 views / -1 (Studio Oct 28 – Nov 24, 2026). 28d CTR CURRENT 1.0% on 9,506 impressions (verified on the 28d Content breakdown table). Yesterday (Studio single-day) day_date 2026-11-24 day_views 6 day_watch_hours 0.0 CURRENT as displayed (Nov 24 row on the 7d Date table: 6 views / 0.0h, 0.4% of 7d hours; rounded to 1 decimal). Analytics API 2026-11-17..2026-11-23 7d 1.9h/47 views, 28d 2026-10-27..2026-11-23 50.2h/602 views (UNVERIFIED vs Studio; lags a day; not used for KPIs). Data API CURRENT 2026-11-25 ~5:18 AM EST: video_count 42, channel_views 21,652. Content rows = Data API lifetime viewCount (higher kept; board IDs re-fetched 2026-11-25; other rows carried). Per-video hours/CTR not invented. EARN CHANGE: Studio Earn meter CURRENT 922 as of Nov 20, 2026 vs prior desk 922 as of 2026-11-19 (+0); reported as displayed (meters can revise when as-of date rolls) on both Eligibility tiers (early-access 922/3,000; ads tier 922/4,000). Shorts 90d 660 (was 659). Data API public video_count 42 (was 42 on 2026-11-24 desk); channel_views 21,652 (was 21,642) — reported as CURRENT from Data API. 28d views 588 (was 607) / hours 43.5 (was 50.2) as the Studio window rolled from the prior desk's Oct 27 – Nov 23, 2026 range to Oct 28 – Nov 24, 2026; figures as displayed, not estimated. Same 28d Content table also shows a lower-view row '8 Hours of Ocean Waves | The Perfect Night for De…' 11 views / 25.5h (not in the top-10-by-views list; as displayed). Do not log Earn 0 from a Memberships card or blank Earn tab.",
   "content": [
     {
       "title": "Deep Work (1h)",
@@ -38,7 +38,7 @@
     {
       "title": "Night Calm (53m)",
       "kind": "long",
-      "views": 168,
+      "views": 169,
       "id": "64tyeo8LkDM"
     },
     {
@@ -110,7 +110,7 @@
     {
       "title": "First Light on the Water",
       "kind": "short",
-      "views": 859,
+      "views": 863,
       "id": "6dkl1uzGgjA"
     },
     {
@@ -151,10 +151,10 @@
     }
   ],
   "recs": [
-    "Subs 500 (Studio exact, 2026-11-24) still meets the 500-sub bar for the first Earn tier (unchanged from 500 on the Nov 23 desk); that tier still needs 3,000 hours. Hours 922 / 3,000 (Studio Earn 2026-11-24, meter as of Nov 19, 2026; unchanged from 922 as of 2026-11-18). Full YPP still needs 1,000 subs and 4,000 hours. End-screen Subscribe on Deep Work and First Light ~2h.",
+    "Subs 499 (Studio exact, 2026-11-25) is 1 under the 500-sub bar for the first Earn tier (down from 500 on the Nov 24 desk); that tier still needs 3,000 hours. Hours 922 / 3,000 (Studio Earn 2026-11-25, meter as of Nov 20, 2026; unchanged from 922 as of 2026-11-19). Full YPP still needs 1,000 subs and 4,000 hours. End-screen Subscribe on Deep Work and First Light ~2h.",
     "Deep Work 1h (9,320) and First Light ~2h (1,101) still carry the catalog. Wake Calm 377 next. Do not lead with Night Calm or the 8h sleep/spa longs.",
     "8h work-done long is 3 views. Rainforest 35, Spa Bowls 33, Ocean Night 38. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
-    "Top 28d (Studio Content breakdown 2026-11-24, Oct 27 – Nov 23, 2026): First Light on the Water | Deep Work Music for Focus, Study & Flow | Morntide 106 views/0.2h; This is how you finish the task you keep avoiding #shorts #focus 61 views/0.0h; Can't Get Into Deep Work? Play This for Focus 46 views/0.5h; Can't Get Into the Flow? Play This for Deep Focus 43 views/7.7h; Then It Flies Off… Calm Birdsong & Piano for Study #shorts 41 views/0.0h; Can't Stay in the Zone? Play This for Deep Work 40 views/1.4h; Merengue, but make it lo-fi 34 views/0.0h; Can't Get Into Deep Work? Play This for Focus 32 views/4.6h; Real Backyard Birdsong + Soft Piano for Focus #shorts 31 views/0.0h. Lifetime API: Morning focus music 4,204, Still Tide 1,917, Deep Channel 1,381. shorts90 659 (meter as of Nov 19, 2026).",
-    "Studio 28d CURRENT 50.2h / 607 views / +0; 7d CURRENT 1.9h / 52 (Nov 17 – 23, 2026, +0). Yesterday 2026-11-23: 5 views / 0.0h CURRENT. CTR 1.0% on 9,786 (28d). Analytics API 2026-11-16..2026-11-22 7d 1.9h/54 views, 28d 2026-10-26..2026-11-22 52.0h/1608 views (UNVERIFIED vs Studio; lags a day; not used for KPIs). No Studio identity blocker today (identity PASS: URL channel id + account menu @morntidemusic; pull status OK). Earn meter 922 as of Nov 19, 2026, unchanged from 922 (as of 2026-11-18). Data API video_count 42 / channel_views 21,642 CURRENT. 28d views fell from 1,617 to 607 as the window rolled to Oct 27 – Nov 23, 2026 (the prior desk's Electric Piano 1,001-view / 1.7h 28d row is no longer in this window; as displayed). Do not log Earn as 0 from a blank Earn tab or Memberships card. No snapshots backfilled for Nov 14–20."
+    "Top 28d (Studio Content breakdown 2026-11-25, Oct 28 – Nov 24, 2026): First Light on the Water | Deep Work Music for Focus, Study & Flow | Morntide 107 views/0.2h; This is how you finish the task you keep avoiding #shorts #focus 61 views/0.0h; Can't Get Into Deep Work? Play This for Focus 46 views/0.5h; Then It Flies Off… Calm Birdsong & Piano for Study #shorts 41 views/0.0h; Can't Stay in the Zone? Play This for Deep Work 40 views/1.4h; Merengue, but make it lo-fi 34 views/0.0h; Can't Get Into Deep Work? Play This for Focus 32 views/4.6h; Real Backyard Birdsong + Soft Piano for Focus #shorts 31 views/0.0h; Can't Get Into the Flow? Play This for Deep Focus 26 views/1.1h; Can Merengue Lo-Fi Actually Help You Focus? 25 views/0.3h. Lifetime API: Morning focus music 4,204, Still Tide 1,917, Deep Channel 1,381. shorts90 660 (meter as of Nov 20, 2026).",
+    "Studio 28d CURRENT 43.5h / 588 views / -1; 7d CURRENT 1.9h / 51 (Nov 18 – 24, 2026, n/a (not in today's REPORT; not estimated)). Yesterday 2026-11-24: 6 views / 0.0h CURRENT. CTR 1.0% on 9,506 (28d). Analytics API 2026-11-17..2026-11-23 7d 1.9h/47 views, 28d 2026-10-27..2026-11-23 50.2h/602 views (UNVERIFIED vs Studio; lags a day; not used for KPIs). No Studio identity blocker today (identity PASS: URL channel id + account menu @morntidemusic; pull status OK). Earn meter 922 as of Nov 20, 2026, unchanged from 922 (as of 2026-11-19). Data API video_count 42 / channel_views 21,652 CURRENT. 28d views fell from 607 to 588 and hours from 50.2 to 43.5 as the window rolled to Oct 28 – Nov 24, 2026 (as displayed, not estimated). Do not log Earn as 0 from a blank Earn tab or Memberships card. No snapshots backfilled for Nov 14–20."
   ]
 }
