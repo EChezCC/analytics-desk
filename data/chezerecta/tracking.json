@@ -1,6 +1,6 @@
 {
- "fetched": "2026-11-26T09:09-05:00",
- "subs_public": 6130,
+ "fetched": "2026-11-26T09:55-05:00",
+ "subs_public": 6140,
  "studio_day": "2026-11-26",
  "subs_studio": 6104,
  "earn": null,
@@ -15,7 +15,7 @@
   {
    "id": "0R0I7iQncTo",
    "title": "For Connoisseurs Only: The 20 Essential Salsa Baúl Anthems You Can't Miss",
-   "views": 1600,
+   "views": 1700,
    "duration": 6756,
    "live": null
   },
@@ -29,7 +29,7 @@
   {
    "id": "auQYqMEFXsg",
    "title": "¡Solo Éxitos! Merengue de los 90: La Mejor Selección para tu Fiesta 💃🔥",
-   "views": 32000,
+   "views": 34000,
    "duration": 5257,
    "live": null
   },
@@ -64,7 +64,7 @@
   {
    "id": "sRMAtMQO4K0",
    "title": "Only the Best: 90s Freestyle Classics (Locked Play Order) 🕺",
-   "views": 582,
+   "views": 583,
    "duration": 6308,
    "live": null
   },
@@ -897,7 +897,7 @@
   {
    "id": "N4X76EMEBZA",
    "title": "DJ Chezerecta - Rompe Culo (Official Video) | Dominican Dembow",
-   "views": 103,
+   "views": 104,
    "duration": 165,
    "live": null
   },
@@ -948,7 +948,7 @@
   {
    "id": "BhlzJfQDaRM",
    "title": "DJ Chezerecta Radio (En Vivo / Live) | Latin Mix | Nov 24, 2026",
-   "views": 152,
+   "views": 153,
    "duration": 13969,
    "live": "was_live",
    "tag": null
@@ -1071,17 +1071,29 @@
    "title": "Noches Sonideras (album)",
    "type": "album",
    "date": "2026-11-21",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-11-19 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/noches-sonideras-ep/6828186461",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kVCdLypozMkaNoGXTYzXx3BS3L0gkEDxU",
+    "Amazon": "https://music.amazon.com/albums/B0HPMM3VVH",
+    "Tidal": "https://tidal.com/browse/album/574067673",
+    "Deezer": "https://www.deezer.com/album/1133183011"
+   },
+   "checked": "2026-11-26 09:50 ET"
   },
   {
    "title": "Dos Cafés y un Adiós",
    "type": "single",
    "date": "2026-11-20",
-   "status": "pending",
-   "stores": {},
-   "checked": "2026-11-19 09:55 ET"
+   "status": "live",
+   "stores": {
+    "Apple": "https://music.apple.com/us/album/dos-caf%C3%A9s-y-un-adi%C3%B3s-single/6828265604",
+    "YouTube": "https://music.youtube.com/playlist?list=OLAK5uy_kXmYxOvyYBeJX7QL5mHQ-FKAsZBKCHJS0",
+    "Amazon": "https://music.amazon.com/albums/B0HPN3GJXZ?trackAsin=B0HPMXJV3K",
+    "Tidal": "https://tidal.com/browse/track/574136813",
+    "Deezer": "https://www.deezer.com/album/1133439031"
+   },
+   "checked": "2026-11-26 09:50 ET"
   },
   {
    "title": "Soft Fire",
