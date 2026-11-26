@@ -1,8 +1,8 @@
 {
  "domain": "morntidemusic.com",
  "range": {
-  "start": "2026-10-28",
-  "end": "2026-11-24"
+  "start": "2026-10-29",
+  "end": "2026-11-25"
  },
  "ga4_note": "Admin API lookup unavailable (Admin API 403); using seo-api configured ID 558780885 (name not verified)",
  "ga4_property": "558780885",
@@ -84,24 +84,30 @@
   "sessions": 12,
   "pageviews": 12
  },
- "ga4_filter": "hostName in morntidemusic.com (+www), pagePath in sitemap allowlist (99 paths)",
+ "ga4_filter": "hostName in morntidemusic.com (+www), pagePath in sitemap allowlist (107 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "https://morntidemusic.com/",
   "clicks": 0,
-  "impressions": 33,
+  "impressions": 37,
   "top_queries": [
+   {
+    "query": "morning tide",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 11
+   },
    {
     "query": "morningtide music happy alarm clock",
     "clicks": 0,
-    "impressions": 3,
-    "position": 9
+    "impressions": 4,
+    "position": 8.2
    },
    {
     "query": "morntide",
     "clicks": 0,
-    "impressions": 6,
-    "position": 2.8
+    "impressions": 5,
+    "position": 3
    }
   ]
  }

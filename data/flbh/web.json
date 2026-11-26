@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-28",
-  "end": "2026-11-24"
+  "start": "2026-10-29",
+  "end": "2026-11-25"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 2600,
-  "sessions": 2616,
-  "pageviews": 2671,
+  "users": 2591,
+  "sessions": 2607,
+  "pageviews": 2658,
   "daily": [
-   {
-    "day": "2026-10-28",
-    "users": 14,
-    "sessions": 15,
-    "pageviews": 18
-   },
    {
     "day": "2026-10-29",
     "users": 59,
@@ -177,6 +171,12 @@
     "users": 22,
     "sessions": 22,
     "pageviews": 22
+   },
+   {
+    "day": "2026-11-25",
+    "users": 5,
+    "sessions": 5,
+    "pageviews": 5
    }
   ],
   "top_pages": [
@@ -201,17 +201,7 @@
     "users": 6
    },
    {
-    "page": "/guides/florida-channel-markers-icw",
-    "views": 5,
-    "users": 4
-   },
-   {
     "page": "/ramps/",
-    "views": 5,
-    "users": 5
-   },
-   {
-    "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
     "views": 5,
     "users": 5
    },
@@ -226,7 +216,17 @@
     "users": 5
    },
    {
-    "page": "/guides/",
+    "page": "/guides/florida-channel-markers-icw",
+    "views": 4,
+    "users": 4
+   },
+   {
+    "page": "/ramps/calhoun/redds-landing-public-boat-ramp",
+    "views": 4,
+    "users": 4
+   },
+   {
+    "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
     "views": 4,
     "users": 4
    }
@@ -234,11 +234,11 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 2496
+    "sessions": 2489
    },
    {
     "channel": "Organic Search",
-    "sessions": 104
+    "sessions": 100
    },
    {
     "channel": "AI Assistant",
@@ -259,16 +259,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 2766,
-  "sessions": 2781,
-  "pageviews": 2841
+  "users": 2757,
+  "sessions": 2772,
+  "pageviews": 2827
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (10531 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 41,
+  "impressions": 43,
   "top_queries": [
    {
     "query": "bass boat",
@@ -321,7 +321,7 @@
    {
     "query": "tiderider boat docks hobe sound",
     "clicks": 0,
-    "impressions": 1,
+    "impressions": 2,
     "position": 98
    },
    {
