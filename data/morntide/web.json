@@ -1,8 +1,8 @@
 {
  "domain": "morntidemusic.com",
  "range": {
-  "start": "2026-10-29",
-  "end": "2026-11-25"
+  "start": "2026-10-30",
+  "end": "2026-11-26"
  },
  "ga4_note": "Admin API lookup unavailable (Admin API 403); using seo-api configured ID 558780885 (name not verified)",
  "ga4_property": "558780885",
@@ -89,13 +89,13 @@
  "gsc": {
   "property": "https://morntidemusic.com/",
   "clicks": 0,
-  "impressions": 37,
+  "impressions": 40,
   "top_queries": [
    {
     "query": "morning tide",
     "clicks": 0,
-    "impressions": 1,
-    "position": 11
+    "impressions": 2,
+    "position": 9.5
    },
    {
     "query": "morningtide music happy alarm clock",

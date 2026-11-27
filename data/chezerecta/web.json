@@ -1,21 +1,15 @@
 {
  "domain": "djchezerecta.com",
  "range": {
-  "start": "2026-10-29",
-  "end": "2026-11-25"
+  "start": "2026-10-30",
+  "end": "2026-11-26"
  },
  "ga4_property": "558598980",
  "ga4": {
-  "users": 117,
-  "sessions": 141,
-  "pageviews": 191,
+  "users": 119,
+  "sessions": 148,
+  "pageviews": 192,
   "daily": [
-   {
-    "day": "2026-10-29",
-    "users": 6,
-    "sessions": 7,
-    "pageviews": 13
-   },
    {
     "day": "2026-10-30",
     "users": 7,
@@ -177,23 +171,29 @@
     "users": 5,
     "sessions": 5,
     "pageviews": 13
+   },
+   {
+    "day": "2026-11-26",
+    "users": 8,
+    "sessions": 14,
+    "pageviews": 14
    }
   ],
   "top_pages": [
    {
     "page": "/es/",
-    "views": 65,
-    "users": 46
+    "views": 66,
+    "users": 48
    },
    {
     "page": "/",
-    "views": 42,
-    "users": 33
+    "views": 44,
+    "users": 34
    },
    {
     "page": "/es/player/",
-    "views": 7,
-    "users": 6
+    "views": 6,
+    "users": 5
    },
    {
     "page": "/es/historia-de-la-musica/",
@@ -221,28 +221,28 @@
     "users": 1
    },
    {
-    "page": "/player/",
-    "views": 4,
-    "users": 2
-   },
-   {
     "page": "/es/releases/cumbia-mix-2026/",
     "views": 3,
     "users": 3
+   },
+   {
+    "page": "/player/",
+    "views": 3,
+    "users": 2
    }
   ],
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 61
+    "sessions": 68
    },
    {
     "channel": "Organic Video",
-    "sessions": 53
+    "sessions": 54
    },
    {
     "channel": "Organic Search",
-    "sessions": 21
+    "sessions": 20
    },
    {
     "channel": "Organic Social",
@@ -250,21 +250,21 @@
    },
    {
     "channel": "Unassigned",
-    "sessions": 1
+    "sessions": 2
    }
   ]
  },
  "ga4_raw": {
-  "users": 122,
-  "sessions": 146,
-  "pageviews": 203
+  "users": 124,
+  "sessions": 153,
+  "pageviews": 204
  },
  "ga4_filter": "hostName in djchezerecta.com (+www), pagePath in sitemap allowlist (563 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:djchezerecta.com",
   "clicks": 7,
-  "impressions": 245,
+  "impressions": 243,
   "top_queries": [
    {
     "query": "as\u00ed de cerca",

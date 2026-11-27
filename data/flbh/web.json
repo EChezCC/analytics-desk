@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-29",
-  "end": "2026-11-25"
+  "start": "2026-10-30",
+  "end": "2026-11-26"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 2591,
-  "sessions": 2607,
-  "pageviews": 2658,
+  "users": 2544,
+  "sessions": 2558,
+  "pageviews": 2588,
   "daily": [
-   {
-    "day": "2026-10-29",
-    "users": 59,
-    "sessions": 60,
-    "pageviews": 82
-   },
    {
     "day": "2026-10-30",
     "users": 164,
@@ -177,6 +171,12 @@
     "users": 5,
     "sessions": 5,
     "pageviews": 5
+   },
+   {
+    "day": "2026-11-26",
+    "users": 12,
+    "sessions": 12,
+    "pageviews": 12
    }
   ],
   "top_pages": [
@@ -187,8 +187,8 @@
    },
    {
     "page": "/ramps/pinellas/fred-howard-park-wave-runner-launch-area",
-    "views": 8,
-    "users": 8
+    "views": 9,
+    "users": 9
    },
    {
     "page": "/ramps/franklin/",
@@ -234,11 +234,11 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 2489
+    "sessions": 2444
    },
    {
     "channel": "Organic Search",
-    "sessions": 100
+    "sessions": 97
    },
    {
     "channel": "AI Assistant",
@@ -246,7 +246,7 @@
    },
    {
     "channel": "Unassigned",
-    "sessions": 2
+    "sessions": 3
    },
    {
     "channel": "Organic Social",
@@ -259,16 +259,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 2757,
-  "sessions": 2772,
-  "pageviews": 2827
+  "users": 2706,
+  "sessions": 2720,
+  "pageviews": 2750
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (10531 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 43,
+  "impressions": 47,
   "top_queries": [
    {
     "query": "bass boat",
@@ -301,6 +301,12 @@
     "position": 97
    },
    {
+    "query": "snook freshwater",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 98
+   },
+   {
     "query": "snook saltwater",
     "clicks": 0,
     "impressions": 1,
@@ -321,14 +327,8 @@
    {
     "query": "tiderider boat docks hobe sound",
     "clicks": 0,
-    "impressions": 2,
-    "position": 98
-   },
-   {
-    "query": "yes",
-    "clicks": 0,
-    "impressions": 1,
-    "position": 3
+    "impressions": 3,
+    "position": 98.3
    }
   ]
  }

@@ -150,10 +150,14 @@
     {
      "day": "2026-11-26",
      "value": 499
+    },
+    {
+     "day": "2026-11-27",
+     "value": 499
     }
    ],
    "rate_per_day": 0.0,
-   "window": "2026-10-14 to 2026-11-26 (43 days)",
+   "window": "2026-10-14 to 2026-11-27 (44 days)",
    "last": 499,
    "status": "No net growth in window; no projection."
   },
@@ -293,11 +297,15 @@
     {
      "day": "2026-11-21",
      "value": 922
+    },
+    {
+     "day": "2026-11-22",
+     "value": 923
     }
    ],
-   "rate_per_day": -0.093,
-   "window": "2026-10-09 to 2026-11-21 (43 days)",
-   "last": 922,
+   "rate_per_day": -0.068,
+   "window": "2026-10-09 to 2026-11-22 (44 days)",
+   "last": 923,
    "status": "No net growth in window; no projection."
   }
  ]

@@ -1,10 +1,17 @@
 {
- "fetched": "2026-11-26T09:55-05:00",
+ "fetched": "2026-11-27T05:52-05:00",
  "subs_public": 499,
- "studio_day": "2026-11-26",
+ "studio_day": "2026-11-27",
  "subs_studio": 499,
- "earn": 922,
+ "earn": 923,
  "uploads": [
+  {
+   "id": "2TQeCPvbjLI",
+   "title": "Why Your Brain Chooses Distraction Over Deep Work (The Dopamine Loop) | Morntide Focus Lab",
+   "views": 5,
+   "duration": 501,
+   "live": null
+  },
   {
    "id": "v77LXIspISY",
    "title": "Why Your Brain Won't Focus (And 5 Science-Backed Ways to Fix It) | Morntide Focus Lab",
@@ -15,7 +22,7 @@
   {
    "id": "Zite4mNEgIc",
    "title": "Deep Focus Instrumental Music — 1 Hour Coastal Morning Flow for Work & Study | Morntide",
-   "views": 36,
+   "views": 41,
    "duration": 3624,
    "live": null
   },
@@ -421,7 +428,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-26)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-27)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
