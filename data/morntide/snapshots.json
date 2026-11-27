@@ -1,5 +1,28 @@
 [
  {
+  "day": "2026-11-27",
+  "subs": 499,
+  "subs_api_rounded": 499,
+  "earn": 923,
+  "an7": 1.9,
+  "an28": 40.7,
+  "views7": 184,
+  "views28": 682,
+  "channel_views": 21785,
+  "video_count": 48,
+  "channel": "@morntidemusic",
+  "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+  "source": "Studio eyes-on 2026-11-27 ~5:36 AM EST @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (URL channel id + account menu; subs exact from Earn + dashboard + Insights Total (realtime_subs 499; live-count not opened); Earn, shorts90, 7d views/hours/CTR/impressions/subs_change, 28d, 28d CTR/impressions, yesterday, content top CURRENT; pull status OK) + Data API CURRENT ~5:21 AM EST",
+  "notes": "Subs 499 CURRENT Studio exact (API 499; live-count not opened). Earn 923 CURRENT (as of Nov 22, 2026; up from 922 as of 2026-11-21). video_count 48 CURRENT Data API (was 46). shorts90 660 CURRENT. uploads_90d 3/3 CURRENT. 7d 1.9h/184 CURRENT (Nov 20 – Nov 26, 2026, -1). 28d 40.7h/682 CURRENT (Oct 30 – Nov 26, 2026, -1). day_views/day_watch_hours = Studio single-day for 2026-11-26 (48 / 0.0h, 0.0 as displayed). CTR/impressions 28d CURRENT 1.0% / 12068. 7d CTR/impressions CURRENT 1.0% / 4223. Analytics API 2026-11-19..2026-11-25 7d 0.1h/38 views, 28d 2026-10-29..2026-11-25 43.5h/585 views (UNVERIFIED vs Studio; lags a day; not used for KPIs; analytics-api.json was missing from this morning's Desk Studio pull folder, so YCM ran pull_analytics_api.py at ~5:38 AM EST, channel_hard PASS). No snapshots backfilled for Nov 14–20.",
+  "shorts90": 660,
+  "ctr28": 1.0,
+  "impr28": 12068,
+  "day_views": 48,
+  "day_watch_hours": 0.0,
+  "day_date": "2026-11-26",
+  "note": "All Studio figures CURRENT 2026-11-27 (eyes-on; pull status OK); subs 499 Studio exact; Earn 923 as of Nov 22, 2026 (up from 922); yesterday bars for 2026-11-26"
+ },
+ {
   "day": "2026-11-26",
   "subs": 499,
   "subs_api_rounded": 499,
