@@ -1,21 +1,15 @@
 {
  "domain": "flboatinghub.com",
  "range": {
-  "start": "2026-10-30",
-  "end": "2026-11-26"
+  "start": "2026-10-31",
+  "end": "2026-11-27"
  },
  "ga4_property": "546216215",
  "ga4": {
-  "users": 2544,
-  "sessions": 2558,
-  "pageviews": 2588,
+  "users": 2401,
+  "sessions": 2412,
+  "pageviews": 2447,
   "daily": [
-   {
-    "day": "2026-10-30",
-    "users": 164,
-    "sessions": 164,
-    "pageviews": 163
-   },
    {
     "day": "2026-10-31",
     "users": 72,
@@ -177,13 +171,19 @@
     "users": 12,
     "sessions": 12,
     "pageviews": 12
+   },
+   {
+    "day": "2026-11-27",
+    "users": 20,
+    "sessions": 20,
+    "pageviews": 22
    }
   ],
   "top_pages": [
    {
     "page": "/",
-    "views": 27,
-    "users": 26
+    "views": 26,
+    "users": 25
    },
    {
     "page": "/ramps/pinellas/fred-howard-park-wave-runner-launch-area",
@@ -201,6 +201,16 @@
     "users": 6
    },
    {
+    "page": "/guides/florida-channel-markers-icw",
+    "views": 5,
+    "users": 5
+   },
+   {
+    "page": "/map/",
+    "views": 5,
+    "users": 4
+   },
+   {
     "page": "/ramps/",
     "views": 5,
     "users": 5
@@ -216,17 +226,7 @@
     "users": 5
    },
    {
-    "page": "/guides/florida-channel-markers-icw",
-    "views": 4,
-    "users": 4
-   },
-   {
     "page": "/ramps/calhoun/redds-landing-public-boat-ramp",
-    "views": 4,
-    "users": 4
-   },
-   {
-    "page": "/ramps/charlotte/punta-gorda-municipal-marina-aka-laishley-park",
     "views": 4,
     "users": 4
    }
@@ -234,19 +234,19 @@
   "sources": [
    {
     "channel": "Direct",
-    "sessions": 2444
+    "sessions": 2302
    },
    {
     "channel": "Organic Search",
-    "sessions": 97
+    "sessions": 95
    },
    {
     "channel": "AI Assistant",
-    "sessions": 12
+    "sessions": 11
    },
    {
     "channel": "Unassigned",
-    "sessions": 3
+    "sessions": 2
    },
    {
     "channel": "Organic Social",
@@ -259,16 +259,16 @@
   ]
  },
  "ga4_raw": {
-  "users": 2706,
-  "sessions": 2720,
-  "pageviews": 2750
+  "users": 2557,
+  "sessions": 2567,
+  "pageviews": 2606
  },
  "ga4_filter": "hostName in flboatinghub.com (+www), pagePath in sitemap allowlist (10531 paths)",
  "bot_spikes": [],
  "gsc": {
   "property": "sc-domain:flboatinghub.com",
   "clicks": 0,
-  "impressions": 47,
+  "impressions": 49,
   "top_queries": [
    {
     "query": "bass boat",
@@ -283,10 +283,16 @@
     "position": 25
    },
    {
+    "query": "how to read channel markers in the intracoastal waterway",
+    "clicks": 0,
+    "impressions": 1,
+    "position": 48
+   },
+   {
     "query": "naples boat ramps",
     "clicks": 0,
-    "impressions": 4,
-    "position": 58
+    "impressions": 5,
+    "position": 56.2
    },
    {
     "query": "rainbow trout florida",
@@ -323,12 +329,6 @@
     "clicks": 0,
     "impressions": 2,
     "position": 42.5
-   },
-   {
-    "query": "tiderider boat docks hobe sound",
-    "clicks": 0,
-    "impressions": 3,
-    "position": 98.3
    }
   ]
  }

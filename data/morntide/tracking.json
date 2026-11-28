@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-27T09:58-05:00",
+ "fetched": "2026-11-28T05:55-05:00",
  "subs_public": 499,
- "studio_day": "2026-11-27",
+ "studio_day": "2026-11-28",
  "subs_studio": 499,
  "earn": 923,
  "uploads": [
@@ -22,7 +22,7 @@
   {
    "id": "Zite4mNEgIc",
    "title": "Deep Focus Instrumental Music — 1 Hour Coastal Morning Flow for Work & Study | Morntide",
-   "views": 41,
+   "views": 42,
    "duration": 3624,
    "live": null
   },
@@ -428,7 +428,7 @@
  ],
  "sources": {
   "youtube": "yt-dlp public /videos and /streams tabs",
-  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-27)",
+  "hours": "YouTube Studio Earn reading in data/morntide/latest.json (2026-11-28)",
   "releases": "DistroKid Streaming Link Registry CSV"
  }
 }
